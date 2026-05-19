@@ -1,0 +1,536 @@
+{
+  "classes": [
+    {
+      "active": true,
+      "description": "single note (dash)",
+      "display_name": "Tractulus",
+      "id": 0,
+      "key": "punctum"
+    },
+    {
+      "active": true,
+      "description": "Two notes descending",
+      "display_name": "Clivis",
+      "id": 1,
+      "key": "clivis"
+    },
+    {
+      "active": true,
+      "description": "Two notes ascending",
+      "display_name": "Podatus",
+      "id": 2,
+      "key": "podatus"
+    },
+    {
+      "active": true,
+      "description": "Three notes: low-high-low",
+      "display_name": "Torculus",
+      "id": 3,
+      "key": "torculus"
+    },
+    {
+      "active": true,
+      "description": "Three notes ascending",
+      "display_name": "Scandicus",
+      "id": 4,
+      "key": "scandicus"
+    },
+    {
+      "active": true,
+      "description": "Three+ notes descending",
+      "display_name": "Climacus",
+      "id": 5,
+      "key": "climacus"
+    },
+    {
+      "active": true,
+      "description": "Three notes: high-low-high",
+      "display_name": "Porrectus",
+      "id": 6,
+      "key": "porrectus"
+    },
+    {
+      "active": true,
+      "description": "Two notes ascending",
+      "display_name": "Pes",
+      "id": 7,
+      "key": "pes"
+    },
+    {
+      "active": true,
+      "description": "Single note with stem",
+      "display_name": "Virga",
+      "id": 8,
+      "key": "virga"
+    },
+    {
+      "active": true,
+      "description": "Ornamental wavy note",
+      "display_name": "Oriscus",
+      "id": 9,
+      "key": "oriscus"
+    },
+    {
+      "active": true,
+      "description": "Ornamental neume",
+      "display_name": "Quilisma",
+      "id": 10,
+      "key": "quilisma"
+    },
+    {
+      "active": true,
+      "description": "Repeated note with special articulation",
+      "display_name": "Stropha",
+      "id": 11,
+      "key": "stropha"
+    },
+    {
+      "active": true,
+      "description": "Compound neume with held note",
+      "display_name": "Pressus",
+      "id": 12,
+      "key": "pressus"
+    },
+    {
+      "active": true,
+      "description": "Two strophae",
+      "display_name": "Bistropha",
+      "id": 13,
+      "key": "bistropha"
+    },
+    {
+      "active": true,
+      "description": "Three strophae",
+      "display_name": "Tristropha",
+      "id": 14,
+      "key": "tristropha"
+    },
+    {
+      "active": true,
+      "description": "Two virgae on same pitch",
+      "display_name": "Bivirga",
+      "id": 15,
+      "key": "bivirga"
+    },
+    {
+      "active": true,
+      "description": "Three virgae on same pitch",
+      "display_name": "Trivirga",
+      "id": 16,
+      "key": "trivirga"
+    },
+    {
+      "active": true,
+      "description": "Pes followed by two descending puncta",
+      "display_name": "Pes Subbipunctis",
+      "id": 17,
+      "key": "pes subbipunctis"
+    },
+    {
+      "active": true,
+      "description": "Scandicus with descending final note",
+      "display_name": "Scandicus Flexus",
+      "id": 18,
+      "key": "scandicus flexus"
+    },
+    {
+      "active": true,
+      "description": "Torculus with ascending final note",
+      "display_name": "Torculus Resupinus",
+      "id": 19,
+      "key": "torculus resupinus"
+    },
+    {
+      "active": true,
+      "description": "Porrectus with descending final note",
+      "display_name": "Porrectus Flexus",
+      "id": 20,
+      "key": "porrectus flexus"
+    },
+    {
+      "active": true,
+      "description": "Hook-shaped neume",
+      "display_name": "Uncinus",
+      "id": 21,
+      "key": "uncinus"
+    },
+    {
+      "active": true,
+      "description": "Quick descending-ascending figure",
+      "display_name": "Celeriter",
+      "id": 22,
+      "key": "celeriter"
+    },
+    {
+      "active": true,
+      "description": "Ascending with rhythmic marking",
+      "display_name": "Salicus",
+      "id": 23,
+      "key": "salicus"
+    },
+    {
+      "active": true,
+      "description": "Liquescent note",
+      "display_name": "Apostropha",
+      "id": 24,
+      "key": "apostropha"
+    },
+    {
+      "active": true,
+      "description": "Single note with stem, with episema",
+      "display_name": "Virga episema",
+      "id": 25,
+      "key": "virga episema"
+    },
+    {
+      "active": true,
+      "description": "Two notes descending, with episema",
+      "display_name": "Clivis episema",
+      "id": 26,
+      "key": "clivis episema"
+    },
+    {
+      "active": true,
+      "description": "Three+ notes descending, with episema",
+      "display_name": "Climacus episema",
+      "id": 27,
+      "key": "climacus episema"
+    },
+    {
+      "active": true,
+      "description": "Liquescent note, with episema",
+      "display_name": "Apostropha episema",
+      "id": 28,
+      "key": "apostropha episema"
+    },
+    {
+      "active": true,
+      "description": "Liquescent descending neume",
+      "display_name": "Cephalicus",
+      "id": 29,
+      "key": "cephalicus"
+    },
+    {
+      "active": true,
+      "description": "Repeated equal-pitch motion",
+      "display_name": "Equaliter",
+      "id": 30,
+      "key": "equaliter"
+    },
+    {
+      "active": true,
+      "description": "Lower auxiliary neume",
+      "display_name": "Inferius",
+      "id": 31,
+      "key": "inferius"
+    },
+    {
+      "active": true,
+      "description": "Rising preparatory neume",
+      "display_name": "Levare",
+      "id": 32,
+      "key": "levare"
+    },
+    {
+      "active": true,
+      "description": "Moderately inflected neume",
+      "display_name": "Mediocriter",
+      "id": 33,
+      "key": "mediocriter"
+    },
+    {
+      "active": true,
+      "description": "Pressing/emphatic compound neume",
+      "display_name": "Pressionem",
+      "id": 34,
+      "key": "pressionem"
+    },
+    {
+      "active": true,
+      "description": "Upward-directed auxiliary neume",
+      "display_name": "Sursum",
+      "id": 35,
+      "key": "sursum"
+    },
+    {
+      "active": true,
+      "description": "Triangular-shaped note",
+      "display_name": "Trigon",
+      "id": 36,
+      "key": "trigon"
+    },
+    {
+      "active": true,
+      "description": "Ascending two-note neume with liquescent ending",
+      "display_name": "Pes Liquescens",
+      "id": 37,
+      "key": "pes liquescens"
+    },
+    {
+      "active": true,
+      "description": "Low-high-low neume with liquescent ending",
+      "display_name": "Torculus Liquescens",
+      "id": 38,
+      "key": "torculus liquescens"
+    },
+    {
+      "active": true,
+      "description": "Ascending two-note neume with square form",
+      "display_name": "Pes Quadratus",
+      "id": 39,
+      "key": "pes quadratus"
+    },
+    {
+      "active": true,
+      "description": "Pes quadratus followed by two descending puncta",
+      "display_name": "Pes Quadratus Subbipunctis",
+      "id": 40,
+      "key": "pes quadratus subbipunctis"
+    },
+    {
+      "active": true,
+      "description": "Held/sustained note indication",
+      "display_name": "Tenete",
+      "id": 41,
+      "key": "tenete"
+    },
+    {
+      "active": true,
+      "description": "Porrectus followed by two descending puncta",
+      "display_name": "Porrectus Subbipunctis",
+      "id": 42,
+      "key": "porrectus subbipunctis"
+    },
+    {
+      "active": true,
+      "description": "Extended concluding neume formula",
+      "display_name": "Expectate",
+      "id": 43,
+      "key": "expectate"
+    },
+    {
+      "active": true,
+      "description": "Ascending then descending notes (scandicus + climacus)",
+      "display_name": "Scandicus Climacus",
+      "id": 44,
+      "key": "scandicus climacus"
+    },
+    {
+      "active": true,
+      "description": "Pes followed by three descending puncta",
+      "display_name": "Pes Subtripunctis",
+      "id": 45,
+      "key": "pes subtripunctis"
+    },
+    {
+      "active": true,
+      "description": "Two ascending puncta preceding a pes",
+      "display_name": "Pes Praebipunctis",
+      "id": 46,
+      "key": "pes praebipunctis"
+    },
+    {
+      "active": true,
+      "description": "Two ascending puncta preceding a clivis with episema",
+      "display_name": "Clivis Episema Praebipunctis",
+      "id": 47,
+      "key": "clivis episema praebipunctis"
+    },
+    {
+      "active": true,
+      "description": "Two virgae with episema",
+      "display_name": "Bivirga episemata",
+      "id": 48,
+      "key": "bivirga episamata"
+    },
+    {
+      "active": true,
+      "description": "Single note (dot)",
+      "display_name": "Punctum",
+      "id": 49,
+      "key": "tractulus"
+    },
+    {
+      "active": true,
+      "description": "Pes with episema",
+      "display_name": "Pes episematus",
+      "id": 50,
+      "key": "pes-episematus"
+    },
+    {
+      "active": true,
+      "description": "...",
+      "display_name": "Pes quassus",
+      "id": 51,
+      "key": "pes-quassus"
+    },
+    {
+      "active": true,
+      "description": "...",
+      "display_name": "Pes quassus episematus",
+      "id": 52,
+      "key": "pes-quassus-episematus"
+    },
+    {
+      "active": true,
+      "description": "single note (dash) with",
+      "display_name": "Tractulus cum episema",
+      "id": 53,
+      "key": "tractulus episema"
+    },
+    {
+      "active": true,
+      "description": "Two notes ascending, first with quilisma, second with episema, two notes descending",
+      "display_name": "Quilismapes cum episema subbipunctis",
+      "id": 54,
+      "key": "quilismapes cum episema subbipunctis"
+    },
+    {
+      "active": true,
+      "description": "Three notes: low-high-low, first quilisma",
+      "display_name": "Quilismatorculus",
+      "id": 55,
+      "key": "quilismatorculus"
+    },
+    {
+      "active": true,
+      "description": "Three notes: low-high-low, first quilisma, with episema",
+      "display_name": "Quilismatorculus cum episema",
+      "id": 56,
+      "key": "quilismatorculus cum episema"
+    },
+    {
+      "active": true,
+      "description": "Pes, first note quilisma, followed by two descending puncta",
+      "display_name": "Quilismapes subbipunctis",
+      "id": 57,
+      "key": "quilismapes subbipunctis"
+    },
+    {
+      "active": true,
+      "description": "Two notes: First same as note before, second descending",
+      "display_name": "Pressus minor",
+      "id": 58,
+      "key": "pressus minor"
+    },
+    {
+      "active": true,
+      "description": "Three notes: first and second same, third descending",
+      "display_name": "Pressus maior",
+      "id": 59,
+      "key": "pressus maior"
+    },
+    {
+      "active": true,
+      "description": "Two same notes, second oriscus",
+      "display_name": "Virga strata",
+      "id": 60,
+      "key": "virga strata"
+    },
+    {
+      "active": true,
+      "description": "Birvirga with episema followed by two descending notes",
+      "display_name": "Bivirga episemata subbipunctis",
+      "id": 61,
+      "key": "bivirga episemata subbipunctis"
+    },
+    {
+      "active": true,
+      "description": "Pes with episema followed by two descending notes",
+      "display_name": "Pes episematus subbipunctis",
+      "id": 62,
+      "key": "pes episematus subbipunctis"
+    },
+    {
+      "active": true,
+      "description": "Two notes descending, second liquescent",
+      "display_name": "Virga liquescens",
+      "id": 63,
+      "key": "virga liquescens"
+    },
+    {
+      "active": true,
+      "description": "Four notes: First two descending, third same as second with oriscus, fourth descending",
+      "display_name": "Clivis pressus minor",
+      "id": 64,
+      "key": "clivis pressus minor"
+    },
+    {
+      "active": true,
+      "description": "Five notes:  low-high-low-high-low",
+      "display_name": "Torculus resupinus flexus",
+      "id": 65,
+      "key": "torculus resupinus flexus"
+    },
+    {
+      "active": true,
+      "description": "Salicus with episema",
+      "display_name": "Salicus episematus",
+      "id": 66,
+      "key": "salicus episematus"
+    },
+    {
+      "active": true,
+      "description": "Salicus with liquescence",
+      "display_name": "Salicus liquescens",
+      "id": 67,
+      "key": "salicus liquescens"
+    },
+    {
+      "active": true,
+      "description": "Salicus followed by two descending notes",
+      "display_name": "Salicus subbipunctis",
+      "id": 68,
+      "key": "salicus subbipunctis"
+    },
+    {
+      "active": true,
+      "description": "",
+      "display_name": "statim",
+      "id": 69,
+      "key": "statim"
+    },
+    {
+      "active": true,
+      "description": "Torculus with episema",
+      "display_name": "Torculus cum episema",
+      "id": 70,
+      "key": "torculus cum episema"
+    },
+    {
+      "active": true,
+      "description": "Scandicus with episema",
+      "display_name": "Scandicus cum episema",
+      "id": 71,
+      "key": "scandicus cum episema"
+    },
+    {
+      "active": true,
+      "description": "Porrectus with episema",
+      "display_name": "Porrectus cum episema",
+      "id": 72,
+      "key": "porrectus cum episema"
+    },
+    {
+      "active": true,
+      "description": "Quilisam with episema",
+      "display_name": "Quilisma cum episema",
+      "id": 73,
+      "key": "quilisma cum episema"
+    },
+    {
+      "active": true,
+      "description": "Torculus resupinus cum episema",
+      "display_name": "Torculus resupinus cum episema",
+      "id": 74,
+      "key": "torculus resupinus cum episema"
+    },
+    {
+      "active": true,
+      "description": "",
+      "display_name": "Unknown",
+      "id": 75,
+      "key": "unknown"
+    }
+  ]
+}

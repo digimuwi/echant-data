@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "description": "Default bucket for contributions not yet assigned to a real manuscript."
+  },
+  "pages": [
+    {
+      "folio_label": "page-0001",
+      "image": "page-0001.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0002",
+      "image": "page-0002.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0003",
+      "image": "page-0003.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0004",
+      "image": "page-0004.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0005",
+      "image": "page-0005.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0006",
+      "image": "page-0006.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0007",
+      "image": "page-0007.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0008",
+      "image": "page-0008.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0009",
+      "image": "page-0009.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0010",
+      "image": "page-0010.png",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0011",
+      "image": "page-0011.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "page-0012",
+      "image": "page-0012.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": null,
+  "slug": "uncategorized",
+  "source_url": null,
+  "title": "Uncategorized contributions"
+}
