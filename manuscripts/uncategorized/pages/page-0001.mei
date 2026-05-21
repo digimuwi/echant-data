@@ -90,7 +90,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-00000001-0004-0000-0000-000000000000" xml:id="syl-00000001-0004-0000-0000-000000000000">
-                  <syl con="s" wordpos="s">eo</syl>
+                  <syl con="s" wordpos="s">&amp;</syl>
                   <neume facs="#zone-n-n0000004-0000-0000-0000-000000000000" neumeType="pes quadratus" xml:id="n-n0000004-0000-0000-0000-000000000000">
                     <nc intm="s"/>
                     <nc intm="u"/>
@@ -103,7 +103,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-00000001-0006-0000-0000-000000000000" xml:id="syl-00000001-0006-0000-0000-000000000000">
-                  <syl con="d" wordpos="i">vn</syl>
+                  <syl con="d" wordpos="i">vi</syl>
                   <neume facs="#zone-n-n0000006-0000-0000-0000-000000000000" neumeType="virga" xml:id="n-n0000006-0000-0000-0000-000000000000">
                     <nc intm="s"/>
                   </neume>
