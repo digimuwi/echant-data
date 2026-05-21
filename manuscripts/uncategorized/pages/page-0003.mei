@@ -631,7 +631,7 @@
                     <nc intm="s"/>
                   </neume>
                   <neume facs="#zone-n-n0000058-0000-0000-0000-000000000000" neumeType="punctum" xml:id="n-n0000058-0000-0000-0000-000000000000">
-                    <nc/>
+                    <nc intm="s"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-00000003-0002-0000-0000-000000000000" xml:id="syl-00000003-0002-0000-0000-000000000000">
@@ -650,7 +650,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-00000003-0004-0000-0000-000000000000" xml:id="syl-00000003-0004-0000-0000-000000000000">
                   <syl con="d" wordpos="m">xis</syl>
-                  <neume facs="#zone-n-n0000051-0000-0000-0000-000000000000" neumeType="virga" xml:id="n-n0000051-0000-0000-0000-000000000000">
+                  <neume facs="#zone-n-n0000051-0000-0000-0000-000000000000" neumeType="punctum" xml:id="n-n0000051-0000-0000-0000-000000000000">
                     <nc intm="s"/>
                   </neume>
                 </syllable>
