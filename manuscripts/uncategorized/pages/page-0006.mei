@@ -704,6 +704,9 @@
                   <neume facs="#zone-n-n0000053-0000-0000-0000-000000000000" neumeType="tractulus episema" xml:id="n-n0000053-0000-0000-0000-000000000000">
                     <nc/>
                   </neume>
+                  <neume facs="#zone-n-n0000060-0000-0000-0000-000000000000" neumeType="quilisma cum episema" xml:id="n-n0000060-0000-0000-0000-000000000000">
+                    <nc/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-00000004-0004-0000-0000-000000000000" xml:id="syl-00000004-0004-0000-0000-000000000000">
                   <syl wordpos="m">to</syl>
@@ -756,9 +759,6 @@
                 <syllable facs="#zone-syl-00000005-0003-0000-0000-000000000000" xml:id="syl-00000005-0003-0000-0000-000000000000">
                   <syl wordpos="i">edu</syl>
                   <neume facs="#zone-n-n0000059-0000-0000-0000-000000000000" neumeType="tractulus episema" xml:id="n-n0000059-0000-0000-0000-000000000000">
-                    <nc/>
-                  </neume>
-                  <neume facs="#zone-n-n0000060-0000-0000-0000-000000000000" neumeType="quilisma cum episema" xml:id="n-n0000060-0000-0000-0000-000000000000">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-n0000061-0000-0000-0000-000000000000" neumeType="clivis episema" xml:id="n-n0000061-0000-0000-0000-000000000000">
