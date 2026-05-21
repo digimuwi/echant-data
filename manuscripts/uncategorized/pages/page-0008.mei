@@ -1669,6 +1669,9 @@
                 </syllable>
                 <syllable facs="#zone-syl-00000013-0003-0000-0000-000000000000" xml:id="syl-00000013-0003-0000-0000-000000000000">
                   <syl wordpos="t">no.</syl>
+                  <neume facs="#zone-n-n0000210-0000-0000-0000-000000000000" neumeType="sursum" xml:id="n-n0000210-0000-0000-0000-000000000000">
+                    <nc/>
+                  </neume>
                   <neume facs="#zone-n-n0000198-0000-0000-0000-000000000000" neumeType="clivis" xml:id="n-n0000198-0000-0000-0000-000000000000">
                     <nc/>
                     <nc intm="d"/>
@@ -1742,9 +1745,6 @@
                     <nc/>
                     <nc intm="d"/>
                     <nc intm="d"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000210-0000-0000-0000-000000000000" neumeType="sursum" xml:id="n-n0000210-0000-0000-0000-000000000000">
-                    <nc/>
                   </neume>
                   <neume facs="#zone-n-n0000211-0000-0000-0000-000000000000" neumeType="torculus cum episema" xml:id="n-n0000211-0000-0000-0000-000000000000">
                     <nc/>
