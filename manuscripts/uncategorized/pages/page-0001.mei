@@ -34,27 +34,6 @@
           <zone lrx="4295" lry="3220" points="4207,3148 4207,3220 4295,3220 4295,3148" ulx="4207" uly="3148" xml:id="zone-syl-00000001-0019-0000-0000-000000000000"/>
           <zone lrx="4333" lry="3220" points="4295,3148 4295,3220 4333,3220 4333,3148" ulx="4295" uly="3148" xml:id="zone-syl-00000001-0020-0000-0000-000000000000"/>
           <zone lrx="4470" lry="3220" points="4333,3148 4333,3220 4470,3220 4470,3148" ulx="4333" uly="3148" xml:id="zone-syl-00000001-0021-0000-0000-000000000000"/>
-          <zone lrx="1879" lry="3129" points="1835,3091 1879,3091 1879,3129 1835,3129" ulx="1835" uly="3091" xml:id="zone-n-n0000001-0000-0000-0000-000000000000"/>
-          <zone lrx="2020" lry="3136" points="1949,3077 2020,3077 2020,3136 1949,3136" ulx="1949" uly="3077" xml:id="zone-n-n0000002-0000-0000-0000-000000000000"/>
-          <zone lrx="2087" lry="3114" points="2059,3100 2087,3100 2087,3114 2059,3114" ulx="2059" uly="3100" xml:id="zone-n-n0000003-0000-0000-0000-000000000000"/>
-          <zone lrx="2277" lry="3126" points="2213,3077 2277,3077 2277,3126 2213,3126" ulx="2213" uly="3077" xml:id="zone-n-n0000004-0000-0000-0000-000000000000"/>
-          <zone lrx="2368" lry="3121" points="2337,3107 2368,3107 2368,3121 2337,3121" ulx="2337" uly="3107" xml:id="zone-n-n0000005-0000-0000-0000-000000000000"/>
-          <zone lrx="2552" lry="3126" points="2515,3094 2552,3094 2552,3126 2515,3126" ulx="2515" uly="3094" xml:id="zone-n-n0000006-0000-0000-0000-000000000000"/>
-          <zone lrx="2685" lry="3113" points="2646,3081 2685,3081 2685,3113 2646,3113" ulx="2646" uly="3081" xml:id="zone-n-n0000007-0000-0000-0000-000000000000"/>
-          <zone lrx="2795" lry="3095" points="2749,3054 2795,3054 2795,3095 2749,3095" ulx="2749" uly="3054" xml:id="zone-n-n0000008-0000-0000-0000-000000000000"/>
-          <zone lrx="2888" lry="3120" points="2818,3055 2888,3055 2888,3120 2818,3120" ulx="2818" uly="3055" xml:id="zone-n-n0000009-0000-0000-0000-000000000000"/>
-          <zone lrx="2979" lry="3120" points="2956,3107 2979,3107 2979,3120 2956,3120" ulx="2956" uly="3107" xml:id="zone-n-n0000010-0000-0000-0000-000000000000"/>
-          <zone lrx="3124" lry="3123" points="3097,3108 3124,3108 3124,3123 3097,3123" ulx="3097" uly="3108" xml:id="zone-n-n0000011-0000-0000-0000-000000000000"/>
-          <zone lrx="3269" lry="3133" points="3206,3087 3269,3087 3269,3133 3206,3133" ulx="3206" uly="3087" xml:id="zone-n-n0000012-0000-0000-0000-000000000000"/>
-          <zone lrx="3433" lry="3114" points="3378,3064 3433,3064 3433,3114 3378,3114" ulx="3378" uly="3064" xml:id="zone-n-n0000013-0000-0000-0000-000000000000"/>
-          <zone lrx="3546" lry="3129" points="3500,3076 3546,3076 3546,3129 3500,3129" ulx="3500" uly="3076" xml:id="zone-n-n0000014-0000-0000-0000-000000000000"/>
-          <zone lrx="3614" lry="3124" points="3587,3108 3614,3108 3614,3124 3587,3124" ulx="3587" uly="3108" xml:id="zone-n-n0000015-0000-0000-0000-000000000000"/>
-          <zone lrx="3757" lry="3121" points="3732,3103 3757,3103 3757,3121 3732,3121" ulx="3732" uly="3103" xml:id="zone-n-n0000016-0000-0000-0000-000000000000"/>
-          <zone lrx="3889" lry="3119" points="3830,3062 3889,3062 3889,3119 3830,3119" ulx="3830" uly="3062" xml:id="zone-n-n0000017-0000-0000-0000-000000000000"/>
-          <zone lrx="4003" lry="3094" points="3951,3044 4003,3044 4003,3094 3951,3094" ulx="3951" uly="3044" xml:id="zone-n-n0000018-0000-0000-0000-000000000000"/>
-          <zone lrx="4220" lry="3104" points="4168,3061 4220,3061 4220,3104 4168,3104" ulx="4168" uly="3061" xml:id="zone-n-n0000019-0000-0000-0000-000000000000"/>
-          <zone lrx="4367" lry="3105" points="4280,3054 4367,3054 4367,3105 4280,3105" ulx="4280" uly="3054" xml:id="zone-n-n0000020-0000-0000-0000-000000000000"/>
-          <zone lrx="4418" lry="3108" points="4387,3089 4418,3089 4418,3108 4387,3108" ulx="4387" uly="3089" xml:id="zone-n-n0000021-0000-0000-0000-000000000000"/>
         </graphic>
       </surface>
     </facsimile>
@@ -71,7 +50,7 @@
               <layer>
                 <lb facs="#zone-line-1" n="1"/>
                 <syllable facs="#zone-syl-00000001-0001-0000-0000-000000000000" xml:id="syl-00000001-0001-0000-0000-000000000000">
-                  <syl con="d" wordpos="i">Hzo</syl>
+                  <syl con="d" wordpos="i">Mo</syl>
                 </syllable>
                 <syllable facs="#zone-syl-00000001-0002-0000-0000-000000000000" xml:id="syl-00000001-0002-0000-0000-000000000000">
                   <syl con="d" wordpos="m">di</syl>
@@ -80,7 +59,7 @@
                   <syl con="s" wordpos="t">cum</syl>
                 </syllable>
                 <syllable facs="#zone-syl-00000001-0004-0000-0000-000000000000" xml:id="syl-00000001-0004-0000-0000-000000000000">
-                  <syl con="s" wordpos="s">eo</syl>
+                  <syl con="s" wordpos="s">&amp;</syl>
                 </syllable>
                 <syllable facs="#zone-syl-00000001-0005-0000-0000-000000000000" xml:id="syl-00000001-0005-0000-0000-000000000000">
                   <syl con="s" wordpos="s">non</syl>
@@ -132,82 +111,6 @@
                 </syllable>
                 <syllable facs="#zone-syl-00000001-0021-0000-0000-000000000000" xml:id="syl-00000001-0021-0000-0000-000000000000">
                   <syl con="s" wordpos="t">um</syl>
-                </syllable>
-                <syllable facs="#zone-line-1" xml:id="syl-orphan-1">
-                  <syl/>
-                  <neume facs="#zone-n-n0000001-0000-0000-0000-000000000000" neumeType="virga" xml:id="n-n0000001-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000002-0000-0000-0000-000000000000" neumeType="virga strata" xml:id="n-n0000002-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000003-0000-0000-0000-000000000000" neumeType="punctum" xml:id="n-n0000003-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000004-0000-0000-0000-000000000000" neumeType="pes quadratus" xml:id="n-n0000004-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                    <nc intm="u"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000005-0000-0000-0000-000000000000" neumeType="punctum" xml:id="n-n0000005-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000006-0000-0000-0000-000000000000" neumeType="virga" xml:id="n-n0000006-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000007-0000-0000-0000-000000000000" neumeType="virga" xml:id="n-n0000007-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000008-0000-0000-0000-000000000000" neumeType="virga episema" xml:id="n-n0000008-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000009-0000-0000-0000-000000000000" neumeType="torculus liquescens" xml:id="n-n0000009-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                    <nc intm="u"/>
-                    <nc intm="d"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000010-0000-0000-0000-000000000000" neumeType="punctum" xml:id="n-n0000010-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000011-0000-0000-0000-000000000000" neumeType="punctum" xml:id="n-n0000011-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000012-0000-0000-0000-000000000000" neumeType="pes quadratus" xml:id="n-n0000012-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                    <nc intm="u"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000013-0000-0000-0000-000000000000" neumeType="virga episema" xml:id="n-n0000013-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000014-0000-0000-0000-000000000000" neumeType="clivis episema" xml:id="n-n0000014-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                    <nc intm="d"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000015-0000-0000-0000-000000000000" neumeType="punctum" xml:id="n-n0000015-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000016-0000-0000-0000-000000000000" neumeType="tractulus episema" xml:id="n-n0000016-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000017-0000-0000-0000-000000000000" neumeType="pes" xml:id="n-n0000017-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                    <nc intm="u"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000018-0000-0000-0000-000000000000" neumeType="virga episema" xml:id="n-n0000018-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000019-0000-0000-0000-000000000000" neumeType="virga" xml:id="n-n0000019-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000020-0000-0000-0000-000000000000" neumeType="porrectus flexus" xml:id="n-n0000020-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                    <nc intm="d"/>
-                    <nc intm="u"/>
-                    <nc intm="d"/>
-                  </neume>
-                  <neume facs="#zone-n-n0000021-0000-0000-0000-000000000000" neumeType="tractulus episema" xml:id="n-n0000021-0000-0000-0000-000000000000">
-                    <nc intm="s"/>
-                  </neume>
                 </syllable>
               </layer>
             </staff>
