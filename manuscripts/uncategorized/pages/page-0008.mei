@@ -601,6 +601,7 @@
                     <nc intm="d">
                       <liquescent/>
                     </nc>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-999-917-1137-1021" xml:id="syl-999-917-1137-1021">
@@ -704,6 +705,7 @@
                     <nc intm="d">
                       <liquescent/>
                     </nc>
+                    <signifLet place="above">l</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-970-1101-1156-1195" xml:id="syl-970-1101-1156-1195">
@@ -722,6 +724,7 @@
                   <syl con="s" wordpos="s">ros</syl>
                   <neume facs="#zone-n-1342-1071-39-28" neumeType="virga" xml:id="n-1342-1071-39-28">
                     <nc intm="s"/>
+                    <signifLet place="above">t</signifLet>
                   </neume>
                   <neume facs="#zone-n-1392-1015-67-61" neumeType="quilismatorculus" xml:id="n-1392-1015-67-61">
                     <nc intm="s">
@@ -849,6 +852,7 @@
                   </neume>
                   <neume facs="#zone-n-1431-1238-14-12" neumeType="strophicus" xml:id="n-1431-1238-14-12">
                     <nc intm="s"/>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1490-1289-1669-1406" xml:id="syl-1490-1289-1669-1406">
@@ -903,6 +907,7 @@
                   <neume facs="#zone-n-726-1423-24-35" neumeType="clivis" xml:id="n-726-1423-24-35">
                     <nc intm="s"/>
                     <nc intm="d"/>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                   <neume facs="#zone-n-810-1400-44-33" neumeType="clivis" xml:id="n-810-1400-44-33">
                     <nc intm="s"/>
@@ -1247,6 +1252,7 @@
                   </neume>
                   <neume facs="#zone-n-1677-1988-16-17" neumeType="strophicus" xml:id="n-1677-1988-16-17">
                     <nc intm="s"/>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1685-2046-1855-2152" xml:id="syl-1685-2046-1855-2152">
@@ -1310,6 +1316,7 @@
                   <neume facs="#zone-n-1088-2182-34-35" neumeType="clivis" xml:id="n-1088-2182-34-35">
                     <nc intm="s"/>
                     <nc intm="d"/>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                   <neume facs="#zone-n-1186-2159-46-35" neumeType="torculus" xml:id="n-1186-2159-46-35">
                     <nc intm="s">
@@ -1545,6 +1552,7 @@
                     <nc intm="s"/>
                     <nc intm="d"/>
                     <nc intm="u"/>
+                    <signifLet place="above">c</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1746-2631-1856-2717" xml:id="syl-1746-2631-1856-2717">
@@ -1666,6 +1674,7 @@
                   </neume>
                   <neume facs="#zone-n-1685-2738-14-15" neumeType="strophicus" xml:id="n-1685-2738-14-15">
                     <nc intm="s"/>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1714-2795-1833-2912" xml:id="syl-1714-2795-1833-2912">
@@ -1720,6 +1729,7 @@
                   <neume facs="#zone-n-895-2933-33-35" neumeType="clivis" xml:id="n-895-2933-33-35">
                     <nc intm="s"/>
                     <nc intm="d"/>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                   <neume facs="#zone-n-974-2913-42-40" neumeType="torculus" xml:id="n-974-2913-42-40">
                     <nc intm="s">
@@ -1792,6 +1802,7 @@
                     <nc intm="d">
                       <episema/>
                     </nc>
+                    <signifLet place="above">s</signifLet>
                   </neume>
                   <neume facs="#zone-n-921-3141-50-29" neumeType="torculus" xml:id="n-921-3141-50-29">
                     <nc intm="s">
@@ -1807,6 +1818,7 @@
                   <neume facs="#zone-n-982-3140-39-27" neumeType="pressusminor" xml:id="n-982-3140-39-27">
                     <nc intm="s"/>
                     <nc intm="d"/>
+                    <signifLet place="above-left">x</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1081-3197-1289-3285" xml:id="syl-1081-3197-1289-3285">
@@ -1929,6 +1941,7 @@
                     <nc intm="u">
                       <liquescent/>
                     </nc>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1397-3358-1535-3471" xml:id="syl-1397-3358-1535-3471">
@@ -2039,6 +2052,7 @@
                     <nc intm="u">
                       <liquescent/>
                     </nc>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1105-3563-1259-3669" xml:id="syl-1105-3563-1259-3669">
@@ -2088,6 +2102,7 @@
                   </neume>
                   <neume facs="#zone-n-1823-3489-16-13" neumeType="strophicus" xml:id="n-1823-3489-16-13">
                     <nc intm="s"/>
+                    <signifLet place="right">l</signifLet>
                   </neume>
                   <neume facs="#zone-n-1877-3465-43-41" neumeType="climacus" xml:id="n-1877-3465-43-41">
                     <nc intm="s"/>
