@@ -972,7 +972,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1693-1844-1924-1940" xml:id="syl-1693-1844-1924-1940">
-                  <syl con="d" wordpos="m">tu</syl>
+                  <syl con="s" wordpos="t">ta</syl>
                   <neume facs="#zone-n-1762-1827-30-16" neumeType="tractulus" xml:id="n-1762-1827-30-16">
                     <nc>
                       <episema/>
@@ -990,7 +990,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1924-1844-2041-1935" xml:id="syl-1924-1844-2041-1935">
-                  <syl con="s" wordpos="t">do</syl>
+                  <syl con="s" wordpos="s">do</syl>
                   <neume facs="#zone-n-2028-1813-29-29" neumeType="clivis" xml:id="n-2028-1813-29-29">
                     <nc/>
                     <nc intm="d"/>
@@ -1219,7 +1219,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2224-2218-2375-2326" xml:id="syl-2224-2218-2375-2326">
-                  <syl con="s" wordpos="s">nos</syl>
+                  <syl con="s" wordpos="s">nos.</syl>
                   <neume facs="#zone-n-2322-2162-55-51" neumeType="pes" xml:id="n-2322-2162-55-51">
                     <nc/>
                     <nc intm="u"/>
