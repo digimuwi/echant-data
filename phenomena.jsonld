@@ -1,0 +1,148 @@
+{
+  "@context": {
+    "dcterms": "http://purl.org/dc/terms/",
+    "echant": "urn:echant:",
+    "hico": "https://w3id.org/hico/",
+    "id": "@id",
+    "oa": "http://www.w3.org/ns/oa#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "type": "@type"
+  },
+  "@graph": [
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:de-episemation",
+      "skos:definition": "An episema present in the source is absent in the target.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "De-episemation",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:episemation",
+      "skos:definition": "An episema (rhythmic lengthening mark) is present in the target that the source lacks.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Episemation",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:grouping-variant",
+      "skos:definition": "The same notes are grouped into different neumes (e.g. torculus vs clivis + punctum).",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Grouping variant",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:liquescence-shift",
+      "skos:definition": "A liquescent treatment is added, removed, or changed.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Liquescence shift",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:melodic-variant",
+      "skos:definition": "The pitch/contour of the melody differs between versions.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Melodic variant",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:notational-only",
+      "skos:definition": "A purely graphical difference with no musical significance.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Notational only",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:ornamental-variant",
+      "skos:definition": "An ornamental note differs (quilisma, oriscus, strophicus, …).",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Ornamental variant",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:regional-variant",
+      "skos:definition": "The difference reflects a regional/dialectal notational practice.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Regional variant",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:scribal-error",
+      "skos:definition": "The difference is judged an error in one witness.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Scribal error",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:significative-letter",
+      "skos:definition": "A littera significativa (celeriter, tenete, …) differs between versions.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Significative letter",
+      "type": "skos:Concept"
+    }
+  ],
+  "id": "echant:phenomena",
+  "skos:hasTopConcept": [
+    {
+      "id": "echant:phenomenon:de-episemation"
+    },
+    {
+      "id": "echant:phenomenon:episemation"
+    },
+    {
+      "id": "echant:phenomenon:grouping-variant"
+    },
+    {
+      "id": "echant:phenomenon:liquescence-shift"
+    },
+    {
+      "id": "echant:phenomenon:melodic-variant"
+    },
+    {
+      "id": "echant:phenomenon:notational-only"
+    },
+    {
+      "id": "echant:phenomenon:ornamental-variant"
+    },
+    {
+      "id": "echant:phenomenon:regional-variant"
+    },
+    {
+      "id": "echant:phenomenon:scribal-error"
+    },
+    {
+      "id": "echant:phenomenon:significative-letter"
+    }
+  ],
+  "skos:prefLabel": "eChant difference phenomena",
+  "type": "skos:ConceptScheme"
+}
