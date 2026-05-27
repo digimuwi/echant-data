@@ -1060,9 +1060,11 @@
                 </syllable>
                 <syllable facs="#zone-syl-2764-1855-2855-1953" xml:id="syl-2764-1855-2855-1953">
                   <syl con="d" wordpos="i">tu</syl>
-                  <neume facs="#zone-n-2804-1794-74-64" neumeType="pes" xml:id="n-2804-1794-74-64">
+                  <neume facs="#zone-n-2804-1794-74-64" neumeType="pessubpunctis" xml:id="n-2804-1794-74-64">
                     <nc/>
-                    <nc intm="u"/>
+                    <nc intm="u">
+                      <episema/>
+                    </nc>
                     <nc intm="d"/>
                     <nc intm="d"/>
                   </neume>
