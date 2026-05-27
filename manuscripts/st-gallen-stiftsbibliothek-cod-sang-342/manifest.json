@@ -4,11 +4,13 @@
     {
       "folio_label": "214",
       "image": "214.jpg",
+      "image_source_url": "https://e-codices.unifr.ch/loris/csg/csg-0342/csg-0342_214.jp2/full/full/0/default/jpg",
       "status": "draft"
     },
     {
       "folio_label": "126",
       "image": "126.jpg",
+      "image_source_url": "https://e-codices.unifr.ch/loris/csg/csg-0342/csg-0342_126.jp2/full/full/0/default/jpg",
       "status": "draft"
     }
   ],
