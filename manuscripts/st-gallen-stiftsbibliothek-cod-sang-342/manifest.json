@@ -5,6 +5,11 @@
       "folio_label": "214",
       "image": "214.jpg",
       "status": "draft"
+    },
+    {
+      "folio_label": "126",
+      "image": "126.jpg",
+      "status": "draft"
     }
   ],
   "shelfmark": null,
