@@ -1968,7 +1968,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1745-3573-1866-3644" xml:id="syl-1745-3573-1866-3644">
                   <syl wordpos="t">no</syl>
-                  <neume facs="#zone-n-1803-3498-77-57" neumeType="pes subbipunctis" xml:id="n-1803-3498-77-57">
+                  <neume facs="#zone-n-1803-3498-77-57" neumeType="pes quadratus subbipunctis" xml:id="n-1803-3498-77-57">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
