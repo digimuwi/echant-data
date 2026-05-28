@@ -448,7 +448,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2603-721-2663-837" xml:id="syl-2603-721-2663-837">
                   <syl wordpos="i">ti</syl>
-                  <neume facs="#zone-n-2630-671-38-46" neumeType="clivis" xml:id="n-2630-671-38-46">
+                  <neume facs="#zone-n-2630-671-38-46" neumeType="clivis episema" xml:id="n-2630-671-38-46">
                     <nc/>
                     <nc intm="d"/>
                   </neume>
