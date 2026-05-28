@@ -113,7 +113,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-558-3056-639-3155" xml:id="syl-558-3056-639-3155">
                   <syl con="d" wordpos="m">fu</syl>
-                  <neume facs="#zone-n-619-2988-54-39" neumeType="bistropha" xml:id="n-619-2988-54-39">
+                  <neume facs="#zone-n-619-2988-54-39" neumeType="bivirga" xml:id="n-619-2988-54-39">
                     <nc/>
                     <nc intm="s"/>
                   </neume>
@@ -138,9 +138,7 @@
                 <syllable facs="#zone-syl-898-3056-1025-3155" xml:id="syl-898-3056-1025-3155">
                   <syl con="d" wordpos="i">gra</syl>
                   <neume facs="#zone-n-1000-2994-39-46" neumeType="bistropha" xml:id="n-1000-2994-39-46">
-                    <nc>
-                      <episema/>
-                    </nc>
+                    <nc/>
                     <nc intm="s"/>
                   </neume>
                 </syllable>
