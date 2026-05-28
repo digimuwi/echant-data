@@ -385,17 +385,17 @@
                 <lb facs="#zone-line-1" n="1"/>
                 <syllable facs="#zone-syl-1677-712-1875-840" xml:id="syl-1677-712-1875-840">
                   <syl wordpos="i">opu</syl>
-                  <neume facs="#zone-n-1727-688-32-25" neumeType="tractulus" xml:id="n-1727-688-32-25">
+                  <neume facs="#zone-n-1727-688-32-25" neumeType="tractulus episema" xml:id="n-1727-688-32-25">
                     <nc>
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-1814-689-28-20" neumeType="tractulus" xml:id="n-1814-689-28-20">
+                  <neume facs="#zone-n-1814-689-28-20" neumeType="tractulus episema" xml:id="n-1814-689-28-20">
                     <nc>
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-1849-652-77-51" neumeType="quilisma" xml:id="n-1849-652-77-51">
+                  <neume facs="#zone-n-1849-652-77-51" neumeType="quilisma cum episema" xml:id="n-1849-652-77-51">
                     <nc>
                       <quilisma/>
                     </nc>
@@ -403,7 +403,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1875-718-1965-843" xml:id="syl-1875-718-1965-843">
                   <syl wordpos="t">le</syl>
-                  <neume facs="#zone-n-1922-684-28-19" neumeType="tractulus" xml:id="n-1922-684-28-19">
+                  <neume facs="#zone-n-1922-684-28-19" neumeType="tractulus episema" xml:id="n-1922-684-28-19">
                     <nc>
                       <episema/>
                     </nc>
@@ -416,7 +416,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1988-727-2100-843" xml:id="syl-1988-727-2100-843">
                   <syl wordpos="i">me</syl>
-                  <neume facs="#zone-n-2070-671-64-47" neumeType="pesquadratus" xml:id="n-2070-671-64-47">
+                  <neume facs="#zone-n-2070-671-64-47" neumeType="pes quadratus" xml:id="n-2070-671-64-47">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
@@ -429,7 +429,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2416-718-2498-841" xml:id="syl-2416-718-2498-841">
                   <syl wordpos="i">fe</syl>
-                  <neume facs="#zone-n-2455-664-57-51" neumeType="clivis" xml:id="n-2455-664-57-51">
+                  <neume facs="#zone-n-2455-664-57-51" neumeType="clivis episema" xml:id="n-2455-664-57-51">
                     <nc>
                       <episema/>
                     </nc>
@@ -440,7 +440,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2498-732-2573-845" xml:id="syl-2498-732-2573-845">
                   <syl wordpos="t">ci</syl>
-                  <neume facs="#zone-n-2542-700-28-18" neumeType="tractulus" xml:id="n-2542-700-28-18">
+                  <neume facs="#zone-n-2542-700-28-18" neumeType="tractulus episema" xml:id="n-2542-700-28-18">
                     <nc>
                       <episema/>
                     </nc>
@@ -462,7 +462,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2776-732-2911-847" xml:id="syl-2776-732-2911-847">
                   <syl wordpos="s">aut</syl>
-                  <neume facs="#zone-n-2829-701-29-17" neumeType="tractulus" xml:id="n-2829-701-29-17">
+                  <neume facs="#zone-n-2829-701-29-17" neumeType="tractulus episema" xml:id="n-2829-701-29-17">
                     <nc>
                       <episema/>
                     </nc>
@@ -479,7 +479,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-3016-748-3156-844" xml:id="syl-3016-748-3156-844">
                   <syl wordpos="s">quo</syl>
-                  <neume facs="#zone-n-3080-696-39-39" neumeType="virga" xml:id="n-3080-696-39-39">
+                  <neume facs="#zone-n-3080-696-39-39" neumeType="virga episema" xml:id="n-3080-696-39-39">
                     <nc>
                       <episema/>
                     </nc>
@@ -498,7 +498,7 @@
                 <lb facs="#zone-line-2" n="2"/>
                 <syllable facs="#zone-syl-1686-898-1860-1010" xml:id="syl-1686-898-1860-1010">
                   <syl wordpos="i">con</syl>
-                  <neume facs="#zone-n-1773-881-26-18" neumeType="tractulus" xml:id="n-1773-881-26-18">
+                  <neume facs="#zone-n-1773-881-26-18" neumeType="tractulus episema" xml:id="n-1773-881-26-18">
                     <nc>
                       <episema/>
                     </nc>
@@ -513,7 +513,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1994-904-2069-1012" xml:id="syl-1994-904-2069-1012">
                   <syl wordpos="m">ta</syl>
-                  <neume facs="#zone-n-2025-884-27-15" neumeType="tractulus" xml:id="n-2025-884-27-15">
+                  <neume facs="#zone-n-2025-884-27-15" neumeType="tractulus episema" xml:id="n-2025-884-27-15">
                     <nc>
                       <episema/>
                     </nc>
@@ -528,7 +528,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2194-929-2270-1029" xml:id="syl-2194-929-2270-1029">
                   <syl wordpos="s">te</syl>
-                  <neume facs="#zone-n-2206-876-31-19" neumeType="tractulus" xml:id="n-2206-876-31-19">
+                  <neume facs="#zone-n-2206-876-31-19" neumeType="tractulus episema" xml:id="n-2206-876-31-19">
                     <nc>
                       <episema/>
                     </nc>
@@ -541,7 +541,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2292-924-2367-1024" xml:id="syl-2292-924-2367-1024">
                   <syl wordpos="i">re</syl>
-                  <neume facs="#zone-n-2335-902-31-15" neumeType="tractulus" xml:id="n-2335-902-31-15">
+                  <neume facs="#zone-n-2335-902-31-15" neumeType="tractulus episema" xml:id="n-2335-902-31-15">
                     <nc>
                       <episema/>
                     </nc>
@@ -549,7 +549,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2367-909-2545-1037" xml:id="syl-2367-909-2545-1037">
                   <syl wordpos="m">spon</syl>
-                  <neume facs="#zone-n-2448-852-80-45" neumeType="torculus" xml:id="n-2448-852-80-45">
+                  <neume facs="#zone-n-2448-852-80-45" neumeType="torculus liquescens" xml:id="n-2448-852-80-45">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -566,7 +566,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2658-915-2754-1040" xml:id="syl-2658-915-2754-1040">
                   <syl wordpos="i">mi</syl>
-                  <neume facs="#zone-n-2702-863-55-45" neumeType="virgastrata" xml:id="n-2702-863-55-45">
+                  <neume facs="#zone-n-2702-863-55-45" neumeType="virga strata" xml:id="n-2702-863-55-45">
                     <nc/>
                     <nc intm="s">
                       <oriscus/>
@@ -575,7 +575,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2754-915-2829-1040" xml:id="syl-2754-915-2829-1040">
                   <syl wordpos="t">hi</syl>
-                  <neume facs="#zone-n-2786-896-29-18" neumeType="tractulus" xml:id="n-2786-896-29-18">
+                  <neume facs="#zone-n-2786-896-29-18" neumeType="tractulus episema" xml:id="n-2786-896-29-18">
                     <nc>
                       <episema/>
                     </nc>
@@ -583,18 +583,18 @@
                 </syllable>
                 <syllable facs="#zone-syl-2858-915-3031-1036" xml:id="syl-2858-915-3031-1036">
                   <syl wordpos="s">quia</syl>
-                  <neume facs="#zone-n-2913-850-74-64" neumeType="pesquadratussubbipunctis" xml:id="n-2913-850-74-64">
+                  <neume facs="#zone-n-2913-850-74-64" neumeType="pes quadratus subbipunctis" xml:id="n-2913-850-74-64">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2998-912-28-16" neumeType="tractulus" xml:id="n-2998-912-28-16">
+                  <neume facs="#zone-n-2998-912-28-16" neumeType="tractulus episema" xml:id="n-2998-912-28-16">
                     <nc>
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-3045-906-29-18" neumeType="tractulus" xml:id="n-3045-906-29-18">
+                  <neume facs="#zone-n-3045-906-29-18" neumeType="tractulus episema" xml:id="n-3045-906-29-18">
                     <nc>
                       <episema/>
                     </nc>
@@ -602,12 +602,12 @@
                 </syllable>
                 <syllable facs="#zone-syl-3046-917-3156-1030" xml:id="syl-3046-917-3156-1030">
                   <syl wordpos="s">edu</syl>
-                  <neume facs="#zone-n-3072-873-75-43" neumeType="quilisma" xml:id="n-3072-873-75-43">
+                  <neume facs="#zone-n-3072-873-75-43" neumeType="quilisma cum episema" xml:id="n-3072-873-75-43">
                     <nc>
                       <quilisma/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-3138-891-49-49" neumeType="clivis" xml:id="n-3138-891-49-49">
+                  <neume facs="#zone-n-3138-891-49-49" neumeType="clivis episema" xml:id="n-3138-891-49-49">
                     <nc>
                       <episema/>
                     </nc>
@@ -625,7 +625,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1830-1098-1929-1210" xml:id="syl-1830-1098-1929-1210">
                   <syl wordpos="t">te</syl>
-                  <neume facs="#zone-n-1875-1075-28-13" neumeType="tractulus" xml:id="n-1875-1075-28-13">
+                  <neume facs="#zone-n-1875-1075-28-13" neumeType="tractulus episema" xml:id="n-1875-1075-28-13">
                     <nc>
                       <episema/>
                     </nc>
@@ -633,7 +633,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1951-1101-2041-1225" xml:id="syl-1951-1101-2041-1225">
                   <syl wordpos="s">de</syl>
-                  <neume facs="#zone-n-2003-1041-68-49" neumeType="pesquadratus" xml:id="n-2003-1041-68-49">
+                  <neume facs="#zone-n-2003-1041-68-49" neumeType="pes quadratus" xml:id="n-2003-1041-68-49">
                     <nc/>
                     <nc intm="u"/>
                     <signifLet place="below-left">l</signifLet>
@@ -641,7 +641,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2065-1101-2186-1223" xml:id="syl-2065-1101-2186-1223">
                   <syl wordpos="i">ter</syl>
-                  <neume facs="#zone-n-2120-1046-66-50" neumeType="pesquadratus" xml:id="n-2120-1046-66-50">
+                  <neume facs="#zone-n-2120-1046-66-50" neumeType="pes quadratus" xml:id="n-2120-1046-66-50">
                     <nc/>
                     <nc intm="u"/>
                     <signifLet place="below-left">l</signifLet>
@@ -649,7 +649,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2186-1112-2314-1226" xml:id="syl-2186-1112-2314-1226">
                   <syl wordpos="t">ra</syl>
-                  <neume facs="#zone-n-2232-1057-45-42" neumeType="virga" xml:id="n-2232-1057-45-42">
+                  <neume facs="#zone-n-2232-1057-45-42" neumeType="virga episema" xml:id="n-2232-1057-45-42">
                     <nc>
                       <episema/>
                     </nc>
@@ -667,7 +667,7 @@
                     <nc intm="u"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2411-1087-30-18" neumeType="tractulus" xml:id="n-2411-1087-30-18">
+                  <neume facs="#zone-n-2411-1087-30-18" neumeType="tractulus episema" xml:id="n-2411-1087-30-18">
                     <nc>
                       <episema/>
                     </nc>
@@ -682,7 +682,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2602-1125-2677-1234" xml:id="syl-2602-1125-2677-1234">
                   <syl wordpos="t">ti</syl>
-                  <neume facs="#zone-n-2632-1063-44-44" neumeType="virga" xml:id="n-2632-1063-44-44">
+                  <neume facs="#zone-n-2632-1063-44-44" neumeType="virga episema" xml:id="n-2632-1063-44-44">
                     <nc>
                       <episema/>
                     </nc>
@@ -690,7 +690,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2700-1122-2807-1228" xml:id="syl-2700-1122-2807-1228">
                   <syl wordpos="i">pa</syl>
-                  <neume facs="#zone-n-2751-1058-73-48" neumeType="pesquadratus" xml:id="n-2751-1058-73-48">
+                  <neume facs="#zone-n-2751-1058-73-48" neumeType="pes quadratus" xml:id="n-2751-1058-73-48">
                     <nc/>
                     <nc intm="u"/>
                     <signifLet place="below-left">l</signifLet>
@@ -698,7 +698,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2807-1109-2920-1234" xml:id="syl-2807-1109-2920-1234">
                   <syl wordpos="m">ras</syl>
-                  <neume facs="#zone-n-2841-1063-41-45" neumeType="virga" xml:id="n-2841-1063-41-45">
+                  <neume facs="#zone-n-2841-1063-41-45" neumeType="virga episema" xml:id="n-2841-1063-41-45">
                     <nc>
                       <episema/>
                     </nc>
@@ -719,7 +719,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-3033-1115-3153-1231" xml:id="syl-3033-1115-3153-1231">
                   <syl wordpos="s">eru</syl>
-                  <neume facs="#zone-n-3085-1077-64-51" neumeType="clivis" xml:id="n-3085-1077-64-51">
+                  <neume facs="#zone-n-3085-1077-64-51" neumeType="clivis episema" xml:id="n-3085-1077-64-51">
                     <nc>
                       <episema/>
                     </nc>
@@ -731,7 +731,7 @@
                 <lb facs="#zone-line-4" n="4"/>
                 <syllable facs="#zone-syl-1686-1284-1894-1391" xml:id="syl-1686-1284-1894-1391">
                   <syl wordpos="s">cem</syl>
-                  <neume facs="#zone-n-1787-1189-100-97" neumeType="salicus" xml:id="n-1787-1189-100-97">
+                  <neume facs="#zone-n-1787-1189-100-97" neumeType="salicus episematus" xml:id="n-1787-1189-100-97">
                     <nc>
                       <episema/>
                     </nc>
@@ -745,7 +745,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1914-1284-2038-1399" xml:id="syl-1914-1284-2038-1399">
                   <syl wordpos="i">sal</syl>
-                  <neume facs="#zone-n-1972-1225-66-60" neumeType="torculus" xml:id="n-1972-1225-66-60">
+                  <neume facs="#zone-n-1972-1225-66-60" neumeType="torculus liquescens" xml:id="n-1972-1225-66-60">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -755,12 +755,12 @@
                 </syllable>
                 <syllable facs="#zone-syl-2038-1284-2147-1403" xml:id="syl-2038-1284-2147-1403">
                   <syl wordpos="m">va</syl>
-                  <neume facs="#zone-n-2090-1265-29-14" neumeType="tractulus" xml:id="n-2090-1265-29-14">
+                  <neume facs="#zone-n-2090-1265-29-14" neumeType="tractulus episema" xml:id="n-2090-1265-29-14">
                     <nc>
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2121-1418-83-44" neumeType="quilisma" xml:id="n-2121-1418-83-44">
+                  <neume facs="#zone-n-2121-1418-83-44" neumeType="quilisma cum episema" xml:id="n-2121-1418-83-44">
                     <nc>
                       <quilisma/>
                     </nc>
@@ -776,7 +776,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2223-1304-2312-1397" xml:id="syl-2223-1304-2312-1397">
                   <syl wordpos="t">ri</syl>
-                  <neume facs="#zone-n-2273-1273-31-15" neumeType="tractulus" xml:id="n-2273-1273-31-15">
+                  <neume facs="#zone-n-2273-1273-31-15" neumeType="tractulus episema" xml:id="n-2273-1273-31-15">
                     <nc>
                       <episema/>
                     </nc>
@@ -784,7 +784,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2333-1289-2509-1392" xml:id="syl-2333-1289-2509-1392">
                   <syl wordpos="s">tuo</syl>
-                  <neume facs="#zone-n-2369-1253-70-47" neumeType="clivis" xml:id="n-2369-1253-70-47">
+                  <neume facs="#zone-n-2369-1253-70-47" neumeType="clivis episema" xml:id="n-2369-1253-70-47">
                     <nc>
                       <episema/>
                     </nc>
@@ -792,7 +792,7 @@
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2443-1283-31-15" neumeType="tractulus" xml:id="n-2443-1283-31-15">
+                  <neume facs="#zone-n-2443-1283-31-15" neumeType="tractulus episema" xml:id="n-2443-1283-31-15">
                     <nc>
                       <episema/>
                     </nc>
@@ -804,7 +804,7 @@
                 <lb facs="#zone-line-5" n="5"/>
                 <syllable facs="#zone-syl-1616-1464-1885-1594" xml:id="syl-1616-1464-1885-1594">
                   <syl wordpos="s">Quia</syl>
-                  <neume facs="#zone-n-1733-1396-82-73" neumeType="pesquadratussubbipunctis" xml:id="n-1733-1396-82-73">
+                  <neume facs="#zone-n-1733-1396-82-73" neumeType="pes quadratus subbipunctis" xml:id="n-1733-1396-82-73">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -813,7 +813,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1908-1480-2057-1600" xml:id="syl-1908-1480-2057-1600">
                   <syl wordpos="s">ego</syl>
-                  <neume facs="#zone-n-1924-1424-63-45" neumeType="pesquadratus" xml:id="n-1924-1424-63-45">
+                  <neume facs="#zone-n-1924-1424-63-45" neumeType="pes quadratus" xml:id="n-1924-1424-63-45">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
@@ -824,12 +824,12 @@
                 </syllable>
                 <syllable facs="#zone-syl-2080-1469-2245-1602" xml:id="syl-2080-1469-2245-1602">
                   <syl wordpos="i">edu</syl>
-                  <neume facs="#zone-n-2091-1450-25-16" neumeType="tractulus" xml:id="n-2091-1450-25-16">
+                  <neume facs="#zone-n-2091-1450-25-16" neumeType="tractulus episema" xml:id="n-2091-1450-25-16">
                     <nc>
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2192-1423-59-54" neumeType="clivis" xml:id="n-2192-1423-59-54">
+                  <neume facs="#zone-n-2192-1423-59-54" neumeType="clivis episema" xml:id="n-2192-1423-59-54">
                     <nc>
                       <episema/>
                     </nc>
@@ -848,7 +848,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2363-1478-2456-1605" xml:id="syl-2363-1478-2456-1605">
                   <syl wordpos="s">te</syl>
-                  <neume facs="#zone-n-2404-1448-42-45" neumeType="virga" xml:id="n-2404-1448-42-45">
+                  <neume facs="#zone-n-2404-1448-42-45" neumeType="virga episema" xml:id="n-2404-1448-42-45">
                     <nc>
                       <episema/>
                     </nc>
@@ -856,7 +856,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2472-1493-2613-1600" xml:id="syl-2472-1493-2613-1600">
                   <syl wordpos="s">per</syl>
-                  <neume facs="#zone-n-2512-1474-25-17" neumeType="tractulus" xml:id="n-2512-1474-25-17">
+                  <neume facs="#zone-n-2512-1474-25-17" neumeType="tractulus episema" xml:id="n-2512-1474-25-17">
                     <nc>
                       <episema/>
                     </nc>
@@ -864,7 +864,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2637-1483-2731-1611" xml:id="syl-2637-1483-2731-1611">
                   <syl wordpos="i">de</syl>
-                  <neume facs="#zone-n-2672-1448-42-39" neumeType="virga" xml:id="n-2672-1448-42-39">
+                  <neume facs="#zone-n-2672-1448-42-39" neumeType="virga episema" xml:id="n-2672-1448-42-39">
                     <nc>
                       <episema/>
                     </nc>
@@ -872,12 +872,12 @@
                 </syllable>
                 <syllable facs="#zone-syl-2731-1480-2848-1602" xml:id="syl-2731-1480-2848-1602">
                   <syl wordpos="m">ser</syl>
-                  <neume facs="#zone-n-2771-1443-40-44" neumeType="virga" xml:id="n-2771-1443-40-44">
+                  <neume facs="#zone-n-2771-1443-40-44" neumeType="virga episema" xml:id="n-2771-1443-40-44">
                     <nc>
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2818-1432-57-39" neumeType="torculus" xml:id="n-2818-1432-57-39">
+                  <neume facs="#zone-n-2818-1432-57-39" neumeType="torculus liquescens" xml:id="n-2818-1432-57-39">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -887,7 +887,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2848-1506-3003-1608" xml:id="syl-2848-1506-3003-1608">
                   <syl wordpos="t">tum</syl>
-                  <neume facs="#zone-n-2937-1442-68-54" neumeType="clivis" xml:id="n-2937-1442-68-54">
+                  <neume facs="#zone-n-2937-1442-68-54" neumeType="clivis episema" xml:id="n-2937-1442-68-54">
                     <nc>
                       <episema/>
                     </nc>
@@ -899,7 +899,7 @@
                 <lb facs="#zone-line-6" n="6"/>
                 <syllable facs="#zone-syl-1683-1667-1875-1777" xml:id="syl-1683-1667-1875-1777">
                   <syl wordpos="i">qua</syl>
-                  <neume facs="#zone-n-1823-1618-46-45" neumeType="virga" xml:id="n-1823-1618-46-45">
+                  <neume facs="#zone-n-1823-1618-46-45" neumeType="virga episema" xml:id="n-1823-1618-46-45">
                     <nc>
                       <episema/>
                     </nc>
@@ -930,7 +930,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2268-1669-2377-1775" xml:id="syl-2268-1669-2377-1775">
                   <syl wordpos="i">an</syl>
-                  <neume facs="#zone-n-2297-1630-34-28" neumeType="pes" xml:id="n-2297-1630-34-28">
+                  <neume facs="#zone-n-2297-1630-34-28" neumeType="pes liquescens" xml:id="n-2297-1630-34-28">
                     <nc/>
                     <nc intm="u">
                       <liquescent/>
@@ -939,7 +939,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2377-1672-2514-1791" xml:id="syl-2377-1672-2514-1791">
                   <syl wordpos="t">nos</syl>
-                  <neume facs="#zone-n-2445-1633-49-43" neumeType="virga" xml:id="n-2445-1633-49-43">
+                  <neume facs="#zone-n-2445-1633-49-43" neumeType="virga episema" xml:id="n-2445-1633-49-43">
                     <nc>
                       <episema/>
                     </nc>
@@ -956,7 +956,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2617-1675-2812-1797" xml:id="syl-2617-1675-2812-1797">
                   <syl wordpos="i">man</syl>
-                  <neume facs="#zone-n-2692-1611-63-66" neumeType="torculus" xml:id="n-2692-1611-63-66">
+                  <neume facs="#zone-n-2692-1611-63-66" neumeType="torculus liquescens" xml:id="n-2692-1611-63-66">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -966,7 +966,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2812-1680-2936-1797" xml:id="syl-2812-1680-2936-1797">
                   <syl wordpos="t">na</syl>
-                  <neume facs="#zone-n-2870-1631-45-45" neumeType="virga" xml:id="n-2870-1631-45-45">
+                  <neume facs="#zone-n-2870-1631-45-45" neumeType="virga episema" xml:id="n-2870-1631-45-45">
                     <nc>
                       <episema/>
                     </nc>
@@ -974,7 +974,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2957-1679-3037-1797" xml:id="syl-2957-1679-3037-1797">
                   <syl wordpos="i">ci</syl>
-                  <neume facs="#zone-n-2977-1621-61-51" neumeType="clivis" xml:id="n-2977-1621-61-51">
+                  <neume facs="#zone-n-2977-1621-61-51" neumeType="clivis episema" xml:id="n-2977-1621-61-51">
                     <nc>
                       <episema/>
                     </nc>
@@ -1000,7 +1000,7 @@
                 <lb facs="#zone-line-7" n="7"/>
                 <syllable facs="#zone-syl-1683-1863-1812-1966" xml:id="syl-1683-1863-1812-1966">
                   <syl wordpos="s">te</syl>
-                  <neume facs="#zone-n-1774-1806-43-47" neumeType="virga" xml:id="n-1774-1806-43-47">
+                  <neume facs="#zone-n-1774-1806-43-47" neumeType="virga episema" xml:id="n-1774-1806-43-47">
                     <nc>
                       <episema/>
                     </nc>
@@ -1008,7 +1008,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1832-1869-1893-1964" xml:id="syl-1832-1869-1893-1964">
                   <syl wordpos="s">et</syl>
-                  <neume facs="#zone-n-1882-1812-45-46" neumeType="virga" xml:id="n-1882-1812-45-46">
+                  <neume facs="#zone-n-1882-1812-45-46" neumeType="virga episema" xml:id="n-1882-1812-45-46">
                     <nc>
                       <episema/>
                     </nc>
@@ -1016,7 +1016,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1907-1855-2001-1969" xml:id="syl-1907-1855-2001-1969">
                   <syl wordpos="i">in</syl>
-                  <neume facs="#zone-n-1972-1811-42-43" neumeType="virga" xml:id="n-1972-1811-42-43">
+                  <neume facs="#zone-n-1972-1811-42-43" neumeType="virga episema" xml:id="n-1972-1811-42-43">
                     <nc>
                       <episema/>
                     </nc>
@@ -1031,7 +1031,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2130-1858-2245-1967" xml:id="syl-2130-1858-2245-1967">
                   <syl wordpos="m">du</syl>
-                  <neume facs="#zone-n-2192-1805-58-49" neumeType="pressusmaior" xml:id="n-2192-1805-58-49">
+                  <neume facs="#zone-n-2192-1805-58-49" neumeType="pressus maior" xml:id="n-2192-1805-58-49">
                     <nc/>
                     <nc intm="s"/>
                     <nc intm="d"/>
@@ -1055,7 +1055,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2462-1863-2584-1975" xml:id="syl-2462-1863-2584-1975">
                   <syl wordpos="i">ter</syl>
-                  <neume facs="#zone-n-2512-1799-61-60" neumeType="torculus" xml:id="n-2512-1799-61-60">
+                  <neume facs="#zone-n-2512-1799-61-60" neumeType="torculus liquescens" xml:id="n-2512-1799-61-60">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -1083,7 +1083,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2827-1869-2915-1978" xml:id="syl-2827-1869-2915-1978">
                   <syl wordpos="t">tis</syl>
-                  <neume facs="#zone-n-2865-1819-67-51" neumeType="clivis" xml:id="n-2865-1819-67-51">
+                  <neume facs="#zone-n-2865-1819-67-51" neumeType="clivis episema" xml:id="n-2865-1819-67-51">
                     <nc>
                       <episema/>
                     </nc>
@@ -1125,7 +1125,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2037-2038-2156-2158" xml:id="syl-2037-2038-2156-2158">
                   <syl wordpos="m">ras</syl>
-                  <neume facs="#zone-n-2087-1986-44-48" neumeType="virga" xml:id="n-2087-1986-44-48">
+                  <neume facs="#zone-n-2087-1986-44-48" neumeType="virga episema" xml:id="n-2087-1986-44-48">
                     <nc>
                       <episema/>
                     </nc>
@@ -1146,7 +1146,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2236-2046-2373-2159" xml:id="syl-2236-2046-2373-2159">
                   <syl wordpos="i">Cru</syl>
-                  <neume facs="#zone-n-2305-1996-52-51" neumeType="clivis" xml:id="n-2305-1996-52-51">
+                  <neume facs="#zone-n-2305-1996-52-51" neumeType="clivis episema" xml:id="n-2305-1996-52-51">
                     <nc>
                       <episema/>
                     </nc>
@@ -1157,13 +1157,13 @@
                 </syllable>
                 <syllable facs="#zone-syl-2372-2066-2520-2168" xml:id="syl-2372-2066-2520-2168">
                   <syl wordpos="t">cem</syl>
-                  <neume facs="#zone-n-2434-1961-107-95" neumeType="salicussubbipunctis" xml:id="n-2434-1961-107-95">
+                  <neume facs="#zone-n-2434-1961-107-95" neumeType="salicus subbipunctis" xml:id="n-2434-1961-107-95">
                     <nc/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2535-2043-2648-2168" xml:id="syl-2535-2043-2648-2168">
                   <syl wordpos="i">sal</syl>
-                  <neume facs="#zone-n-2583-1984-53-57" neumeType="torculus" xml:id="n-2583-1984-53-57">
+                  <neume facs="#zone-n-2583-1984-53-57" neumeType="torculus liquescens" xml:id="n-2583-1984-53-57">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -1173,7 +1173,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2648-2052-2751-2168" xml:id="syl-2648-2052-2751-2168">
                   <syl wordpos="m">va</syl>
-                  <neume facs="#zone-n-2723-2005-45-47" neumeType="virga" xml:id="n-2723-2005-45-47">
+                  <neume facs="#zone-n-2723-2005-45-47" neumeType="virga episema" xml:id="n-2723-2005-45-47">
                     <nc>
                       <episema/>
                     </nc>
@@ -1195,7 +1195,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2950-2055-3087-2168" xml:id="syl-2950-2055-3087-2168">
                   <syl wordpos="s">tuo</syl>
-                  <neume facs="#zone-n-2988-2011-62-54" neumeType="clivis" xml:id="n-2988-2011-62-54">
+                  <neume facs="#zone-n-2988-2011-62-54" neumeType="clivis episema" xml:id="n-2988-2011-62-54">
                     <nc>
                       <episema/>
                     </nc>
@@ -1203,7 +1203,7 @@
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-3059-2039-30-16" neumeType="tractulus" xml:id="n-3059-2039-30-16">
+                  <neume facs="#zone-n-3059-2039-30-16" neumeType="tractulus episema" xml:id="n-3059-2039-30-16">
                     <nc>
                       <episema/>
                     </nc>
@@ -1212,7 +1212,7 @@
                 <lb facs="#zone-line-9" n="9"/>
                 <syllable facs="#zone-syl-1578-2213-1873-2362" xml:id="syl-1578-2213-1873-2362">
                   <syl wordpos="s">quid</syl>
-                  <neume facs="#zone-n-1767-2206-27-19" neumeType="tractulus" xml:id="n-1767-2206-27-19">
+                  <neume facs="#zone-n-1767-2206-27-19" neumeType="tractulus episema" xml:id="n-1767-2206-27-19">
                     <nc>
                       <episema/>
                     </nc>
@@ -1220,7 +1220,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1891-2218-1979-2334" xml:id="syl-1891-2218-1979-2334">
                   <syl wordpos="i">ul</syl>
-                  <neume facs="#zone-n-1913-2166-58-62" neumeType="torculus" xml:id="n-1913-2166-58-62">
+                  <neume facs="#zone-n-1913-2166-58-62" neumeType="torculus liquescens" xml:id="n-1913-2166-58-62">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -1230,7 +1230,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1979-2221-2103-2362" xml:id="syl-1979-2221-2103-2362">
                   <syl wordpos="t">tra</syl>
-                  <neume facs="#zone-n-2071-2184-40-42" neumeType="virga" xml:id="n-2071-2184-40-42">
+                  <neume facs="#zone-n-2071-2184-40-42" neumeType="virga episema" xml:id="n-2071-2184-40-42">
                     <nc>
                       <episema/>
                     </nc>
@@ -1238,12 +1238,12 @@
                 </syllable>
                 <syllable facs="#zone-syl-2129-2221-2219-2360" xml:id="syl-2129-2221-2219-2360">
                   <syl wordpos="i">de</syl>
-                  <neume facs="#zone-n-2159-2200-32-18" neumeType="tractulus" xml:id="n-2159-2200-32-18">
+                  <neume facs="#zone-n-2159-2200-32-18" neumeType="tractulus episema" xml:id="n-2159-2200-32-18">
                     <nc>
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2195-2169-80-46" neumeType="quilisma" xml:id="n-2195-2169-80-46">
+                  <neume facs="#zone-n-2195-2169-80-46" neumeType="quilisma cum episema" xml:id="n-2195-2169-80-46">
                     <nc>
                       <quilisma/>
                     </nc>
@@ -1251,7 +1251,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2219-2221-2351-2358" xml:id="syl-2219-2221-2351-2358">
                   <syl wordpos="t">bui</syl>
-                  <neume facs="#zone-n-2267-2193-56-45" neumeType="clivis" xml:id="n-2267-2193-56-45">
+                  <neume facs="#zone-n-2267-2193-56-45" neumeType="clivis episema" xml:id="n-2267-2193-56-45">
                     <nc>
                       <episema/>
                     </nc>
@@ -1259,7 +1259,7 @@
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2339-2189-40-42" neumeType="virga" xml:id="n-2339-2189-40-42">
+                  <neume facs="#zone-n-2339-2189-40-42" neumeType="virga episema" xml:id="n-2339-2189-40-42">
                     <nc>
                       <episema/>
                     </nc>
@@ -1267,7 +1267,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2369-2224-2450-2371" xml:id="syl-2369-2224-2450-2371">
                   <syl wordpos="i">fa</syl>
-                  <neume facs="#zone-n-2417-2195-46-47" neumeType="virga" xml:id="n-2417-2195-46-47">
+                  <neume facs="#zone-n-2417-2195-46-47" neumeType="virga episema" xml:id="n-2417-2195-46-47">
                     <nc>
                       <episema/>
                     </nc>
@@ -1275,7 +1275,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2450-2238-2538-2362" xml:id="syl-2450-2238-2538-2362">
                   <syl wordpos="m">ce</syl>
-                  <neume facs="#zone-n-2494-2191-58-50" neumeType="clivis" xml:id="n-2494-2191-58-50">
+                  <neume facs="#zone-n-2494-2191-58-50" neumeType="clivis episema" xml:id="n-2494-2191-58-50">
                     <nc>
                       <episema/>
                     </nc>
@@ -1293,7 +1293,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2654-2231-2715-2368" xml:id="syl-2654-2231-2715-2368">
                   <syl wordpos="i">ti</syl>
-                  <neume facs="#zone-n-2678-2196-41-47" neumeType="virga" xml:id="n-2678-2196-41-47">
+                  <neume facs="#zone-n-2678-2196-41-47" neumeType="virga episema" xml:id="n-2678-2196-41-47">
                     <nc>
                       <episema/>
                     </nc>
@@ -1301,7 +1301,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2715-2229-2795-2365" xml:id="syl-2715-2229-2795-2365">
                   <syl wordpos="t">bi</syl>
-                  <neume facs="#zone-n-2752-2192-61-49" neumeType="clivis" xml:id="n-2752-2192-61-49">
+                  <neume facs="#zone-n-2752-2192-61-49" neumeType="clivis episema" xml:id="n-2752-2192-61-49">
                     <nc>
                       <episema/>
                     </nc>
@@ -1312,7 +1312,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2819-2242-2901-2356" xml:id="syl-2819-2242-2901-2356">
                   <syl wordpos="i">ae</syl>
-                  <neume facs="#zone-n-2862-2210-46-44" neumeType="virga" xml:id="n-2862-2210-46-44">
+                  <neume facs="#zone-n-2862-2210-46-44" neumeType="virga episema" xml:id="n-2862-2210-46-44">
                     <nc>
                       <episema/>
                     </nc>
@@ -1327,7 +1327,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-3061-2243-3131-2357" xml:id="syl-3061-2243-3131-2357">
                   <syl wordpos="s">fe</syl>
-                  <neume facs="#zone-n-3096-2205-63-54" neumeType="clivis" xml:id="n-3096-2205-63-54">
+                  <neume facs="#zone-n-3096-2205-63-54" neumeType="clivis episema" xml:id="n-3096-2205-63-54">
                     <nc>
                       <episema/>
                     </nc>
@@ -1339,7 +1339,7 @@
                 <lb facs="#zone-line-10" n="10"/>
                 <syllable facs="#zone-syl-1686-2429-1788-2530" xml:id="syl-1686-2429-1788-2530">
                   <syl wordpos="s">ci</syl>
-                  <neume facs="#zone-n-1762-2338-95-94" neumeType="salicus" xml:id="n-1762-2338-95-94">
+                  <neume facs="#zone-n-1762-2338-95-94" neumeType="salicus episematus" xml:id="n-1762-2338-95-94">
                     <nc>
                       <episema/>
                     </nc>
@@ -1353,13 +1353,13 @@
                 </syllable>
                 <syllable facs="#zone-syl-1811-2432-1956-2543" xml:id="syl-1811-2432-1956-2543">
                   <syl wordpos="s">ego</syl>
-                  <neume facs="#zone-n-1847-2346-83-76" neumeType="pesquadratussubbipunctis" xml:id="n-1847-2346-83-76">
+                  <neume facs="#zone-n-1847-2346-83-76" neumeType="pes quadratus subbipunctis" xml:id="n-1847-2346-83-76">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-1957-2384-50-46" neumeType="virga" xml:id="n-1957-2384-50-46">
+                  <neume facs="#zone-n-1957-2384-50-46" neumeType="virga episema" xml:id="n-1957-2384-50-46">
                     <nc>
                       <episema/>
                     </nc>
@@ -1367,14 +1367,14 @@
                 </syllable>
                 <syllable facs="#zone-syl-1980-2415-2119-2540" xml:id="syl-1980-2415-2119-2540">
                   <syl wordpos="i">qui</syl>
-                  <neume facs="#zone-n-2079-2378-70-46" neumeType="pesquadratus" xml:id="n-2079-2378-70-46">
+                  <neume facs="#zone-n-2079-2378-70-46" neumeType="pes quadratus" xml:id="n-2079-2378-70-46">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2119-2415-2287-2545" xml:id="syl-2119-2415-2287-2545">
                   <syl wordpos="t">dem</syl>
-                  <neume facs="#zone-n-2194-2371-65-52" neumeType="clivis" xml:id="n-2194-2371-65-52">
+                  <neume facs="#zone-n-2194-2371-65-52" neumeType="clivis episema" xml:id="n-2194-2371-65-52">
                     <nc>
                       <episema/>
                     </nc>
@@ -1385,12 +1385,12 @@
                 </syllable>
                 <syllable facs="#zone-syl-2302-2418-2488-2548" xml:id="syl-2302-2418-2488-2548">
                   <syl wordpos="i">plan</syl>
-                  <neume facs="#zone-n-2392-2377-47-47" neumeType="virga" xml:id="n-2392-2377-47-47">
+                  <neume facs="#zone-n-2392-2377-47-47" neumeType="virga episema" xml:id="n-2392-2377-47-47">
                     <nc>
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2436-2369-70-42" neumeType="quilisma" xml:id="n-2436-2369-70-42">
+                  <neume facs="#zone-n-2436-2369-70-42" neumeType="quilisma cum episema" xml:id="n-2436-2369-70-42">
                     <nc>
                       <quilisma/>
                     </nc>
@@ -1403,7 +1403,7 @@
                       <oriscus/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2528-2373-54-54" neumeType="clivis" xml:id="n-2528-2373-54-54">
+                  <neume facs="#zone-n-2528-2373-54-54" neumeType="clivis episema" xml:id="n-2528-2373-54-54">
                     <nc>
                       <episema/>
                     </nc>
@@ -1421,7 +1421,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2665-2421-2749-2535" xml:id="syl-2665-2421-2749-2535">
                   <syl wordpos="s">te</syl>
-                  <neume facs="#zone-n-2709-2378-44-44" neumeType="virga" xml:id="n-2709-2378-44-44">
+                  <neume facs="#zone-n-2709-2378-44-44" neumeType="virga episema" xml:id="n-2709-2378-44-44">
                     <nc>
                       <episema/>
                     </nc>
@@ -1429,7 +1429,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2765-2431-2849-2538" xml:id="syl-2765-2431-2849-2538">
                   <syl wordpos="i">vi</syl>
-                  <neume facs="#zone-n-2818-2382-40-43" neumeType="virga" xml:id="n-2818-2382-40-43">
+                  <neume facs="#zone-n-2818-2382-40-43" neumeType="virga episema" xml:id="n-2818-2382-40-43">
                     <nc>
                       <episema/>
                     </nc>
@@ -1437,7 +1437,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2849-2428-2941-2541" xml:id="syl-2849-2428-2941-2541">
                   <syl wordpos="m">ne</syl>
-                  <neume facs="#zone-n-2888-2409-27-16" neumeType="tractulus" xml:id="n-2888-2409-27-16">
+                  <neume facs="#zone-n-2888-2409-27-16" neumeType="tractulus episema" xml:id="n-2888-2409-27-16">
                     <nc>
                       <episema/>
                     </nc>
@@ -1445,7 +1445,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2941-2423-3056-2545" xml:id="syl-2941-2423-3056-2545">
                   <syl wordpos="t">am</syl>
-                  <neume facs="#zone-n-2979-2382-47-48" neumeType="virga" xml:id="n-2979-2382-47-48">
+                  <neume facs="#zone-n-2979-2382-47-48" neumeType="virga episema" xml:id="n-2979-2382-47-48">
                     <nc>
                       <episema/>
                     </nc>
@@ -1492,7 +1492,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2206-2609-2290-2723" xml:id="syl-2206-2609-2290-2723">
                   <syl wordpos="m">sis</syl>
-                  <neume facs="#zone-n-2260-2554-46-43" neumeType="virgastrata" xml:id="n-2260-2554-46-43">
+                  <neume facs="#zone-n-2260-2554-46-43" neumeType="virga strata" xml:id="n-2260-2554-46-43">
                     <nc/>
                     <nc intm="s">
                       <oriscus/>
@@ -1501,13 +1501,13 @@
                 </syllable>
                 <syllable facs="#zone-syl-2290-2614-2353-2723" xml:id="syl-2290-2614-2353-2723">
                   <syl wordpos="m">si</syl>
-                  <neume facs="#zone-n-2317-2539-28-40" neumeType="virgastrata" xml:id="n-2317-2539-28-40">
+                  <neume facs="#zone-n-2317-2539-28-40" neumeType="virga strata" xml:id="n-2317-2539-28-40">
                     <nc/>
                     <nc intm="s">
                       <oriscus/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2343-2570-40-40" neumeType="virga" xml:id="n-2343-2570-40-40">
+                  <neume facs="#zone-n-2343-2570-40-40" neumeType="virga episema" xml:id="n-2343-2570-40-40">
                     <nc>
                       <episema/>
                     </nc>
@@ -1515,7 +1515,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2353-2620-2534-2731" xml:id="syl-2353-2620-2534-2731">
                   <syl wordpos="t">mam</syl>
-                  <neume facs="#zone-n-2438-2597-25-13" neumeType="tractulus" xml:id="n-2438-2597-25-13">
+                  <neume facs="#zone-n-2438-2597-25-13" neumeType="tractulus episema" xml:id="n-2438-2597-25-13">
                     <nc>
                       <episema/>
                     </nc>
@@ -1537,7 +1537,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2751-2615-2870-2734" xml:id="syl-2751-2615-2870-2734">
                   <syl wordpos="i">fac</syl>
-                  <neume facs="#zone-n-2795-2567-60-52" neumeType="clivis" xml:id="n-2795-2567-60-52">
+                  <neume facs="#zone-n-2795-2567-60-52" neumeType="clivis episema" xml:id="n-2795-2567-60-52">
                     <nc>
                       <episema/>
                     </nc>
@@ -1555,7 +1555,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2975-2618-3064-2734" xml:id="syl-2975-2618-3064-2734">
                   <syl wordpos="s">es</syl>
-                  <neume facs="#zone-n-3014-2582-46-45" neumeType="virga" xml:id="n-3014-2582-46-45">
+                  <neume facs="#zone-n-3014-2582-46-45" neumeType="virga episema" xml:id="n-3014-2582-46-45">
                     <nc>
                       <episema/>
                     </nc>
@@ -1564,7 +1564,7 @@
                 <lb facs="#zone-line-12" n="12"/>
                 <syllable facs="#zone-syl-1683-2781-1806-2900" xml:id="syl-1683-2781-1806-2900">
                   <syl wordpos="i">mi</syl>
-                  <neume facs="#zone-n-1775-2744-49-55" neumeType="virga" xml:id="n-1775-2744-49-55">
+                  <neume facs="#zone-n-1775-2744-49-55" neumeType="virga episema" xml:id="n-1775-2744-49-55">
                     <nc>
                       <episema/>
                     </nc>
@@ -1572,7 +1572,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1806-2790-1884-2895" xml:id="syl-1806-2790-1884-2895">
                   <syl wordpos="t">hi</syl>
-                  <neume facs="#zone-n-1859-2741-36-42" neumeType="virga" xml:id="n-1859-2741-36-42">
+                  <neume facs="#zone-n-1859-2741-36-42" neumeType="virga episema" xml:id="n-1859-2741-36-42">
                     <nc>
                       <episema/>
                     </nc>
@@ -1580,7 +1580,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1905-2785-1983-2900" xml:id="syl-1905-2785-1983-2900">
                   <syl wordpos="i">ni</syl>
-                  <neume facs="#zone-n-1955-2748-41-43" neumeType="clivis" xml:id="n-1955-2748-41-43">
+                  <neume facs="#zone-n-1955-2748-41-43" neumeType="clivis episema" xml:id="n-1955-2748-41-43">
                     <nc>
                       <episema/>
                     </nc>
@@ -1591,7 +1591,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1983-2784-2125-2906" xml:id="syl-1983-2784-2125-2906">
                   <syl wordpos="t">mis</syl>
-                  <neume facs="#zone-n-2044-2769-25-13" neumeType="tractulus" xml:id="n-2044-2769-25-13">
+                  <neume facs="#zone-n-2044-2769-25-13" neumeType="tractulus episema" xml:id="n-2044-2769-25-13">
                     <nc>
                       <episema/>
                     </nc>
@@ -1599,7 +1599,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2139-2787-2182-2898" xml:id="syl-2139-2787-2182-2898">
                   <syl wordpos="s">a</syl>
-                  <neume facs="#zone-n-2166-2746-43-46" neumeType="virga" xml:id="n-2166-2746-43-46">
+                  <neume facs="#zone-n-2166-2746-43-46" neumeType="virga episema" xml:id="n-2166-2746-43-46">
                     <nc>
                       <episema/>
                     </nc>
@@ -1607,7 +1607,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2196-2789-2317-2909" xml:id="syl-2196-2789-2317-2909">
                   <syl wordpos="i">ma</syl>
-                  <neume facs="#zone-n-2254-2749-56-47" neumeType="virgastrata" xml:id="n-2254-2749-56-47">
+                  <neume facs="#zone-n-2254-2749-56-47" neumeType="virga strata" xml:id="n-2254-2749-56-47">
                     <nc/>
                     <nc intm="s">
                       <oriscus/>
@@ -1616,7 +1616,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2317-2790-2409-2897" xml:id="syl-2317-2790-2409-2897">
                   <syl wordpos="t">ra</syl>
-                  <neume facs="#zone-n-2353-2777-23-17" neumeType="tractulus" xml:id="n-2353-2777-23-17">
+                  <neume facs="#zone-n-2353-2777-23-17" neumeType="tractulus episema" xml:id="n-2353-2777-23-17">
                     <nc>
                       <episema/>
                     </nc>
@@ -1624,7 +1624,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2430-2795-2572-2914" xml:id="syl-2430-2795-2572-2914">
                   <syl wordpos="i">ace</syl>
-                  <neume facs="#zone-n-2456-2747-45-47" neumeType="virga" xml:id="n-2456-2747-45-47">
+                  <neume facs="#zone-n-2456-2747-45-47" neumeType="virga episema" xml:id="n-2456-2747-45-47">
                     <nc>
                       <episema/>
                     </nc>
@@ -1635,7 +1635,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2572-2809-2657-2908" xml:id="syl-2572-2809-2657-2908">
                   <syl wordpos="t">to</syl>
-                  <neume facs="#zone-n-2631-2723-99-84" neumeType="salicus" xml:id="n-2631-2723-99-84">
+                  <neume facs="#zone-n-2631-2723-99-84" neumeType="salicus episematus" xml:id="n-2631-2723-99-84">
                     <nc>
                       <episema/>
                     </nc>
@@ -1660,7 +1660,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2863-2811-3012-2919" xml:id="syl-2863-2811-3012-2919">
                   <syl wordpos="t">que</syl>
-                  <neume facs="#zone-n-2920-2788-30-16" neumeType="tractulus" xml:id="n-2920-2788-30-16">
+                  <neume facs="#zone-n-2920-2788-30-16" neumeType="tractulus episema" xml:id="n-2920-2788-30-16">
                     <nc>
                       <episema/>
                     </nc>
@@ -1671,7 +1671,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-3058-2970-3088-2971" xml:id="syl-3058-2970-3088-2971">
                   <syl wordpos="s">1</syl>
-                  <neume facs="#zone-n-3068-2768-40-42" neumeType="virga" xml:id="n-3068-2768-40-42">
+                  <neume facs="#zone-n-3068-2768-40-42" neumeType="virga episema" xml:id="n-3068-2768-40-42">
                     <nc>
                       <episema/>
                     </nc>
@@ -1687,7 +1687,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1884-2975-2002-3092" xml:id="syl-1884-2975-2002-3092">
                   <syl wordpos="i">me</syl>
-                  <neume facs="#zone-n-1961-2958-34-19" neumeType="tractulus" xml:id="n-1961-2958-34-19">
+                  <neume facs="#zone-n-1961-2958-34-19" neumeType="tractulus episema" xml:id="n-1961-2958-34-19">
                     <nc>
                       <episema/>
                     </nc>
@@ -1695,7 +1695,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2002-2978-2121-3106" xml:id="syl-2002-2978-2121-3106">
                   <syl wordpos="t">am</syl>
-                  <neume facs="#zone-n-2069-2933-44-47" neumeType="virga" xml:id="n-2069-2933-44-47">
+                  <neume facs="#zone-n-2069-2933-44-47" neumeType="virga episema" xml:id="n-2069-2933-44-47">
                     <nc>
                       <episema/>
                     </nc>
@@ -1703,7 +1703,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2136-2978-2247-3108" xml:id="syl-2136-2978-2247-3108">
                   <syl wordpos="i">po</syl>
-                  <neume facs="#zone-n-2206-2935-60-48" neumeType="clivis" xml:id="n-2206-2935-60-48">
+                  <neume facs="#zone-n-2206-2935-60-48" neumeType="clivis episema" xml:id="n-2206-2935-60-48">
                     <nc>
                       <episema/>
                     </nc>
@@ -1721,7 +1721,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2349-2981-2421-3111" xml:id="syl-2349-2981-2421-3111">
                   <syl wordpos="t">ti</syl>
-                  <neume facs="#zone-n-2373-2934-58-52" neumeType="clivis" xml:id="n-2373-2934-58-52">
+                  <neume facs="#zone-n-2373-2934-58-52" neumeType="clivis episema" xml:id="n-2373-2934-58-52">
                     <nc>
                       <episema/>
                     </nc>
@@ -1732,14 +1732,14 @@
                 </syllable>
                 <syllable facs="#zone-syl-2437-2981-2499-3106" xml:id="syl-2437-2981-2499-3106">
                   <syl wordpos="s">et</syl>
-                  <neume facs="#zone-n-2474-2944-57-44" neumeType="pesquadratus" xml:id="n-2474-2944-57-44">
+                  <neume facs="#zone-n-2474-2944-57-44" neumeType="pes quadratus" xml:id="n-2474-2944-57-44">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2515-2984-2656-3114" xml:id="syl-2515-2984-2656-3114">
                   <syl wordpos="i">lan</syl>
-                  <neume facs="#zone-n-2563-2919-64-64" neumeType="torculus" xml:id="n-2563-2919-64-64">
+                  <neume facs="#zone-n-2563-2919-64-64" neumeType="torculus liquescens" xml:id="n-2563-2919-64-64">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -1753,7 +1753,7 @@
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2753-2940-42-49" neumeType="virga" xml:id="n-2753-2940-42-49">
+                  <neume facs="#zone-n-2753-2940-42-49" neumeType="virga episema" xml:id="n-2753-2940-42-49">
                     <nc>
                       <episema/>
                     </nc>
@@ -1761,7 +1761,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2798-2986-2940-3120" xml:id="syl-2798-2986-2940-3120">
                   <syl wordpos="i">per</syl>
-                  <neume facs="#zone-n-2880-2941-47-49" neumeType="virga" xml:id="n-2880-2941-47-49">
+                  <neume facs="#zone-n-2880-2941-47-49" neumeType="virga episema" xml:id="n-2880-2941-47-49">
                     <nc>
                       <episema/>
                     </nc>
@@ -1769,7 +1769,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2940-2988-3019-3118" xml:id="syl-2940-2988-3019-3118">
                   <syl wordpos="m">fo</syl>
-                  <neume facs="#zone-n-2977-2948-40-42" neumeType="virga" xml:id="n-2977-2948-40-42">
+                  <neume facs="#zone-n-2977-2948-40-42" neumeType="virga episema" xml:id="n-2977-2948-40-42">
                     <nc>
                       <episema/>
                     </nc>
@@ -1777,7 +1777,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-3019-2989-3097-3120" xml:id="syl-3019-2989-3097-3120">
                   <syl wordpos="t">ra</syl>
-                  <neume facs="#zone-n-3084-2936-44-46" neumeType="virga" xml:id="n-3084-2936-44-46">
+                  <neume facs="#zone-n-3084-2936-44-46" neumeType="virga episema" xml:id="n-3084-2936-44-46">
                     <nc>
                       <episema/>
                     </nc>
@@ -1786,7 +1786,7 @@
                 <lb facs="#zone-line-14" n="14"/>
                 <syllable facs="#zone-syl-1683-3139-1806-3297" xml:id="syl-1683-3139-1806-3297">
                   <syl wordpos="s">sti</syl>
-                  <neume facs="#zone-n-1771-3127-39-22" neumeType="tractulus" xml:id="n-1771-3127-39-22">
+                  <neume facs="#zone-n-1771-3127-39-22" neumeType="tractulus episema" xml:id="n-1771-3127-39-22">
                     <nc>
                       <episema/>
                     </nc>
@@ -1794,7 +1794,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1834-3142-1917-3297" xml:id="syl-1834-3142-1917-3297">
                   <syl wordpos="i">la</syl>
-                  <neume facs="#zone-n-1876-3094-69-59" neumeType="clivis" xml:id="n-1876-3094-69-59">
+                  <neume facs="#zone-n-1876-3094-69-59" neumeType="clivis episema" xml:id="n-1876-3094-69-59">
                     <nc>
                       <episema/>
                     </nc>
@@ -1805,7 +1805,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1917-3144-2056-3283" xml:id="syl-1917-3144-2056-3283">
                   <syl wordpos="t">tus</syl>
-                  <neume facs="#zone-n-1993-3075-107-88" neumeType="salicus" xml:id="n-1993-3075-107-88">
+                  <neume facs="#zone-n-1993-3075-107-88" neumeType="salicus episematus" xml:id="n-1993-3075-107-88">
                     <nc>
                       <episema/>
                     </nc>
@@ -1819,7 +1819,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2074-3147-2185-3300" xml:id="syl-2074-3147-2185-3300">
                   <syl wordpos="i">Sal</syl>
-                  <neume facs="#zone-n-2126-3086-54-67" neumeType="torculus" xml:id="n-2126-3086-54-67">
+                  <neume facs="#zone-n-2126-3086-54-67" neumeType="torculus liquescens" xml:id="n-2126-3086-54-67">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d">
@@ -1829,7 +1829,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2185-3170-2296-3303" xml:id="syl-2185-3170-2296-3303">
                   <syl wordpos="m">va</syl>
-                  <neume facs="#zone-n-2272-3116-45-42" neumeType="virga" xml:id="n-2272-3116-45-42">
+                  <neume facs="#zone-n-2272-3116-45-42" neumeType="virga episema" xml:id="n-2272-3116-45-42">
                     <nc>
                       <episema/>
                     </nc>
@@ -1845,7 +1845,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2380-3172-2463-3300" xml:id="syl-2380-3172-2463-3300">
                   <syl wordpos="t">ri</syl>
-                  <neume facs="#zone-n-2423-3152-31-19" neumeType="tractulus" xml:id="n-2423-3152-31-19">
+                  <neume facs="#zone-n-2423-3152-31-19" neumeType="tractulus episema" xml:id="n-2423-3152-31-19">
                     <nc>
                       <episema/>
                     </nc>
@@ -1853,7 +1853,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2482-3187-2579-3297" xml:id="syl-2482-3187-2579-3297">
                   <syl wordpos="i">tu</syl>
-                  <neume facs="#zone-n-2508-3123-80-49" neumeType="clivis" xml:id="n-2508-3123-80-49">
+                  <neume facs="#zone-n-2508-3123-80-49" neumeType="clivis episema" xml:id="n-2508-3123-80-49">
                     <nc>
                       <episema/>
                     </nc>
@@ -1864,7 +1864,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2579-3185-2698-3276" xml:id="syl-2579-3185-2698-3276">
                   <syl wordpos="t">o.</syl>
-                  <neume facs="#zone-n-2591-3161-33-16" neumeType="tractulus" xml:id="n-2591-3161-33-16">
+                  <neume facs="#zone-n-2591-3161-33-16" neumeType="tractulus episema" xml:id="n-2591-3161-33-16">
                     <nc>
                       <episema/>
                     </nc>
