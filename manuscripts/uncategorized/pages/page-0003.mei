@@ -667,7 +667,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1747-1116-1846-1178" xml:id="syl-1747-1116-1846-1178">
                   <syl con="d" wordpos="m">xis</syl>
-                  <neume facs="#zone-n-1820-1056-38-37" neumeType="punctum" xml:id="n-1820-1056-38-37">
+                  <neume facs="#zone-n-1820-1056-38-37" neumeType="virga" xml:id="n-1820-1056-38-37">
                     <nc/>
                   </neume>
                 </syllable>
