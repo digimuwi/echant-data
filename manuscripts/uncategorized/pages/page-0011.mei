@@ -755,7 +755,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2814-1320-2967-1406" xml:id="syl-2814-1320-2967-1406">
                   <syl wordpos="s">cal</syl>
-                  <neume facs="#zone-n-2904-1263-82-55" neumeType="pes subbipunctis" xml:id="n-2904-1263-82-55">
+                  <neume facs="#zone-n-2904-1263-82-55" neumeType="pes quadratus subbipunctis" xml:id="n-2904-1263-82-55">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
