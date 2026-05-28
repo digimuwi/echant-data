@@ -547,7 +547,7 @@
       "key": "pressusminor"
     },
     {
-      "active": true,
+      "active": false,
       "description": "",
       "display_name": "Pressusmaior",
       "id": 78,
