@@ -24,12 +24,6 @@
       },
       "oa:hasTarget": [
         {
-          "echant:role": "to",
-          "oa:hasSource": {
-            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/pages/75.mei#800-2987-67-41"
-          }
-        },
-        {
           "echant:role": "from",
           "oa:hasSource": {
             "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/pages/126.mei#1276-1053-75-45"
@@ -53,12 +47,6 @@
         "type": "hico:InterpretationAct"
       },
       "oa:hasTarget": [
-        {
-          "echant:role": "from",
-          "oa:hasSource": {
-            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/pages/75.mei#619-2988-54-39"
-          }
-        },
         {
           "echant:role": "to",
           "oa:hasSource": {
@@ -84,12 +72,6 @@
       },
       "oa:hasTarget": [
         {
-          "echant:role": "from",
-          "oa:hasSource": {
-            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/pages/75.mei#886-2995-39-21"
-          }
-        },
-        {
           "echant:role": "to",
           "oa:hasSource": {
             "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/pages/126.mei#1373-1055-33-23"
@@ -114,12 +96,6 @@
       },
       "oa:hasTarget": [
         {
-          "echant:role": "from",
-          "oa:hasSource": {
-            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/pages/75.mei#725-3381-61-61"
-          }
-        },
-        {
           "echant:role": "to",
           "oa:hasSource": {
             "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/pages/126.mei#2285-1271-60-54"
@@ -143,12 +119,6 @@
         "type": "hico:InterpretationAct"
       },
       "oa:hasTarget": [
-        {
-          "echant:role": "from",
-          "oa:hasSource": {
-            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/pages/75.mei#619-2988-54-39"
-          }
-        },
         {
           "echant:role": "to",
           "oa:hasSource": {
