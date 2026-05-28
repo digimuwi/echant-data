@@ -416,7 +416,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1988-727-2100-843" xml:id="syl-1988-727-2100-843">
                   <syl wordpos="i">me</syl>
-                  <neume facs="#zone-n-2070-671-64-47" neumeType="pes" xml:id="n-2070-671-64-47">
+                  <neume facs="#zone-n-2070-671-64-47" neumeType="pesquadratus" xml:id="n-2070-671-64-47">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
@@ -583,7 +583,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2858-915-3031-1036" xml:id="syl-2858-915-3031-1036">
                   <syl wordpos="s">quia</syl>
-                  <neume facs="#zone-n-2913-850-74-64" neumeType="pes" xml:id="n-2913-850-74-64">
+                  <neume facs="#zone-n-2913-850-74-64" neumeType="pesquadratussubbipunctis" xml:id="n-2913-850-74-64">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -633,7 +633,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1951-1101-2041-1225" xml:id="syl-1951-1101-2041-1225">
                   <syl wordpos="s">de</syl>
-                  <neume facs="#zone-n-2003-1041-68-49" neumeType="pes" xml:id="n-2003-1041-68-49">
+                  <neume facs="#zone-n-2003-1041-68-49" neumeType="pesquadratus" xml:id="n-2003-1041-68-49">
                     <nc/>
                     <nc intm="u"/>
                     <signifLet place="below-left">l</signifLet>
@@ -641,7 +641,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2065-1101-2186-1223" xml:id="syl-2065-1101-2186-1223">
                   <syl wordpos="i">ter</syl>
-                  <neume facs="#zone-n-2120-1046-66-50" neumeType="pes" xml:id="n-2120-1046-66-50">
+                  <neume facs="#zone-n-2120-1046-66-50" neumeType="pesquadratus" xml:id="n-2120-1046-66-50">
                     <nc/>
                     <nc intm="u"/>
                     <signifLet place="below-left">l</signifLet>
@@ -690,7 +690,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2700-1122-2807-1228" xml:id="syl-2700-1122-2807-1228">
                   <syl wordpos="i">pa</syl>
-                  <neume facs="#zone-n-2751-1058-73-48" neumeType="pes" xml:id="n-2751-1058-73-48">
+                  <neume facs="#zone-n-2751-1058-73-48" neumeType="pesquadratus" xml:id="n-2751-1058-73-48">
                     <nc/>
                     <nc intm="u"/>
                     <signifLet place="below-left">l</signifLet>
@@ -804,7 +804,7 @@
                 <lb facs="#zone-line-5" n="5"/>
                 <syllable facs="#zone-syl-1616-1464-1885-1594" xml:id="syl-1616-1464-1885-1594">
                   <syl wordpos="s">Quia</syl>
-                  <neume facs="#zone-n-1733-1396-82-73" neumeType="pes" xml:id="n-1733-1396-82-73">
+                  <neume facs="#zone-n-1733-1396-82-73" neumeType="pesquadratussubbipunctis" xml:id="n-1733-1396-82-73">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -813,7 +813,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1908-1480-2057-1600" xml:id="syl-1908-1480-2057-1600">
                   <syl wordpos="s">ego</syl>
-                  <neume facs="#zone-n-1924-1424-63-45" neumeType="pes" xml:id="n-1924-1424-63-45">
+                  <neume facs="#zone-n-1924-1424-63-45" neumeType="pesquadratus" xml:id="n-1924-1424-63-45">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
@@ -1353,7 +1353,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1811-2432-1956-2543" xml:id="syl-1811-2432-1956-2543">
                   <syl wordpos="s">ego</syl>
-                  <neume facs="#zone-n-1847-2346-83-76" neumeType="pes" xml:id="n-1847-2346-83-76">
+                  <neume facs="#zone-n-1847-2346-83-76" neumeType="pesquadratussubbipunctis" xml:id="n-1847-2346-83-76">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -1367,7 +1367,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1980-2415-2119-2540" xml:id="syl-1980-2415-2119-2540">
                   <syl wordpos="i">qui</syl>
-                  <neume facs="#zone-n-2079-2378-70-46" neumeType="pes" xml:id="n-2079-2378-70-46">
+                  <neume facs="#zone-n-2079-2378-70-46" neumeType="pesquadratus" xml:id="n-2079-2378-70-46">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
@@ -1732,7 +1732,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2437-2981-2499-3106" xml:id="syl-2437-2981-2499-3106">
                   <syl wordpos="s">et</syl>
-                  <neume facs="#zone-n-2474-2944-57-44" neumeType="pes" xml:id="n-2474-2944-57-44">
+                  <neume facs="#zone-n-2474-2944-57-44" neumeType="pesquadratus" xml:id="n-2474-2944-57-44">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
