@@ -43,7 +43,6 @@
           <zone lrx="673" lry="3027" points="619,2988 673,2988 673,3027 619,3027" ulx="619" uly="2988" xml:id="zone-n-619-2988-54-39"/>
           <zone lrx="752" lry="3044" points="690,2996 752,2996 752,3044 690,3044" ulx="690" uly="2996" xml:id="zone-n-690-2996-62-48"/>
           <zone lrx="867" lry="3028" points="800,2987 867,2987 867,3028 800,3028" ulx="800" uly="2987" xml:id="zone-n-800-2987-67-41"/>
-          <zone lrx="903" lry="3015" points="886,2996 903,2996 903,3015 886,3015" ulx="886" uly="2996" xml:id="zone-n-886-2996-17-19"/>
           <zone lrx="1039" lry="3040" points="1000,2994 1039,2994 1039,3040 1000,3040" ulx="1000" uly="2994" xml:id="zone-n-1000-2994-39-46"/>
           <zone lrx="1110" lry="3057" points="1051,3022 1110,3022 1110,3057 1051,3057" ulx="1051" uly="3022" xml:id="zone-n-1051-3022-59-35"/>
           <zone lrx="1155" lry="3115" points="1112,3056 1155,3056 1155,3115 1112,3115" ulx="1112" uly="3056" xml:id="zone-n-1112-3056-43-59"/>
@@ -114,9 +113,9 @@
                 </syllable>
                 <syllable facs="#zone-syl-558-3056-639-3155" xml:id="syl-558-3056-639-3155">
                   <syl con="d" wordpos="m">fu</syl>
-                  <neume facs="#zone-n-619-2988-54-39" neumeType="clivis" xml:id="n-619-2988-54-39">
+                  <neume facs="#zone-n-619-2988-54-39" neumeType="bistropha" xml:id="n-619-2988-54-39">
                     <nc/>
-                    <nc intm="d"/>
+                    <nc intm="s"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-639-3056-731-3155" xml:id="syl-639-3056-731-3155">
@@ -135,17 +134,14 @@
                     <nc intm="d"/>
                     <signifLet place="above">c</signifLet>
                   </neume>
-                  <neume facs="#zone-n-886-2996-17-19" neumeType="bistropha" xml:id="n-886-2996-17-19">
-                    <nc/>
-                    <nc intm="s"/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-898-3056-1025-3155" xml:id="syl-898-3056-1025-3155">
                   <syl con="d" wordpos="i">gra</syl>
-                  <neume facs="#zone-n-1000-2994-39-46" neumeType="virga" xml:id="n-1000-2994-39-46">
+                  <neume facs="#zone-n-1000-2994-39-46" neumeType="bistropha" xml:id="n-1000-2994-39-46">
                     <nc>
                       <episema/>
                     </nc>
+                    <nc intm="s"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1025-3056-1169-3155" xml:id="syl-1025-3056-1169-3155">
