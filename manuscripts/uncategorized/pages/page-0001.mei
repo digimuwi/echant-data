@@ -93,7 +93,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2183-3148-2270-3220" xml:id="syl-2183-3148-2270-3220">
                   <syl con="s" wordpos="s">&amp;</syl>
-                  <neume facs="#zone-n-2213-3077-64-49" neumeType="pes" xml:id="n-2213-3077-64-49">
+                  <neume facs="#zone-n-2213-3077-64-49" neumeType="pesquadratus" xml:id="n-2213-3077-64-49">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
@@ -148,7 +148,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-3145-3148-3295-3220" xml:id="syl-3145-3148-3295-3220">
                   <syl con="s" wordpos="t">cit</syl>
-                  <neume facs="#zone-n-3206-3087-63-46" neumeType="pes" xml:id="n-3206-3087-63-46">
+                  <neume facs="#zone-n-3206-3087-63-46" neumeType="pesquadratus" xml:id="n-3206-3087-63-46">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
