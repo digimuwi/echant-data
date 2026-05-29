@@ -256,7 +256,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2183-3056-2326-3155" xml:id="syl-2183-3056-2326-3155">
-                  <syl con="s" wordpos="s">pro</syl>
+                  <syl con="d" wordpos="i">prop</syl>
                   <neume facs="#zone-n-2310-3001-49-29" neumeType="torculus" xml:id="n-2310-3001-49-29">
                     <nc/>
                     <nc intm="u"/>
@@ -265,7 +265,7 @@
                 </syllable>
                 <lb facs="#zone-line-2" n="2"/>
                 <syllable facs="#zone-syl-394-3265-573-3342" xml:id="syl-394-3265-573-3342">
-                  <syl con="d" wordpos="i">pter</syl>
+                  <syl con="d" wordpos="i">ter</syl>
                   <neume facs="#zone-n-508-3202-58-38" neumeType="torculus" xml:id="n-508-3202-58-38">
                     <nc/>
                     <nc intm="u"/>
@@ -273,7 +273,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-573-3265-744-3342" xml:id="syl-573-3265-744-3342">
-                  <syl con="s" wordpos="t">ta</syl>
+                  <syl con="s" wordpos="t">ea</syl>
                   <neume facs="#zone-n-601-3190-58-44" neumeType="porrectus" xml:id="n-601-3190-58-44">
                     <nc/>
                     <nc intm="d"/>
