@@ -11,6 +11,15 @@
   "@graph": [
     {
       "echant:active": true,
+      "id": "echant:phenomenon:acceleration",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Acceleration",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
       "id": "echant:phenomenon:de-episemation",
       "skos:definition": "An episema present in the source is absent in the target.",
       "skos:inScheme": {
@@ -112,6 +121,9 @@
   ],
   "id": "echant:phenomena",
   "skos:hasTopConcept": [
+    {
+      "id": "echant:phenomenon:acceleration"
+    },
     {
       "id": "echant:phenomenon:de-episemation"
     },
