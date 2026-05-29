@@ -878,7 +878,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1696-1310-1800-1406" xml:id="syl-1696-1310-1800-1406">
                   <syl con="d" wordpos="i">do</syl>
-                  <neume facs="#zone-n-1721-1248-38-42" neumeType="unknown" xml:id="n-1721-1248-38-42">
+                  <neume facs="#zone-n-1721-1248-38-42" neumeType="torculus subpunctis" xml:id="n-1721-1248-38-42">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-1784-1279-62-36" neumeType="pes quadratus" xml:id="n-1784-1279-62-36">
