@@ -23,7 +23,8 @@
           <zone lrx="1169" lry="3155" points="1025,3056 1025,3155 1169,3155 1169,3056" ulx="1025" uly="3056" xml:id="zone-syl-1025-3056-1169-3155"/>
           <zone lrx="1261" lry="3155" points="1180,3056 1180,3155 1261,3155 1261,3056" ulx="1180" uly="3056" xml:id="zone-syl-1180-3056-1261-3155"/>
           <zone lrx="1353" lry="3155" points="1272,3056 1272,3155 1353,3155 1353,3056" ulx="1272" uly="3056" xml:id="zone-syl-1272-3056-1353-3155"/>
-          <zone lrx="1514" lry="3155" points="1353,3056 1353,3155 1514,3155 1514,3056" ulx="1353" uly="3056" xml:id="zone-syl-1353-3056-1514-3155"/>
+          <zone lrx="1410" lry="3128" points="1360,3069 1410,3069 1410,3128 1360,3128" ulx="1360" uly="3069" xml:id="zone-syl-1360-3069-1410-3128"/>
+          <zone lrx="1492" lry="3138" points="1408,3071 1492,3071 1492,3138 1408,3138" ulx="1408" uly="3071" xml:id="zone-syl-1408-3071-1492-3138"/>
           <zone lrx="1618" lry="3133" points="1515,3093 1618,3093 1618,3133 1515,3133" ulx="1515" uly="3093" xml:id="zone-syl-1515-3093-1618-3133"/>
           <zone lrx="1984" lry="3138" points="1900,3075 1984,3075 1984,3138 1900,3138" ulx="1900" uly="3075" xml:id="zone-syl-1900-3075-1984-3138"/>
           <zone lrx="2326" lry="3155" points="2183,3056 2183,3155 2326,3155 2326,3056" ulx="2183" uly="3056" xml:id="zone-syl-2183-3056-2326-3155"/>
@@ -52,7 +53,7 @@
           <zone lrx="1236" lry="3048" points="1217,3035 1236,3035 1236,3048 1217,3048" ulx="1217" uly="3035" xml:id="zone-n-1217-3035-19-13"/>
           <zone lrx="1385" lry="3042" points="1312,2971 1385,2971 1385,3042 1312,3042" ulx="1312" uly="2971" xml:id="zone-n-1312-2971-73-71"/>
           <zone lrx="1441" lry="3042" points="1402,3017 1441,3017 1441,3042 1402,3042" ulx="1402" uly="3017" xml:id="zone-n-1402-3017-39-25"/>
-          <zone lrx="1503" lry="3034" points="1456,2981 1503,2981 1503,3034 1456,3034" ulx="1456" uly="2981" xml:id="zone-n-1456-2981-47-53"/>
+          <zone lrx="1503" lry="3034" points="1453,2981 1503,2981 1503,3034 1453,3034" ulx="1453" uly="2981" xml:id="zone-n-1453-2981-50-53"/>
           <zone lrx="1635" lry="3052" points="1603,3010 1635,3010 1635,3052 1603,3052" ulx="1603" uly="3010" xml:id="zone-n-1603-3010-32-42"/>
           <zone lrx="1711" lry="3031" points="1672,3009 1711,3009 1711,3031 1672,3031" ulx="1672" uly="3009" xml:id="zone-n-1672-3009-39-22"/>
           <zone lrx="1773" lry="3031" points="1738,2993 1773,2993 1773,3031 1738,3031" ulx="1738" uly="2993" xml:id="zone-n-1738-2993-35-38"/>
@@ -189,21 +190,20 @@
                     </nc>
                   </neume>
                 </syllable>
-                <syllable facs="#zone-syl-1353-3056-1514-3155" xml:id="syl-1353-3056-1514-3155">
+                <syllable facs="#zone-syl-1360-3069-1410-3128" xml:id="syl-1360-3069-1410-3128">
                   <syl con="d" wordpos="m">bi</syl>
                   <neume facs="#zone-n-1402-3017-39-25" neumeType="bistropha" xml:id="n-1402-3017-39-25">
                     <nc/>
                     <nc intm="s"/>
                   </neume>
-                  <neume facs="#zone-n-1456-2981-47-53" neumeType="pessubpunctis" xml:id="n-1456-2981-47-53">
+                </syllable>
+                <syllable facs="#zone-syl-1408-3071-1492-3138" xml:id="syl-1408-3071-1492-3138">
+                  <syl con="s" wordpos="t">is</syl>
+                  <neume facs="#zone-n-1453-2981-50-53" neumeType="climacus" xml:id="n-1453-2981-50-53">
                     <nc/>
-                    <nc intm="u"/>
                     <nc intm="d"/>
                     <nc intm="d"/>
                   </neume>
-                </syllable>
-                <syllable facs="#zone-syl-syl0-9" xml:id="syl-syl0-9">
-                  <syl con="s" wordpos="t">is</syl>
                 </syllable>
                 <syllable facs="#zone-syl-1515-3093-1618-3133" xml:id="syl-1515-3093-1618-3133">
                   <syl con="d" wordpos="i">tu</syl>
