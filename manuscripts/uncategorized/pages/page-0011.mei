@@ -1636,7 +1636,7 @@
                     <nc/>
                     <nc intm="s"/>
                   </neume>
-                  <neume facs="#zone-n-2858-2804-12-14" neumeType="unknown" xml:id="n-2858-2804-12-14">
+                  <neume facs="#zone-n-2858-2804-12-14" neumeType="levare" xml:id="n-2858-2804-12-14">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-2897-2760-45-31" neumeType="torculus cum episema" xml:id="n-2897-2760-45-31">
