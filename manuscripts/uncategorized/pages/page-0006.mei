@@ -1649,7 +1649,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2678-2818-2863-2920" xml:id="syl-2678-2818-2863-2920">
                   <syl wordpos="i">nam</syl>
-                  <neume facs="#zone-n-2735-2752-62-47" neumeType="unknown" xml:id="n-2735-2752-62-47">
+                  <neume facs="#zone-n-2735-2752-62-47" neumeType="oriscus" xml:id="n-2735-2752-62-47">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-2791-2760-36-36" neumeType="oriscus" xml:id="n-2791-2760-36-36">
