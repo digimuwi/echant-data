@@ -704,7 +704,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2196-1314-2298-1397" xml:id="syl-2196-1314-2298-1397">
                   <syl wordpos="s">In</syl>
-                  <neume facs="#zone-n-2203-1228-38-46" neumeType="unknown" xml:id="n-2203-1228-38-46">
+                  <neume facs="#zone-n-2203-1228-38-46" neumeType="torculus cum episema" xml:id="n-2203-1228-38-46">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-2250-1239-41-26" neumeType="pressus minor" xml:id="n-2250-1239-41-26">
