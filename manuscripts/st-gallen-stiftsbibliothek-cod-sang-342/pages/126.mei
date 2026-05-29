@@ -125,7 +125,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1197-1116-1385-1241" xml:id="syl-1197-1116-1385-1241">
                   <syl con="s" wordpos="s">est</syl>
-                  <neume facs="#zone-n-1279-1052-74-46" neumeType="porrectusflexus" xml:id="n-1279-1052-74-46">
+                  <neume facs="#zone-n-1279-1052-74-46" neumeType="porrectus flexus" xml:id="n-1279-1052-74-46">
                     <nc/>
                     <nc intm="d"/>
                     <nc intm="u"/>
