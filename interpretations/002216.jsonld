@@ -23,12 +23,6 @@
       },
       "oa:hasTarget": [
         {
-          "echant:role": "to",
-          "oa:hasSource": {
-            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/pages/75.mei#800-2987-67-41"
-          }
-        },
-        {
           "echant:role": "from",
           "oa:hasSource": {
             "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/pages/126.mei#1279-1052-74-46"
