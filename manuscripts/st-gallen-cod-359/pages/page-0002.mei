@@ -890,7 +890,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1550-1478-1691-1571" xml:id="syl-1550-1478-1691-1571">
                   <syl con="d" wordpos="i">om</syl>
-                  <neume facs="#zone-n-1607-1398-38-40" neumeType="unknown" xml:id="n-1607-1398-38-40">
+                  <neume facs="#zone-n-1607-1398-38-40" neumeType="torculus cum episema" xml:id="n-1607-1398-38-40">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-1647-1467-33-25" neumeType="virga" xml:id="n-1647-1467-33-25">
