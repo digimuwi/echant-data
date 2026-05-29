@@ -619,7 +619,7 @@
                 <lb facs="#zone-line-3" n="3"/>
                 <syllable facs="#zone-syl-1691-1104-1830-1223" xml:id="syl-1691-1104-1830-1223">
                   <syl wordpos="i">XI</syl>
-                  <neume facs="#zone-n-1762-1041-74-46" neumeType="unknown" xml:id="n-1762-1041-74-46">
+                  <neume facs="#zone-n-1762-1041-74-46" neumeType="oriscus" xml:id="n-1762-1041-74-46">
                     <nc/>
                   </neume>
                 </syllable>
