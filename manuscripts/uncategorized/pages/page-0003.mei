@@ -940,7 +940,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1826-1510-1948-1551" xml:id="syl-1826-1510-1948-1551">
                   <syl con="d" wordpos="i">cap</syl>
-                  <neume facs="#zone-n-1858-1422-44-40" neumeType="unknown" xml:id="n-1858-1422-44-40">
+                  <neume facs="#zone-n-1858-1422-44-40" neumeType="torculus cum episema" xml:id="n-1858-1422-44-40">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-1889-1482-20-11" neumeType="punctum" xml:id="n-1889-1482-20-11">
