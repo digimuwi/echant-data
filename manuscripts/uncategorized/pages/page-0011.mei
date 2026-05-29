@@ -1405,7 +1405,7 @@
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2105-2404-22-26" neumeType="unknown" xml:id="n-2105-2404-22-26">
+                  <neume facs="#zone-n-2105-2404-22-26" neumeType="levare" xml:id="n-2105-2404-22-26">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-2169-2387-56-36" neumeType="torculus cum episema" xml:id="n-2169-2387-56-36">
