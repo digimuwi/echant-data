@@ -807,7 +807,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-794-1295-987-1403" xml:id="syl-794-1295-987-1403">
                   <syl con="s" wordpos="t">te</syl>
-                  <neume facs="#zone-n-869-1259-59-41" neumeType="unknown" xml:id="n-869-1259-59-41">
+                  <neume facs="#zone-n-869-1259-59-41" neumeType="porrectus subbipunctis" xml:id="n-869-1259-59-41">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-951-1244-45-36" neumeType="unknown" xml:id="n-951-1244-45-36">
