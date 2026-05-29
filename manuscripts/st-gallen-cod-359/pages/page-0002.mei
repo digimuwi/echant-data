@@ -1465,7 +1465,7 @@
                     <nc intm="d"/>
                     <signifLet place="above">c</signifLet>
                   </neume>
-                  <neume facs="#zone-n-749-2567-51-71" neumeType="unknown" xml:id="n-749-2567-51-71">
+                  <neume facs="#zone-n-749-2567-51-71" neumeType="climacus" xml:id="n-749-2567-51-71">
                     <nc/>
                   </neume>
                 </syllable>
