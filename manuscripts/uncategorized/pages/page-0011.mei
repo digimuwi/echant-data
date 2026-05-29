@@ -919,7 +919,7 @@
                   <neume facs="#zone-n-2034-1624-31-17" neumeType="stropha" xml:id="n-2034-1624-31-17">
                     <nc/>
                   </neume>
-                  <neume facs="#zone-n-2078-1602-45-61" neumeType="climacus" xml:id="n-2078-1602-45-61">
+                  <neume facs="#zone-n-2078-1602-45-61" neumeType="unknown" xml:id="n-2078-1602-45-61">
                     <nc/>
                     <nc intm="d"/>
                     <nc intm="d"/>
