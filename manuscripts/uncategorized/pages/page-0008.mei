@@ -535,7 +535,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1325-712-1470-832" xml:id="syl-1325-712-1470-832">
                   <syl con="d" wordpos="i">Om</syl>
-                  <neume facs="#zone-n-1344-605-46-31" neumeType="unknown" xml:id="n-1344-605-46-31">
+                  <neume facs="#zone-n-1344-605-46-31" neumeType="torculus cum episema" xml:id="n-1344-605-46-31">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-1394-582-32-44" neumeType="bivirga" xml:id="n-1394-582-32-44">
