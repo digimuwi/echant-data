@@ -6,6 +6,15 @@
         <title>Neumes Playground contribution</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">CH-SGs</idno>
+            <idno type="shelfmark">Cod. Sang. 338</idno>
+            <ptr target="https://e-codices.unifr.ch/metadata/iiif/csg-0338/manifest.json"/>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
