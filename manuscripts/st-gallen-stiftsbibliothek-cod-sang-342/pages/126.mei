@@ -76,6 +76,7 @@
           <zone lrx="1419" lry="1320" points="1384,1281 1419,1281 1419,1320 1384,1320" ulx="1384" uly="1281" xml:id="zone-n-1384-1281-35-39"/>
           <zone lrx="1532" lry="1315" points="1497,1275 1532,1275 1532,1315 1497,1315" ulx="1497" uly="1275" xml:id="zone-n-1497-1275-35-40"/>
           <zone lrx="1591" lry="1304" points="1550,1263 1591,1263 1591,1304 1550,1304" ulx="1550" uly="1263" xml:id="zone-n-1550-1263-41-41"/>
+          <zone lrx="1677" lry="1303" points="1634,1264 1677,1264 1677,1303 1634,1303" ulx="1634" uly="1264" xml:id="zone-n-1634-1264-43-39"/>
           <zone lrx="1795" lry="1336" points="1748,1304 1795,1304 1795,1336 1748,1336" ulx="1748" uly="1304" xml:id="zone-n-1748-1304-47-32"/>
           <zone lrx="1861" lry="1326" points="1825,1284 1861,1284 1861,1326 1825,1326" ulx="1825" uly="1284" xml:id="zone-n-1825-1284-36-42"/>
           <zone lrx="1944" lry="1317" points="1902,1285 1944,1285 1944,1317 1902,1317" ulx="1902" uly="1285" xml:id="zone-n-1902-1285-42-32"/>
@@ -306,7 +307,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1150-1330-1252-1427" xml:id="syl-1150-1330-1252-1427">
-                  <syl con="d" wordpos="m">do</syl>
+                  <syl con="d" wordpos="m">di</syl>
                   <neume facs="#zone-n-1246-1288-37-30" neumeType="virga" xml:id="n-1246-1288-37-30">
                     <nc/>
                   </neume>
@@ -335,6 +336,14 @@
                 </syllable>
                 <syllable facs="#zone-syl-1564-1330-1648-1427" xml:id="syl-1564-1330-1648-1427">
                   <syl con="d" wordpos="i">de</syl>
+                  <neume facs="#zone-n-1634-1264-43-39" neumeType="clivis episema" xml:id="n-1634-1264-43-39">
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1648-1330-1841-1427" xml:id="syl-1648-1330-1841-1427">
                   <syl con="s" wordpos="t">us</syl>
