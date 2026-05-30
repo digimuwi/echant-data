@@ -99,6 +99,9 @@
           <zone lrx="898" lry="3432" points="855,3391 898,3391 898,3432 855,3432" ulx="855" uly="3391" xml:id="zone-n-855-3391-43-41"/>
           <zone lrx="967" lry="3424" points="925,3379 967,3379 967,3424 925,3424" ulx="925" uly="3379" xml:id="zone-n-925-3379-42-45"/>
           <zone lrx="1046" lry="3410" points="990,3366 1046,3366 1046,3410 990,3410" ulx="990" uly="3366" xml:id="zone-n-990-3366-56-44"/>
+          <zone lrx="1139" lry="3220" points="1063,3175 1139,3175 1139,3220 1063,3220" ulx="1063" uly="3175" xml:id="zone-n-1063-3175-76-45"/>
+          <zone lrx="1182" lry="3238" points="1150,3200 1182,3200 1182,3238 1150,3238" ulx="1150" uly="3200" xml:id="zone-n-1150-3200-32-38"/>
+          <zone lrx="1210" lry="3252" points="1177,3208 1210,3208 1210,3252 1177,3252" ulx="1177" uly="3208" xml:id="zone-n-1177-3208-33-44"/>
         </graphic>
       </surface>
     </facsimile>
@@ -317,9 +320,21 @@
                       <episema/>
                     </nc>
                   </neume>
+                  <neume facs="#zone-n-1063-3175-76-45" neumeType="pes" xml:id="n-1063-3175-76-45">
+                    <nc>
+                      <quilisma/>
+                    </nc>
+                    <nc intm="u"/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1089-3265-1201-3342" xml:id="syl-1089-3265-1201-3342">
                   <syl con="s" wordpos="t">it</syl>
+                  <neume facs="#zone-n-1150-3200-32-38" neumeType="punctum" xml:id="n-1150-3200-32-38">
+                    <nc/>
+                  </neume>
+                  <neume facs="#zone-n-1177-3208-33-44" neumeType="punctum" xml:id="n-1177-3208-33-44">
+                    <nc/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1214-3265-1322-3342" xml:id="syl-1214-3265-1322-3342">
                   <syl con="s" wordpos="s">te</syl>
