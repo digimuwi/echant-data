@@ -460,8 +460,11 @@
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-725-3381-61-61" neumeType="climacus" xml:id="n-725-3381-61-61">
+                  <neume facs="#zone-n-725-3381-61-61" neumeType="pes subbipunctis" xml:id="n-725-3381-61-61">
                     <nc/>
+                    <nc intm="u">
+                      <episema/>
+                    </nc>
                     <nc intm="d"/>
                     <nc intm="d"/>
                   </neume>
