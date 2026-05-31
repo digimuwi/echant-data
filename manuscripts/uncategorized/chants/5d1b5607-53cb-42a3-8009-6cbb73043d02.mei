@@ -6,6 +6,14 @@
         <title>cordiam tuam et salu</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">Uncategorized</idno>
+            <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
@@ -291,6 +299,7 @@
           <zone lrx="2835" lry="2443" points="2807,2430 2835,2430 2835,2443 2807,2443" ulx="2807" uly="2430" xml:id="zone-n-2807-2430-28-13"/>
           <zone lrx="2883" lry="2442" points="2843,2393 2883,2393 2883,2442 2843,2442" ulx="2843" uly="2393" xml:id="zone-n-2843-2393-40-49"/>
           <zone lrx="2935" lry="2440" points="2904,2392 2935,2392 2935,2440 2904,2440" ulx="2904" uly="2392" xml:id="zone-n-2904-2392-31-48"/>
+          <zone lrx="1725" lry="2623" points="1676,2581 1725,2581 1725,2623 1676,2623" ulx="1676" uly="2581" xml:id="zone-n-1676-2581-49-42"/>
           <zone lrx="1939" lry="2609" points="1857,2575 1939,2575 1939,2609 1857,2609" ulx="1857" uly="2575" xml:id="zone-n-1857-2575-82-34"/>
           <zone lrx="2017" lry="2610" points="1981,2573 2017,2573 2017,2610 1981,2610" ulx="1981" uly="2573" xml:id="zone-n-1981-2573-36-37"/>
           <zone lrx="2072" lry="2612" points="2025,2561 2072,2561 2072,2612 2025,2612" ulx="2025" uly="2561" xml:id="zone-n-2025-2561-47-51"/>
@@ -304,6 +313,7 @@
           <zone lrx="2749" lry="2686" points="2656,2629 2749,2629 2749,2686 2656,2686" ulx="2656" uly="2629" xml:id="zone-n-2656-2629-93-57"/>
           <zone lrx="2813" lry="2682" points="2760,2626 2813,2626 2813,2682 2760,2682" ulx="2760" uly="2626" xml:id="zone-n-2760-2626-53-56"/>
           <zone lrx="2855" lry="2679" points="2819,2644 2855,2644 2855,2679 2819,2679" ulx="2819" uly="2644" xml:id="zone-n-2819-2644-36-35"/>
+          <zone lrx="1942" lry="2602" points="1895,2574 1942,2574 1942,2602 1895,2602" ulx="1895" uly="2574" xml:id="zone-n-1895-2574-47-28"/>
           <zone lrx="1581" lry="2802" points="1563,2790 1581,2790 1581,2802 1563,2802" ulx="1563" uly="2790" xml:id="zone-n-1563-2790-18-12"/>
           <zone lrx="1713" lry="2797" points="1678,2761 1713,2761 1713,2797 1678,2797" ulx="1678" uly="2761" xml:id="zone-n-1678-2761-35-36"/>
           <zone lrx="1810" lry="2794" points="1752,2748 1810,2748 1810,2794 1752,2794" ulx="1752" uly="2748" xml:id="zone-n-1752-2748-58-46"/>
@@ -952,7 +962,9 @@
                 <syllable facs="#zone-syl-1826-1510-1948-1551" xml:id="syl-1826-1510-1948-1551">
                   <syl con="d" wordpos="i">cap</syl>
                   <neume facs="#zone-n-1858-1422-44-40" neumeType="torculus cum episema" xml:id="n-1858-1422-44-40">
-                    <nc/>
+                    <nc>
+                      <episema/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1889-1482-20-11" neumeType="punctum" xml:id="n-1889-1482-20-11">
                     <nc/>
@@ -1196,7 +1208,9 @@
                   </neume>
                   <neume facs="#zone-n-2356-2159-93-75" neumeType="salicus" xml:id="n-2356-2159-93-75">
                     <nc/>
-                    <nc intm="u"/>
+                    <nc intm="u">
+                      <oriscus/>
+                    </nc>
                     <nc intm="u"/>
                   </neume>
                 </syllable>
@@ -1389,6 +1403,10 @@
                 <lb facs="#zone-line-11" n="11"/>
                 <syllable facs="#zone-syl-1544-2654-1734-2692" xml:id="syl-1544-2654-1734-2692">
                   <syl wordpos="s">mum</syl>
+                  <neume facs="#zone-n-1676-2581-49-42" neumeType="pes" xml:id="n-1676-2581-49-42">
+                    <nc/>
+                    <nc intm="u"/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1812-2631-1977-2696" xml:id="syl-1812-2631-1977-2696">
                   <syl wordpos="s">eius.</syl>
@@ -1453,6 +1471,10 @@
                   </neume>
                   <neume facs="#zone-n-2819-2644-36-35" neumeType="virga" xml:id="n-2819-2644-36-35">
                     <nc/>
+                  </neume>
+                  <neume facs="#zone-n-1895-2574-47-28" neumeType="pes" xml:id="n-1895-2574-47-28">
+                    <nc/>
+                    <nc intm="u"/>
                   </neume>
                 </syllable>
                 <lb facs="#zone-line-12" n="12"/>
@@ -1753,7 +1775,9 @@
                   </neume>
                   <neume facs="#zone-n-2229-3136-96-78" neumeType="salicus" xml:id="n-2229-3136-96-78">
                     <nc/>
-                    <nc intm="u"/>
+                    <nc intm="u">
+                      <oriscus/>
+                    </nc>
                     <nc intm="u"/>
                   </neume>
                   <neume facs="#zone-n-2350-3163-37-35" neumeType="virga" xml:id="n-2350-3163-37-35">
@@ -1879,7 +1903,9 @@
                   </neume>
                   <neume facs="#zone-n-2463-3300-83-79" neumeType="salicus" xml:id="n-2463-3300-83-79">
                     <nc/>
-                    <nc intm="u"/>
+                    <nc intm="u">
+                      <oriscus/>
+                    </nc>
                     <nc intm="u"/>
                   </neume>
                 </syllable>
