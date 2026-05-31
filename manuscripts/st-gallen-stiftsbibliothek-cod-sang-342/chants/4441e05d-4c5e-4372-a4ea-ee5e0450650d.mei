@@ -3,12 +3,13 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Propter veritatem et man</title>
+        <title>Propter veritatem</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
         <source>
           <bibl>
+            <title>Propter veritatem</title>
             <idno type="siglum">CH-SGs</idno>
             <idno type="shelfmark">Cod. Sang. 342</idno>
             <ptr target="https://e-codices.unifr.ch/metadata/iiif/csg-0342/manifest.json"/>
