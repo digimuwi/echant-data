@@ -6,6 +6,14 @@
         <title>Modicum &amp; non videbi</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">Uncategorized</idno>
+            <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
@@ -13,6 +21,7 @@
       <surface lrx="4872" lry="6496" ulx="0" uly="0" xml:id="surface-1">
         <graphic height="6496px" target="../pages/page-0001.jpg" width="4872px">
           <zone lrx="4470" lry="3220" points="1693,3148 4470,3148 4470,3220 1693,3220" ulx="1693" uly="3148" xml:id="zone-line-1"/>
+          <zone lrx="4080" lry="3467" points="1668,3360 4080,3360 4080,3467 1668,3467" ulx="1668" uly="3360" xml:id="zone-line-2"/>
           <zone lrx="1885" lry="3220" points="1693,3148 1693,3220 1885,3220 1885,3148" ulx="1693" uly="3148" xml:id="zone-syl-1693-3148-1885-3220"/>
           <zone lrx="1978" lry="3220" points="1885,3148 1885,3220 1978,3220 1978,3148" ulx="1885" uly="3148" xml:id="zone-syl-1885-3148-1978-3220"/>
           <zone lrx="2174" lry="3220" points="1978,3148 1978,3220 2174,3220 2174,3148" ulx="1978" uly="3148" xml:id="zone-syl-1978-3148-2174-3220"/>
@@ -34,6 +43,23 @@
           <zone lrx="4295" lry="3220" points="4207,3148 4207,3220 4295,3220 4295,3148" ulx="4207" uly="3148" xml:id="zone-syl-4207-3148-4295-3220"/>
           <zone lrx="4333" lry="3220" points="4295,3148 4295,3220 4333,3220 4333,3148" ulx="4295" uly="3148" xml:id="zone-syl-4295-3148-4333-3220"/>
           <zone lrx="4470" lry="3220" points="4333,3148 4333,3220 4470,3220 4470,3148" ulx="4333" uly="3148" xml:id="zone-syl-4333-3148-4470-3220"/>
+          <zone lrx="1749" lry="3435" points="1676,3385 1749,3385 1749,3435 1676,3435" ulx="1676" uly="3385" xml:id="zone-syl-1676-3385-1749-3435"/>
+          <zone lrx="1848" lry="3431" points="1767,3392 1848,3392 1848,3431 1767,3431" ulx="1767" uly="3392" xml:id="zone-syl-1767-3392-1848-3431"/>
+          <zone lrx="1973" lry="3429" points="1867,3366 1973,3366 1973,3429 1867,3429" ulx="1867" uly="3366" xml:id="zone-syl-1867-3366-1973-3429"/>
+          <zone lrx="2059" lry="3429" points="1972,3367 2059,3367 2059,3429 1972,3429" ulx="1972" uly="3367" xml:id="zone-syl-1972-3367-2059-3429"/>
+          <zone lrx="2158" lry="3438" points="2059,3374 2158,3374 2158,3438 2059,3438" ulx="2059" uly="3374" xml:id="zone-syl-2059-3374-2158-3438"/>
+          <zone lrx="2311" lry="3433" points="2177,3389 2311,3389 2311,3433 2177,3433" ulx="2177" uly="3389" xml:id="zone-syl-2177-3389-2311-3433"/>
+          <zone lrx="2540" lry="3464" points="2350,3393 2540,3393 2540,3464 2350,3464" ulx="2350" uly="3393" xml:id="zone-syl-2350-3393-2540-3464"/>
+          <zone lrx="2692" lry="3433" points="2574,3395 2692,3395 2692,3433 2574,3433" ulx="2574" uly="3395" xml:id="zone-syl-2574-3395-2692-3433"/>
+          <zone lrx="2782" lry="3431" points="2692,3369 2782,3369 2782,3431 2692,3431" ulx="2692" uly="3369" xml:id="zone-syl-2692-3369-2782-3431"/>
+          <zone lrx="2929" lry="3430" points="2822,3367 2929,3367 2929,3430 2822,3430" ulx="2822" uly="3367" xml:id="zone-syl-2822-3367-2929-3430"/>
+          <zone lrx="3076" lry="3459" points="2964,3386 3076,3386 3076,3459 2964,3459" ulx="2964" uly="3386" xml:id="zone-syl-2964-3386-3076-3459"/>
+          <zone lrx="3275" lry="3430" points="3075,3387 3275,3387 3275,3430 3075,3430" ulx="3075" uly="3387" xml:id="zone-syl-3075-3387-3275-3430"/>
+          <zone lrx="3462" lry="3429" points="3361,3384 3462,3384 3462,3429 3361,3429" ulx="3361" uly="3384" xml:id="zone-syl-3361-3384-3462-3429"/>
+          <zone lrx="3599" lry="3427" points="3461,3389 3599,3389 3599,3427 3461,3427" ulx="3461" uly="3389" xml:id="zone-syl-3461-3389-3599-3427"/>
+          <zone lrx="3814" lry="3424" points="3641,3380 3814,3380 3814,3424 3641,3424" ulx="3641" uly="3380" xml:id="zone-syl-3641-3380-3814-3424"/>
+          <zone lrx="3924" lry="3419" points="3814,3373 3924,3373 3924,3419 3814,3419" ulx="3814" uly="3373" xml:id="zone-syl-3814-3373-3924-3419"/>
+          <zone lrx="4081" lry="3421" points="3975,3360 4081,3360 4081,3421 3975,3421" ulx="3975" uly="3360" xml:id="zone-syl-3975-3360-4081-3421"/>
           <zone lrx="1879" lry="3129" points="1835,3091 1879,3091 1879,3129 1835,3129" ulx="1835" uly="3091" xml:id="zone-n-1835-3091-44-38"/>
           <zone lrx="2020" lry="3136" points="1949,3077 2020,3077 2020,3136 1949,3136" ulx="1949" uly="3077" xml:id="zone-n-1949-3077-71-59"/>
           <zone lrx="2087" lry="3114" points="2059,3100 2087,3100 2087,3114 2059,3114" ulx="2059" uly="3100" xml:id="zone-n-2059-3100-28-14"/>
@@ -224,6 +250,58 @@
                       <episema/>
                     </nc>
                   </neume>
+                </syllable>
+                <lb facs="#zone-line-2" n="2"/>
+                <syllable facs="#zone-syl-1676-3385-1749-3435" xml:id="syl-1676-3385-1749-3435">
+                  <syl con="s" wordpos="s">et</syl>
+                </syllable>
+                <syllable facs="#zone-syl-1767-3392-1848-3431" xml:id="syl-1767-3392-1848-3431">
+                  <syl con="s" wordpos="s">vi</syl>
+                </syllable>
+                <syllable facs="#zone-syl-1867-3366-1973-3429" xml:id="syl-1867-3366-1973-3429">
+                  <syl con="d" wordpos="i">de</syl>
+                </syllable>
+                <syllable facs="#zone-syl-1972-3367-2059-3429" xml:id="syl-1972-3367-2059-3429">
+                  <syl con="d" wordpos="m">bi</syl>
+                </syllable>
+                <syllable facs="#zone-syl-2059-3374-2158-3438" xml:id="syl-2059-3374-2158-3438">
+                  <syl con="s" wordpos="t">tis</syl>
+                </syllable>
+                <syllable facs="#zone-syl-2177-3389-2311-3433" xml:id="syl-2177-3389-2311-3433">
+                  <syl con="s" wordpos="s">me</syl>
+                </syllable>
+                <syllable facs="#zone-syl-2350-3393-2540-3464" xml:id="syl-2350-3393-2540-3464">
+                  <syl con="s" wordpos="s">quia</syl>
+                </syllable>
+                <syllable facs="#zone-syl-2574-3395-2692-3433" xml:id="syl-2574-3395-2692-3433">
+                  <syl con="d" wordpos="i">va</syl>
+                </syllable>
+                <syllable facs="#zone-syl-2692-3369-2782-3431" xml:id="syl-2692-3369-2782-3431">
+                  <syl con="s" wordpos="t">do</syl>
+                </syllable>
+                <syllable facs="#zone-syl-2822-3367-2929-3430" xml:id="syl-2822-3367-2929-3430">
+                  <syl con="s" wordpos="s">ad</syl>
+                </syllable>
+                <syllable facs="#zone-syl-2964-3386-3076-3459" xml:id="syl-2964-3386-3076-3459">
+                  <syl con="d" wordpos="i">pa</syl>
+                </syllable>
+                <syllable facs="#zone-syl-3075-3387-3275-3430" xml:id="syl-3075-3387-3275-3430">
+                  <syl con="s" wordpos="t">trem</syl>
+                </syllable>
+                <syllable facs="#zone-syl-3361-3384-3462-3429" xml:id="syl-3361-3384-3462-3429">
+                  <syl con="d" wordpos="i">ae</syl>
+                </syllable>
+                <syllable facs="#zone-syl-3461-3389-3599-3427" xml:id="syl-3461-3389-3599-3427">
+                  <syl con="s" wordpos="t">via</syl>
+                </syllable>
+                <syllable facs="#zone-syl-3641-3380-3814-3424" xml:id="syl-3641-3380-3814-3424">
+                  <syl con="d" wordpos="i">aeu</syl>
+                </syllable>
+                <syllable facs="#zone-syl-3814-3373-3924-3419" xml:id="syl-3814-3373-3924-3419">
+                  <syl con="s" wordpos="t">ia</syl>
+                </syllable>
+                <syllable facs="#zone-syl-3975-3360-4081-3421" xml:id="syl-3975-3360-4081-3421">
+                  <syl con="s" wordpos="s">at</syl>
                 </syllable>
               </layer>
             </staff>
