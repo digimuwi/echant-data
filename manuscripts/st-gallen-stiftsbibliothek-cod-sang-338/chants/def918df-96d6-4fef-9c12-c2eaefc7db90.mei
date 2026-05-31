@@ -162,7 +162,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-898-3056-1025-3155" xml:id="syl-898-3056-1025-3155">
                   <syl con="d" wordpos="i">gra</syl>
-                  <neume facs="#zone-n-999-2995-43-49" neumeType="punctum" xml:id="n-999-2995-43-49">
+                  <neume facs="#zone-n-999-2995-43-49" neumeType="virga episema" xml:id="n-999-2995-43-49">
                     <nc>
                       <episema/>
                     </nc>
