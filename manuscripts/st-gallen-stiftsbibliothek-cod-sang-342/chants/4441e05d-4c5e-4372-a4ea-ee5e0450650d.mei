@@ -34,7 +34,6 @@
           <zone lrx="1786" lry="1629" points="1714,1526 1714,1629 1786,1629 1786,1526" ulx="1714" uly="1526" xml:id="zone-syl-1714-1526-1786-1629"/>
           <zone lrx="1972" lry="1629" points="1804,1526 1804,1629 1972,1629 1972,1526" ulx="1804" uly="1526" xml:id="zone-syl-1804-1526-1972-1629"/>
           <zone lrx="2046" lry="1615" points="1972,1523 2046,1523 2046,1615 1972,1615" ulx="1972" uly="1523" xml:id="zone-syl-1972-1523-2046-1615"/>
-          <zone lrx="2098" lry="1629" points="2062,1526 2062,1629 2098,1629 2098,1526" ulx="2062" uly="1526" xml:id="zone-syl-2062-1526-2098-1629"/>
           <zone lrx="2181" lry="1629" points="2098,1526 2098,1629 2181,1629 2181,1526" ulx="2098" uly="1526" xml:id="zone-syl-2098-1526-2181-1629"/>
           <zone lrx="2271" lry="1629" points="2181,1526 2181,1629 2271,1629 2271,1526" ulx="2181" uly="1526" xml:id="zone-syl-2181-1526-2271-1629"/>
           <zone lrx="2456" lry="1629" points="2271,1526 2271,1629 2456,1629 2456,1526" ulx="2271" uly="1526" xml:id="zone-syl-2271-1526-2456-1629"/>
@@ -61,6 +60,8 @@
           <zone lrx="1171" lry="1515" points="1145,1503 1171,1503 1171,1515 1145,1515" ulx="1145" uly="1503" xml:id="zone-n-1145-1503-26-12"/>
           <zone lrx="1345" lry="1510" points="1321,1498 1345,1498 1345,1510 1321,1510" ulx="1321" uly="1498" xml:id="zone-n-1321-1498-24-12"/>
           <zone lrx="1478" lry="1518" points="1413,1468 1478,1468 1478,1518 1413,1518" ulx="1413" uly="1468" xml:id="zone-n-1413-1468-65-50"/>
+          <zone lrx="1553" lry="1510" points="1506,1476 1553,1476 1553,1510 1506,1510" ulx="1506" uly="1476" xml:id="zone-n-1506-1476-47-34"/>
+          <zone lrx="1624" lry="1487" points="1574,1457 1624,1457 1624,1487 1574,1487" ulx="1574" uly="1457" xml:id="zone-n-1574-1457-50-30"/>
         </graphic>
       </surface>
     </facsimile>
@@ -104,9 +105,23 @@
                 </syllable>
                 <syllable facs="#zone-syl-1427-1526-1505-1629" xml:id="syl-1427-1526-1505-1629">
                   <syl con="d" wordpos="m">ta</syl>
+                  <neume facs="#zone-n-1506-1476-47-34" neumeType="virga" xml:id="n-1506-1476-47-34">
+                    <nc/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1505-1526-1696-1629" xml:id="syl-1505-1526-1696-1629">
                   <syl con="s" wordpos="t">tem</syl>
+                  <neume facs="#zone-n-1574-1457-50-30" neumeType="torculus cum episema" xml:id="n-1574-1457-50-30">
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="u">
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1714-1526-1786-1629" xml:id="syl-1714-1526-1786-1629">
                   <syl con="s" wordpos="s">et</syl>
@@ -115,13 +130,10 @@
                   <syl con="d" wordpos="i">man</syl>
                 </syllable>
                 <syllable facs="#zone-syl-1972-1523-2046-1615" xml:id="syl-1972-1523-2046-1615">
-                  <syl con="d" wordpos="m">su</syl>
-                </syllable>
-                <syllable facs="#zone-syl-2062-1526-2098-1629" xml:id="syl-2062-1526-2098-1629">
-                  <syl con="s" wordpos="t">et</syl>
+                  <syl con="d" wordpos="m">sue</syl>
                 </syllable>
                 <syllable facs="#zone-syl-2098-1526-2181-1629" xml:id="syl-2098-1526-2181-1629">
-                  <syl con="d" wordpos="i">u</syl>
+                  <syl con="d" wordpos="m">tu</syl>
                 </syllable>
                 <syllable facs="#zone-syl-2181-1526-2271-1629" xml:id="syl-2181-1526-2271-1629">
                   <syl con="d" wordpos="m">di</syl>
