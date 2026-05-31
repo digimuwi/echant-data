@@ -59,7 +59,7 @@
           <zone lrx="1696" lry="1629" points="1505,1526 1505,1629 1696,1629 1696,1526" ulx="1505" uly="1526" xml:id="zone-syl-1505-1526-1696-1629"/>
           <zone lrx="1786" lry="1629" points="1714,1526 1714,1629 1786,1629 1786,1526" ulx="1714" uly="1526" xml:id="zone-syl-1714-1526-1786-1629"/>
           <zone lrx="1972" lry="1629" points="1804,1526 1804,1629 1972,1629 1972,1526" ulx="1804" uly="1526" xml:id="zone-syl-1804-1526-1972-1629"/>
-          <zone lrx="2062" lry="1629" points="1984,1526 1984,1629 2062,1629 2062,1526" ulx="1984" uly="1526" xml:id="zone-syl-1984-1526-2062-1629"/>
+          <zone lrx="2046" lry="1615" points="1972,1523 2046,1523 2046,1615 1972,1615" ulx="1972" uly="1523" xml:id="zone-syl-1972-1523-2046-1615"/>
           <zone lrx="2098" lry="1629" points="2062,1526 2062,1629 2098,1629 2098,1526" ulx="2062" uly="1526" xml:id="zone-syl-2062-1526-2098-1629"/>
           <zone lrx="2181" lry="1629" points="2098,1526 2098,1629 2181,1629 2181,1526" ulx="2098" uly="1526" xml:id="zone-syl-2098-1526-2181-1629"/>
           <zone lrx="2271" lry="1629" points="2181,1526 2181,1629 2271,1629 2271,1526" ulx="2181" uly="1526" xml:id="zone-syl-2181-1526-2271-1629"/>
@@ -515,16 +515,16 @@
                   <syl con="s" wordpos="s">et</syl>
                 </syllable>
                 <syllable facs="#zone-syl-1804-1526-1972-1629" xml:id="syl-1804-1526-1972-1629">
-                  <syl con="s" wordpos="s">man</syl>
+                  <syl con="d" wordpos="i">man</syl>
                 </syllable>
-                <syllable facs="#zone-syl-1984-1526-2062-1629" xml:id="syl-1984-1526-2062-1629">
-                  <syl con="d" wordpos="i">su</syl>
+                <syllable facs="#zone-syl-1972-1523-2046-1615" xml:id="syl-1972-1523-2046-1615">
+                  <syl con="d" wordpos="m">su</syl>
                 </syllable>
                 <syllable facs="#zone-syl-2062-1526-2098-1629" xml:id="syl-2062-1526-2098-1629">
-                  <syl con="d" wordpos="m">o</syl>
+                  <syl con="s" wordpos="t">et</syl>
                 </syllable>
                 <syllable facs="#zone-syl-2098-1526-2181-1629" xml:id="syl-2098-1526-2181-1629">
-                  <syl con="d" wordpos="m">lu</syl>
+                  <syl con="d" wordpos="i">u</syl>
                 </syllable>
                 <syllable facs="#zone-syl-2181-1526-2271-1629" xml:id="syl-2181-1526-2271-1629">
                   <syl con="d" wordpos="m">di</syl>
