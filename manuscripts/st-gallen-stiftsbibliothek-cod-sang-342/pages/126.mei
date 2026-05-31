@@ -6,6 +6,15 @@
         <title>Neumes Playground contribution</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">CH-SGs</idno>
+            <idno type="shelfmark">Cod. Sang. 342</idno>
+            <ptr target="https://e-codices.unifr.ch/metadata/iiif/csg-0342/manifest.json"/>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
