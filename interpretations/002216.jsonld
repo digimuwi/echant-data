@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "dcterms": "http://purl.org/dc/terms/",
+    "echant": "urn:echant:",
+    "hico": "https://w3id.org/hico/",
+    "id": "@id",
+    "oa": "http://www.w3.org/ns/oa#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "type": "@type"
+  },
+  "echant:cantusId": "002216",
+  "id": "echant:synopsis:002216",
+  "oa:items": [
+    {
+      "dcterms:created": "2026-05-31T07:55:40",
+      "dcterms:creator": "pfefferniels",
+      "id": "echant:interpretation:b3314c4a-1371-4a9b-b303-63e20dfd4302",
+      "oa:hasBody": {
+        "hico:hasInterpretationType": {
+          "id": "echant:phenomenon:acceleration"
+        },
+        "type": "hico:InterpretationAct"
+      },
+      "oa:hasTarget": [
+        {
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/pages/75.mei#800-2987-67-41"
+          }
+        },
+        {
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/pages/126.mei#1279-1052-74-46"
+          }
+        }
+      ],
+      "oa:motivatedBy": {
+        "id": "oa:describing"
+      },
+      "type": "oa:Annotation"
+    }
+  ],
+  "type": "oa:AnnotationCollection"
+}
