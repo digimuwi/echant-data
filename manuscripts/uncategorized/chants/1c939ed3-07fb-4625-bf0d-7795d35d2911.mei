@@ -3,12 +3,13 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Modicum &amp; non videbi</title>
+        <title>Modicum et non videbitis me</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
         <source>
           <bibl>
+            <title>Modicum et non videbitis me</title>
             <idno type="siglum">Uncategorized</idno>
             <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
           </bibl>
