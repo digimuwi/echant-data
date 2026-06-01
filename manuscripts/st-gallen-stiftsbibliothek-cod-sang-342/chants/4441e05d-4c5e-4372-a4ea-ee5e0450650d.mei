@@ -62,6 +62,8 @@
           <zone lrx="1478" lry="1518" points="1413,1468 1478,1468 1478,1518 1413,1518" ulx="1413" uly="1468" xml:id="zone-n-1413-1468-65-50"/>
           <zone lrx="1553" lry="1510" points="1506,1476 1553,1476 1553,1510 1506,1510" ulx="1506" uly="1476" xml:id="zone-n-1506-1476-47-34"/>
           <zone lrx="1624" lry="1487" points="1574,1457 1624,1457 1624,1487 1574,1487" ulx="1574" uly="1457" xml:id="zone-n-1574-1457-50-30"/>
+          <zone lrx="1710" lry="1474" points="1653,1435 1710,1435 1710,1474 1653,1474" ulx="1653" uly="1435" xml:id="zone-n-1653-1435-57-39"/>
+          <zone lrx="1910" lry="1454" points="1863,1425 1910,1425 1910,1454 1863,1454" ulx="1863" uly="1425" xml:id="zone-n-1863-1425-47-29"/>
           <zone lrx="2237" lry="1509" points="2179,1464 2237,1464 2237,1509 2179,1509" ulx="2179" uly="1464" xml:id="zone-n-2179-1464-58-45"/>
           <zone lrx="2309" lry="1515" points="2269,1485 2309,1485 2309,1515 2269,1515" ulx="2269" uly="1485" xml:id="zone-n-2269-1485-40-30"/>
         </graphic>
@@ -124,12 +126,28 @@
                       <episema/>
                     </nc>
                   </neume>
+                  <neume facs="#zone-n-1653-1435-57-39" neumeType="porrectus" xml:id="n-1653-1435-57-39">
+                    <nc/>
+                    <nc intm="d"/>
+                    <nc intm="u"/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1714-1526-1786-1629" xml:id="syl-1714-1526-1786-1629">
                   <syl con="s" wordpos="s">et</syl>
                 </syllable>
                 <syllable facs="#zone-syl-1804-1526-1972-1629" xml:id="syl-1804-1526-1972-1629">
                   <syl con="d" wordpos="i">man</syl>
+                  <neume facs="#zone-n-1863-1425-47-29" neumeType="torculus cum episema" xml:id="n-1863-1425-47-29">
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="u">
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1972-1523-2046-1615" xml:id="syl-1972-1523-2046-1615">
                   <syl con="d" wordpos="m">sue</syl>
