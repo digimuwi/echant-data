@@ -3,12 +3,13 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Excita domine poten</title>
+        <title>Excita domine potentiam tuam</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
         <source>
           <bibl>
+            <title>Excita domine potentiam tuam</title>
             <idno type="siglum">Uncategorized</idno>
             <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
           </bibl>
