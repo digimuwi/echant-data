@@ -310,7 +310,7 @@
                 <pb facs="#surface-1" n="1r"/>
                 <lb facs="#zone-line-1" n="1"/>
                 <syllable facs="#zone-syl-399-1880-595-2027" xml:id="syl-399-1880-595-2027">
-                  <syl wordpos="i">Lu</syl>
+                  <syl con="d" wordpos="i">Au</syl>
                   <neume facs="#zone-n-550-1792-138-113" neumeType="salicus episematus" xml:id="n-550-1792-138-113">
                     <nc>
                       <episema/>
