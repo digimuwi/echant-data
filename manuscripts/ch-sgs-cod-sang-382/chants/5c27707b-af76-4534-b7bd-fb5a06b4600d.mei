@@ -71,7 +71,7 @@
           <zone lrx="1691" lry="1866" points="1637,1809 1691,1809 1691,1866 1637,1866" ulx="1637" uly="1809" xml:id="zone-n-1637-1809-54-57"/>
           <zone lrx="1822" lry="1861" points="1772,1809 1822,1809 1822,1861 1772,1861" ulx="1772" uly="1809" xml:id="zone-n-1772-1809-50-52"/>
           <zone lrx="1908" lry="1855" points="1849,1797 1908,1797 1908,1855 1849,1855" ulx="1849" uly="1797" xml:id="zone-n-1849-1797-59-58"/>
-          <zone lrx="1978" lry="1868" points="1932,1814 1978,1814 1978,1868 1932,1868" ulx="1932" uly="1814" xml:id="zone-n-1932-1814-46-54"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0"/>
           <zone lrx="2047" lry="1853" points="2020,1836 2047,1836 2047,1853 2020,1853" ulx="2020" uly="1836" xml:id="zone-n-2020-1836-27-17"/>
           <zone lrx="2130" lry="1857" points="2071,1807 2130,1807 2130,1857 2071,1857" ulx="2071" uly="1807" xml:id="zone-n-2071-1807-59-50"/>
           <zone lrx="2303" lry="1849" points="2215,1792 2303,1792 2303,1849 2215,1849" ulx="2215" uly="1792" xml:id="zone-n-2215-1792-88-57"/>
@@ -194,11 +194,14 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1807-1870-1923-2013" xml:id="syl-1807-1870-1923-2013">
-                  <syl con="s" wordpos="t">lorum</syl>
+                  <syl con="d" wordpos="m">lo</syl>
                   <neume facs="#zone-n-1849-1797-59-58" neumeType="virga" xml:id="n-1849-1797-59-58">
                     <nc/>
                   </neume>
-                  <neume facs="#zone-n-1932-1814-46-54" neumeType="virga" xml:id="n-1932-1814-46-54">
+                </syllable>
+                <syllable facs="#zone-syl-syl0-10" xml:id="syl-syl0-10">
+                  <syl con="s" wordpos="t">rum</syl>
+                  <neume facs="#zone-n-0-0-0-0" neumeType="virga" xml:id="n-0-0-0-0">
                     <nc/>
                   </neume>
                 </syllable>
