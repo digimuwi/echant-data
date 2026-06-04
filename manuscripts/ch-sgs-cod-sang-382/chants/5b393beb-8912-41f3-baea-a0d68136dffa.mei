@@ -230,7 +230,7 @@
                 <pb facs="#surface-1" n="1r"/>
                 <lb facs="#zone-line-1" n="1"/>
                 <syllable facs="#zone-syl-391-2490-615-2645" xml:id="syl-391-2490-615-2645">
-                  <syl wordpos="i">Aaf</syl>
+                  <syl con="d" wordpos="i">Mar</syl>
                   <neume facs="#zone-n-566-2421-113-103" neumeType="salicus" xml:id="n-566-2421-113-103">
                     <nc/>
                     <nc intm="u">
@@ -240,14 +240,14 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-615-2479-734-2641" xml:id="syl-615-2479-734-2641">
-                  <syl wordpos="m">fr</syl>
+                  <syl con="d" wordpos="m">ty</syl>
                   <neume facs="#zone-n-713-2446-52-53" neumeType="clivis" xml:id="n-713-2446-52-53">
                     <nc/>
                     <nc intm="d"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-734-2509-875-2643" xml:id="syl-734-2509-875-2643">
-                  <syl wordpos="t">ru</syl>
+                  <syl con="s" wordpos="t">rum</syl>
                   <neume facs="#zone-n-821-2424-66-71" neumeType="cephalicus" xml:id="n-821-2424-66-71">
                     <nc/>
                     <nc intm="d">
@@ -256,7 +256,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-905-2479-974-2645" xml:id="syl-905-2479-974-2645">
-                  <syl wordpos="i">tr</syl>
+                  <syl con="d" wordpos="i">tur</syl>
                   <neume facs="#zone-n-949-2421-76-60" neumeType="pes" xml:id="n-949-2421-76-60">
                     <nc/>
                     <nc intm="u"/>
