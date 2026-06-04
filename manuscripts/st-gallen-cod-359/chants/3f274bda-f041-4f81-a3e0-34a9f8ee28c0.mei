@@ -6,6 +6,15 @@
         <title>V Qvis ascendet in montem</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">CH-SGs</idno>
+            <idno type="shelfmark">Cod. Sang. 359</idno>
+            <ptr target="https://www.e-codices.unifr.ch/de/csg/0359"/>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
@@ -257,7 +266,8 @@
           <zone lrx="1133" lry="1654" points="1104,1634 1133,1634 1133,1654 1104,1654" ulx="1104" uly="1634" xml:id="zone-n-1104-1634-29-20"/>
           <zone lrx="1188" lry="1647" points="1159,1613 1188,1613 1188,1647 1159,1647" ulx="1159" uly="1613" xml:id="zone-n-1159-1613-29-34"/>
           <zone lrx="1167" lry="1611" points="1131,1584 1167,1584 1167,1611 1131,1611" ulx="1131" uly="1584" xml:id="zone-sl-1159-1613-29-34-1"/>
-          <zone lrx="1202" lry="1603" points="1180,1585 1202,1585 1202,1603 1180,1603" ulx="1180" uly="1585" xml:id="zone-sl-1159-1613-29-34-2"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-sl-1159-1613-29-34-2"/>
+          <zone lrx="1202" lry="1603" points="1180,1585 1202,1585 1202,1603 1180,1603" ulx="1180" uly="1585" xml:id="zone-sl-1159-1613-29-34-3"/>
           <zone lrx="1246" lry="1639" points="1216,1618 1246,1618 1246,1639 1216,1639" ulx="1216" uly="1618" xml:id="zone-n-1216-1618-30-21"/>
           <zone lrx="1313" lry="1646" points="1267,1584 1313,1584 1313,1646 1267,1646" ulx="1267" uly="1584" xml:id="zone-n-1267-1584-46-62"/>
           <zone lrx="1417" lry="1630" points="1362,1594 1417,1594 1417,1630 1362,1630" ulx="1362" uly="1594" xml:id="zone-n-1362-1594-55-36"/>
@@ -309,6 +319,7 @@
           <zone lrx="1010" lry="2228" points="971,2196 1010,2196 1010,2228 971,2228" ulx="971" uly="2196" xml:id="zone-n-971-2196-39-32"/>
           <zone lrx="1126" lry="2229" points="1081,2193 1126,2193 1126,2229 1081,2229" ulx="1081" uly="2193" xml:id="zone-n-1081-2193-45-36"/>
           <zone lrx="1114" lry="2175" points="1101,2161 1114,2161 1114,2175 1101,2175" ulx="1101" uly="2161" xml:id="zone-sl-1081-2193-45-36-1"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-sl-1081-2193-45-36-2"/>
           <zone lrx="1112" lry="2167" points="1101,2160 1112,2160 1112,2167 1101,2167" ulx="1101" uly="2160" xml:id="zone-n-1101-2160-11-7"/>
           <zone lrx="1168" lry="2213" points="1139,2198 1168,2198 1168,2213 1139,2213" ulx="1139" uly="2198" xml:id="zone-n-1139-2198-29-15"/>
           <zone lrx="1233" lry="2210" points="1187,2169 1233,2169 1233,2210 1187,2210" ulx="1187" uly="2169" xml:id="zone-n-1187-2169-46-41"/>
@@ -744,10 +755,18 @@
                     </nc>
                   </neume>
                   <neume facs="#zone-n-1807-1068-35-42" neumeType="torculus cum episema" xml:id="n-1807-1068-35-42">
-                    <nc/>
-                    <nc intm="u"/>
-                    <nc intm="d"/>
-                    <nc intm="d"/>
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="u">
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1865-1055-52-40" neumeType="clivis episema" xml:id="n-1865-1055-52-40">
                     <nc>
@@ -760,7 +779,7 @@
                 </syllable>
                 <lb facs="#zone-line-4" n="4"/>
                 <syllable facs="#zone-syl-460-1303-624-1392" xml:id="syl-460-1303-624-1392">
-                  <syl con="s" wordpos="s">A</syl>
+                  <syl con="s" wordpos="s">et</syl>
                   <neume facs="#zone-n-538-1225-99-81" neumeType="salicus episematus" xml:id="n-538-1225-99-81">
                     <nc>
                       <episema/>
@@ -824,7 +843,9 @@
                   </neume>
                   <neume facs="#zone-n-1401-1246-81-54" neumeType="salicus" xml:id="n-1401-1246-81-54">
                     <nc/>
-                    <nc intm="u"/>
+                    <nc intm="u">
+                      <oriscus/>
+                    </nc>
                     <nc intm="u"/>
                   </neume>
                   <neume facs="#zone-n-1510-1226-77-78" neumeType="pes subtripunctis" xml:id="n-1510-1226-77-78">
@@ -905,7 +926,9 @@
                     <nc intm="s"/>
                   </neume>
                   <neume facs="#zone-n-1464-1398-43-42" neumeType="torculus cum episema" xml:id="n-1464-1398-43-42">
-                    <nc/>
+                    <nc>
+                      <episema/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1535-1397-41-43" neumeType="climacus" xml:id="n-1535-1397-41-43">
                     <nc/>
@@ -916,7 +939,9 @@
                 <syllable facs="#zone-syl-1550-1478-1691-1571" xml:id="syl-1550-1478-1691-1571">
                   <syl con="d" wordpos="i">om</syl>
                   <neume facs="#zone-n-1607-1398-38-40" neumeType="torculus cum episema" xml:id="n-1607-1398-38-40">
-                    <nc/>
+                    <nc>
+                      <episema/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1647-1467-33-25" neumeType="virga" xml:id="n-1647-1467-33-25">
                     <nc/>
@@ -995,8 +1020,9 @@
                   <neume facs="#zone-n-1159-1613-29-34" neumeType="clivis" xml:id="n-1159-1613-29-34">
                     <nc/>
                     <nc intm="d"/>
-                    <signifLet facs="#zone-sl-1159-1613-29-34-1" place="above-left" xml:id="sl-1159-1613-29-34-1">st</signifLet>
-                    <signifLet facs="#zone-sl-1159-1613-29-34-2" place="above-right" xml:id="sl-1159-1613-29-34-2">c</signifLet>
+                    <signifLet facs="#zone-sl-1159-1613-29-34-1" place="above-left" xml:id="sl-1159-1613-29-34-1">s</signifLet>
+                    <signifLet facs="#zone-sl-1159-1613-29-34-2" place="above-left" xml:id="sl-1159-1613-29-34-2">t</signifLet>
+                    <signifLet facs="#zone-sl-1159-1613-29-34-3" place="above-right" xml:id="sl-1159-1613-29-34-3">c</signifLet>
                   </neume>
                   <neume facs="#zone-n-1216-1618-30-21" neumeType="unknown" xml:id="n-1216-1618-30-21">
                     <nc/>
@@ -1276,7 +1302,8 @@
                   <neume facs="#zone-n-1081-2193-45-36" neumeType="clivis" xml:id="n-1081-2193-45-36">
                     <nc/>
                     <nc intm="d"/>
-                    <signifLet facs="#zone-sl-1081-2193-45-36-1" place="below-right" xml:id="sl-1081-2193-45-36-1">st</signifLet>
+                    <signifLet facs="#zone-sl-1081-2193-45-36-1" place="below-right" xml:id="sl-1081-2193-45-36-1">s</signifLet>
+                    <signifLet facs="#zone-sl-1081-2193-45-36-2" place="below-right" xml:id="sl-1081-2193-45-36-2">t</signifLet>
                   </neume>
                   <neume facs="#zone-n-1101-2160-11-7" neumeType="punctum" xml:id="n-1101-2160-11-7">
                     <nc/>
@@ -1326,7 +1353,9 @@
                   </neume>
                   <neume facs="#zone-n-1475-2209-92-67" neumeType="salicus" xml:id="n-1475-2209-92-67">
                     <nc/>
-                    <nc intm="u"/>
+                    <nc intm="u">
+                      <oriscus/>
+                    </nc>
                     <nc intm="u"/>
                   </neume>
                 </syllable>
