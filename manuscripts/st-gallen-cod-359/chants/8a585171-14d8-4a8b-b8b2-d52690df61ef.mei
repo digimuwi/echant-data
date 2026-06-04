@@ -3,12 +3,13 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Prope est dominus omni</title>
+        <title>Prope est dominus</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
         <source>
           <bibl>
+            <title>Prope est dominus</title>
             <idno type="siglum">CH-SGs</idno>
             <idno type="shelfmark">Cod. Sang. 359</idno>
             <ptr target="https://www.e-codices.unifr.ch/de/csg/0359"/>
