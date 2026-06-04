@@ -3,7 +3,7 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Audiat nosme chore An</title>
+        <title>Audiat nosmet chorus An</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
@@ -154,7 +154,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1028-1872-1207-2007" xml:id="syl-1028-1872-1207-2007">
-                  <syl wordpos="t">me</syl>
+                  <syl con="s" wordpos="t">met</syl>
                   <neume facs="#zone-n-1126-1787-60-64" neumeType="virga episema" xml:id="n-1126-1787-60-64">
                     <nc>
                       <episema/>
@@ -169,7 +169,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1392-1873-1525-1988" xml:id="syl-1392-1873-1525-1988">
-                  <syl wordpos="t">re</syl>
+                  <syl con="s" wordpos="t">rus</syl>
                   <neume facs="#zone-n-1422-1791-48-46" neumeType="pressus maior" xml:id="n-1422-1791-48-46">
                     <nc/>
                     <nc intm="s"/>
@@ -194,7 +194,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1807-1870-1923-2013" xml:id="syl-1807-1870-1923-2013">
-                  <syl wordpos="t">lx</syl>
+                  <syl con="s" wordpos="t">lorum</syl>
                   <neume facs="#zone-n-1849-1797-59-58" neumeType="virga" xml:id="n-1849-1797-59-58">
                     <nc/>
                   </neume>
