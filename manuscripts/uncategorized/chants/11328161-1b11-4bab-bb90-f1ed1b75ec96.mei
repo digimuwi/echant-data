@@ -39,8 +39,9 @@
           <zone lrx="1119" lry="2324" points="1019,2288 1119,2288 1119,2324 1019,2324" ulx="1019" uly="2288" xml:id="zone-syl-1019-2288-1119-2324"/>
           <zone lrx="1202" lry="2324" points="1118,2287 1202,2287 1202,2324 1118,2324" ulx="1118" uly="2287" xml:id="zone-syl-1118-2287-1202-2324"/>
           <zone lrx="1895" lry="2321" points="1804,2287 1895,2287 1895,2321 1804,2321" ulx="1804" uly="2287" xml:id="zone-syl-1804-2287-1895-2321"/>
-          <zone lrx="573" lry="2529" points="488,2465 465,2484 468,2504 468,2529 573,2529 573,2465" ulx="465" uly="2465" xml:id="zone-syl-465-2465-573-2529"/>
-          <zone lrx="716" lry="2529" points="715,2465 687,2465 673,2465 573,2465 573,2529 716,2529 716,2465" ulx="573" uly="2465" xml:id="zone-syl-573-2465-716-2529"/>
+          <zone lrx="540" lry="2522" points="472,2454 540,2454 540,2522 472,2522" ulx="472" uly="2454" xml:id="zone-syl-472-2454-540-2522"/>
+          <zone lrx="615" lry="2515" points="541,2454 615,2454 615,2515 541,2515" ulx="541" uly="2454" xml:id="zone-syl-541-2454-615-2515"/>
+          <zone lrx="699" lry="2518" points="616,2452 699,2452 699,2518 616,2518" ulx="616" uly="2452" xml:id="zone-syl-616-2452-699-2518"/>
           <zone lrx="802" lry="2529" points="798,2468 770,2468 743,2468 724,2466 724,2529 802,2529 802,2468" ulx="724" uly="2466" xml:id="zone-syl-724-2466-802-2529"/>
           <zone lrx="857" lry="2511" points="794,2472 857,2472 857,2511 794,2511" ulx="794" uly="2472" xml:id="zone-syl-794-2472-857-2511"/>
           <zone lrx="940" lry="2517" points="860,2454 940,2454 940,2517 860,2517" ulx="860" uly="2454" xml:id="zone-syl-860-2454-940-2517"/>
@@ -358,8 +359,8 @@
                   </neume>
                 </syllable>
                 <lb facs="#zone-line-3" n="3"/>
-                <syllable facs="#zone-syl-465-2465-573-2529" xml:id="syl-465-2465-573-2529">
-                  <syl con="d" wordpos="i">sal</syl>
+                <syllable facs="#zone-syl-472-2454-540-2522" xml:id="syl-472-2454-540-2522">
+                  <syl con="d" wordpos="i">sa</syl>
                   <neume facs="#zone-n-520-2375-74-67" neumeType="salicus" xml:id="n-520-2375-74-67">
                     <nc/>
                     <nc intm="u">
@@ -368,13 +369,13 @@
                     <nc intm="u"/>
                   </neume>
                 </syllable>
-                <syllable facs="#zone-syl-573-2465-716-2529" xml:id="syl-573-2465-716-2529">
-                  <syl con="d" wordpos="m">u</syl>
+                <syllable facs="#zone-syl-541-2454-615-2515" xml:id="syl-541-2454-615-2515">
+                  <syl con="d" wordpos="m">lu</syl>
                   <neume facs="#zone-n-660-2392-37-34" neumeType="virga" xml:id="n-660-2392-37-34">
                     <nc/>
                   </neume>
                 </syllable>
-                <syllable facs="#zone-syl-syl2-2" xml:id="syl-syl2-2">
+                <syllable facs="#zone-syl-616-2452-699-2518" xml:id="syl-616-2452-699-2518">
                   <syl con="s" wordpos="t">os</syl>
                 </syllable>
                 <syllable facs="#zone-syl-724-2466-802-2529" xml:id="syl-724-2466-802-2529">
