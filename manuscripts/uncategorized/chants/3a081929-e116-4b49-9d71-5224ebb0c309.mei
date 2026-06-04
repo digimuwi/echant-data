@@ -91,6 +91,7 @@
           <zone lrx="1036" lry="1950" points="860,1883 1036,1883 1036,1950 860,1950" ulx="860" uly="1883" xml:id="zone-syl-860-1883-1036-1950"/>
           <zone lrx="1311" lry="1950" points="1083,1910 1311,1910 1311,1950 1083,1950" ulx="1083" uly="1910" xml:id="zone-syl-1083-1910-1311-1950"/>
           <zone lrx="1376" lry="1958" points="1306,1893 1376,1893 1376,1958 1306,1958" ulx="1306" uly="1893" xml:id="zone-syl-1306-1893-1376-1958"/>
+          <zone lrx="1376" lry="1958" points="1306,1893 1376,1893 1376,1958 1306,1958" ulx="1306" uly="1893" xml:id="zone-syl-1306-1893-1376-1958-2"/>
           <zone lrx="716" lry="2529" points="715,2465 687,2465 673,2465 573,2465 573,2529 716,2529 716,2465" ulx="573" uly="2465" xml:id="zone-syl-573-2465-716-2529"/>
           <zone lrx="802" lry="2529" points="798,2468 770,2468 743,2468 724,2466 724,2529 802,2529 802,2468" ulx="724" uly="2466" xml:id="zone-syl-724-2466-802-2529"/>
           <zone lrx="893" lry="2529" points="854,2471 826,2468 802,2468 802,2529 893,2529 893,2498 884,2471 881,2471" ulx="802" uly="2468" xml:id="zone-syl-802-2468-893-2529"/>
@@ -280,6 +281,10 @@
           <zone lrx="1471" lry="1859" points="1416,1812 1471,1812 1471,1859 1416,1859" ulx="1416" uly="1812" xml:id="zone-n-1416-1812-55-47"/>
           <zone lrx="1534" lry="1850" points="1505,1820 1534,1820 1534,1850 1505,1850" ulx="1505" uly="1820" xml:id="zone-n-1505-1820-29-30"/>
           <zone lrx="1605" lry="1861" points="1543,1799 1605,1799 1605,1861 1543,1861" ulx="1543" uly="1799" xml:id="zone-n-1543-1799-62-62"/>
+          <zone lrx="1400" lry="1864" points="1369,1829 1400,1829 1400,1864 1369,1864" ulx="1369" uly="1829" xml:id="zone-n-1369-1829-31-35-2"/>
+          <zone lrx="1471" lry="1859" points="1416,1812 1471,1812 1471,1859 1416,1859" ulx="1416" uly="1812" xml:id="zone-n-1416-1812-55-47-2"/>
+          <zone lrx="1534" lry="1850" points="1505,1820 1534,1820 1534,1850 1505,1850" ulx="1505" uly="1820" xml:id="zone-n-1505-1820-29-30-2"/>
+          <zone lrx="1605" lry="1861" points="1543,1799 1605,1799 1605,1861 1543,1861" ulx="1543" uly="1799" xml:id="zone-n-1543-1799-62-62-2"/>
           <zone lrx="697" lry="2426" points="660,2392 697,2392 697,2426 660,2426" ulx="660" uly="2392" xml:id="zone-n-660-2392-37-34"/>
           <zone lrx="805" lry="2425" points="780,2410 805,2410 805,2425 780,2425" ulx="780" uly="2410" xml:id="zone-n-780-2410-25-15"/>
           <zone lrx="860" lry="2414" points="816,2367 860,2367 860,2414 816,2414" ulx="816" uly="2367" xml:id="zone-n-816-2367-44-47"/>
@@ -1229,6 +1234,29 @@
                     <nc intm="d"/>
                   </neume>
                   <neume facs="#zone-n-1543-1799-62-62" neumeType="pes subbipunctis" xml:id="n-1543-1799-62-62">
+                    <nc/>
+                    <nc intm="u"/>
+                    <nc intm="d"/>
+                    <nc intm="d"/>
+                  </neume>
+                </syllable>
+                <syllable facs="#zone-syl-1306-1893-1376-1958-2" xml:id="syl-1306-1893-1376-1958-2">
+                  <syl con="s" wordpos="s">s.</syl>
+                  <neume facs="#zone-n-1369-1829-31-35-2" neumeType="clivis" xml:id="n-1369-1829-31-35-2">
+                    <nc/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1416-1812-55-47-2" neumeType="pes subbipunctis" xml:id="n-1416-1812-55-47-2">
+                    <nc/>
+                    <nc intm="u"/>
+                    <nc intm="d"/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1505-1820-29-30-2" neumeType="clivis" xml:id="n-1505-1820-29-30-2">
+                    <nc/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1543-1799-62-62-2" neumeType="pes subbipunctis" xml:id="n-1543-1799-62-62-2">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
