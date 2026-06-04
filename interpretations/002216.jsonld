@@ -12,6 +12,35 @@
   "id": "echant:synopsis:002216",
   "oa:items": [
     {
+      "dcterms:created": "2026-06-04T23:08:00",
+      "dcterms:creator": "pfefferniels",
+      "id": "echant:interpretation:3fbed936-5bdb-469d-86b0-4a3d78198df4",
+      "oa:hasBody": {
+        "hico:hasInterpretationType": {
+          "id": "echant:phenomenon:acceleration"
+        },
+        "type": "hico:InterpretationAct"
+      },
+      "oa:hasTarget": [
+        {
+          "echant:role": "to",
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/chants/def918df-96d6-4fef-9c12-c2eaefc7db90.mei#800-2987-67-41"
+          }
+        },
+        {
+          "echant:role": "from",
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/chants/6d85fb68-8a20-4bab-859f-00025e6a508a.mei#1279-1052-74-46"
+          }
+        }
+      ],
+      "oa:motivatedBy": {
+        "id": "oa:describing"
+      },
+      "type": "oa:Annotation"
+    },
+    {
       "dcterms:created": "2026-06-04T23:06:18",
       "dcterms:creator": "pfefferniels",
       "id": "echant:interpretation:9c2f5c0f-8b7b-4f00-bf23-e5471556a5b8",
