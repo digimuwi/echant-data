@@ -3,12 +3,13 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Qvis ascendet in montem do</title>
+        <title>Quis ascendet in montem</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
         <source>
           <bibl>
+            <title>Quis ascendet in montem</title>
             <idno type="siglum">CH-SGs</idno>
             <idno type="shelfmark">Cod. Sang. 359</idno>
             <ptr target="https://www.e-codices.unifr.ch/de/csg/0359"/>
