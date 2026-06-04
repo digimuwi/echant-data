@@ -128,8 +128,10 @@
                 <lb facs="#zone-line-1" n="1"/>
                 <syllable facs="#zone-syl-385-3056-558-3155" xml:id="syl-385-3056-558-3155">
                   <syl con="d" wordpos="i">Dif</syl>
-                  <neume facs="#zone-n-498-3007-25-15" neumeType="punctum" xml:id="n-498-3007-25-15">
-                    <nc/>
+                  <neume facs="#zone-n-498-3007-25-15" neumeType="tractulus episema" xml:id="n-498-3007-25-15">
+                    <nc>
+                      <episema/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-558-3056-639-3155" xml:id="syl-558-3056-639-3155">
