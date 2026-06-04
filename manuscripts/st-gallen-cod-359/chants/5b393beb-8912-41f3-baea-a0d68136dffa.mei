@@ -213,6 +213,9 @@
           <zone lrx="1710" lry="1236" points="1661,1185 1710,1185 1710,1236 1661,1236" ulx="1661" uly="1185" xml:id="zone-n-1661-1185-49-51"/>
           <zone lrx="1893" lry="1230" points="1829,1170 1893,1170 1893,1230 1829,1230" ulx="1829" uly="1170" xml:id="zone-n-1829-1170-64-60"/>
           <zone lrx="2061" lry="1210" points="2010,1158 2061,1158 2061,1210 2010,1210" ulx="2010" uly="1158" xml:id="zone-n-2010-1158-51-52"/>
+          <zone lrx="2282" lry="1216" points="2225,1159 2282,1159 2282,1216 2225,1216" ulx="2225" uly="1159" xml:id="zone-n-2225-1159-57-57"/>
+          <zone lrx="2375" lry="1217" points="2319,1157 2375,1157 2375,1217 2319,1217" ulx="2319" uly="1157" xml:id="zone-n-2319-1157-56-60"/>
+          <zone lrx="2524" lry="1199" points="2433,1107 2524,1107 2524,1199 2433,1199" ulx="2433" uly="1107" xml:id="zone-n-2433-1107-91-92"/>
           <zone lrx="550" lry="1470" points="494,1409 550,1409 550,1470 494,1470" ulx="494" uly="1409" xml:id="zone-n-494-1409-56-61"/>
           <zone lrx="651" lry="1457" points="579,1395 651,1395 651,1457 579,1457" ulx="579" uly="1395" xml:id="zone-n-579-1395-72-62"/>
           <zone lrx="817" lry="1468" points="756,1408 817,1408 817,1468 756,1468" ulx="756" uly="1408" xml:id="zone-n-756-1408-61-60"/>
@@ -488,9 +491,24 @@
                 </syllable>
                 <syllable facs="#zone-syl-2127-1264-2323-1338" xml:id="syl-2127-1264-2323-1338">
                   <syl con="s" wordpos="s">xrc</syl>
+                  <neume facs="#zone-n-2225-1159-57-57" neumeType="virga" xml:id="n-2225-1159-57-57">
+                    <nc/>
+                  </neume>
+                  <neume facs="#zone-n-2319-1157-56-60" neumeType="virga episema" xml:id="n-2319-1157-56-60">
+                    <nc>
+                      <episema/>
+                    </nc>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2366-1262-2483-1354" xml:id="syl-2366-1262-2483-1354">
                   <syl con="s" wordpos="s">et</syl>
+                  <neume facs="#zone-n-2433-1107-91-92" neumeType="torculus liquescens" xml:id="n-2433-1107-91-92">
+                    <nc/>
+                    <nc intm="u"/>
+                    <nc intm="d">
+                      <liquescent/>
+                    </nc>
+                  </neume>
                 </syllable>
                 <lb facs="#zone-line-2" n="2"/>
                 <syllable facs="#zone-syl-379-1478-529-1586" xml:id="syl-379-1478-529-1586">
