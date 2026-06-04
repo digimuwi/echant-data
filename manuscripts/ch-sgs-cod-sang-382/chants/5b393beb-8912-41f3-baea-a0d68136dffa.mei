@@ -531,7 +531,7 @@
                 </syllable>
                 <lb facs="#zone-line-4" n="4"/>
                 <syllable facs="#zone-syl-538-3158-749-3289" xml:id="syl-538-3158-749-3289">
-                  <syl wordpos="s">une</syl>
+                  <syl con="s" wordpos="s">Nunc</syl>
                   <neume facs="#zone-n-638-3071-123-99" neumeType="salicus episematus" xml:id="n-638-3071-123-99">
                     <nc>
                       <episema/>
@@ -561,7 +561,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1012-3140-1149-3273" xml:id="syl-1012-3140-1149-3273">
-                  <syl wordpos="m">da</syl>
+                  <syl con="d" wordpos="m">do</syl>
                   <neume facs="#zone-n-1107-3084-74-61" neumeType="pes" xml:id="n-1107-3084-74-61">
                     <nc/>
                     <nc intm="u"/>
