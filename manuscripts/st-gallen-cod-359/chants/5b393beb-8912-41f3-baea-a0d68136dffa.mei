@@ -3,7 +3,7 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Christus ad nostras CIs XC XX</title>
+        <title>Christus ad nostras veniat</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
@@ -38,8 +38,6 @@
           <zone lrx="838" lry="1352" points="718,1282 838,1282 838,1352 718,1352" ulx="718" uly="1282" xml:id="zone-syl-718-1282-838-1352"/>
           <zone lrx="931" lry="1390" points="855,1287 931,1287 931,1390 855,1390" ulx="855" uly="1287" xml:id="zone-syl-855-1287-931-1390"/>
           <zone lrx="1126" lry="1378" points="936,1261 1126,1261 1126,1378 936,1378" ulx="936" uly="1261" xml:id="zone-syl-936-1261-1126-1378"/>
-          <zone lrx="2361" lry="1356" points="2241,1248 2361,1248 2361,1356 2241,1356" ulx="2241" uly="1248" xml:id="zone-syl-2241-1248-2361-1356"/>
-          <zone lrx="2496" lry="1367" points="2393,1367 2396,1367 2398,1367 2496,1342 2496,1314 2490,1242 2381,1227 2381,1362" ulx="2381" uly="1227" xml:id="zone-syl-2381-1227-2496-1367"/>
           <zone lrx="529" lry="1586" points="382,1572 510,1586 513,1586 529,1584 529,1479 379,1478 382,1550" ulx="379" uly="1478" xml:id="zone-syl-379-1478-529-1586"/>
           <zone lrx="643" lry="1586" points="621,1572 640,1586 643,1586 643,1480 529,1479 529,1584" ulx="529" uly="1479" xml:id="zone-syl-529-1479-643-1586"/>
           <zone lrx="808" lry="1591" points="729,1572 773,1591 776,1591 779,1591 808,1588 808,1453 712,1480 669,1480 669,1582" ulx="669" uly="1453" xml:id="zone-syl-669-1453-808-1591"/>
@@ -428,13 +426,28 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-syl0-5" xml:id="syl-syl0-5">
-                  <syl con="s" wordpos="s">CIs</syl>
+                  <syl con="d" wordpos="i">ve</syl>
                 </syllable>
-                <syllable facs="#zone-syl-2241-1248-2361-1356" xml:id="syl-2241-1248-2361-1356">
-                  <syl wordpos="s">XC</syl>
+                <syllable facs="#zone-syl-syl0-6" xml:id="syl-syl0-6">
+                  <syl con="d" wordpos="m">ni</syl>
                 </syllable>
-                <syllable facs="#zone-syl-2381-1227-2496-1367" xml:id="syl-2381-1227-2496-1367">
-                  <syl wordpos="s">XX</syl>
+                <syllable facs="#zone-syl-syl0-7" xml:id="syl-syl0-7">
+                  <syl con="s" wordpos="t">at</syl>
+                </syllable>
+                <syllable facs="#zone-syl-syl0-8" xml:id="syl-syl0-8">
+                  <syl con="d" wordpos="i">ca</syl>
+                </syllable>
+                <syllable facs="#zone-syl-syl0-9" xml:id="syl-syl0-9">
+                  <syl con="d" wordpos="m">me</syl>
+                </syllable>
+                <syllable facs="#zone-syl-syl0-10" xml:id="syl-syl0-10">
+                  <syl con="s" wordpos="t">nas.</syl>
+                </syllable>
+                <syllable facs="#zone-syl-syl0-11" xml:id="syl-syl0-11">
+                  <syl con="s" wordpos="s">xrc</syl>
+                </syllable>
+                <syllable facs="#zone-syl-syl0-12" xml:id="syl-syl0-12">
+                  <syl con="s" wordpos="s">et</syl>
                 </syllable>
                 <lb facs="#zone-line-2" n="2"/>
                 <syllable facs="#zone-syl-379-1478-529-1586" xml:id="syl-379-1478-529-1586">
