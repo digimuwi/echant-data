@@ -667,7 +667,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-944-1102-1150-1200" xml:id="syl-944-1102-1150-1200">
-                  <syl con="s" wordpos="s">ma</syl>
+                  <syl con="d" wordpos="i">ma</syl>
                   <neume facs="#zone-n-1022-1043-58-74" neumeType="climacus" xml:id="n-1022-1043-58-74">
                     <nc/>
                     <nc intm="d"/>
@@ -705,7 +705,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1300-1089-1444-1206" xml:id="syl-1300-1089-1444-1206">
-                  <syl con="d" wordpos="i">ni</syl>
+                  <syl con="d" wordpos="m">ni</syl>
                   <neume facs="#zone-n-1391-1092-19-10" neumeType="punctum" xml:id="n-1391-1092-19-10">
                     <nc/>
                   </neume>
