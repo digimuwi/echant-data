@@ -38,16 +38,6 @@
       },
       "skos:prefLabel": "Error",
       "type": "skos:Concept"
-    },
-    {
-      "echant:active": true,
-      "id": "echant:phenomenon:significative-letter",
-      "skos:definition": "A littera significativa (celeriter, tenete, …) differs between versions.",
-      "skos:inScheme": {
-        "id": "echant:phenomena"
-      },
-      "skos:prefLabel": "Significative letter",
-      "type": "skos:Concept"
     }
   ],
   "id": "echant:phenomena",
@@ -60,9 +50,6 @@
     },
     {
       "id": "echant:phenomenon:scribal-error"
-    },
-    {
-      "id": "echant:phenomenon:significative-letter"
     }
   ],
   "skos:prefLabel": "eChant difference phenomena",
