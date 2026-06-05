@@ -12,6 +12,7 @@
     {
       "echant:active": true,
       "id": "echant:phenomenon:acceleration",
+      "skos:definition": "An added \"celeriter\" letter.",
       "skos:inScheme": {
         "id": "echant:phenomena"
       },
