@@ -31,16 +31,6 @@
     },
     {
       "echant:active": true,
-      "id": "echant:phenomenon:liquescence-shift",
-      "skos:definition": "A liquescent treatment is added, removed, or changed.",
-      "skos:inScheme": {
-        "id": "echant:phenomena"
-      },
-      "skos:prefLabel": "Liquescence shift",
-      "type": "skos:Concept"
-    },
-    {
-      "echant:active": true,
       "id": "echant:phenomenon:melodic-variant",
       "skos:definition": "The pitch/contour of the melody differs between versions.",
       "skos:inScheme": {
@@ -107,9 +97,6 @@
     },
     {
       "id": "echant:phenomenon:episemation"
-    },
-    {
-      "id": "echant:phenomenon:liquescence-shift"
     },
     {
       "id": "echant:phenomenon:melodic-variant"
