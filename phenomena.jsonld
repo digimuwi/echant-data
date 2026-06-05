@@ -20,16 +20,6 @@
     },
     {
       "echant:active": true,
-      "id": "echant:phenomenon:de-episemation",
-      "skos:definition": "An episema present in the source is absent in the target.",
-      "skos:inScheme": {
-        "id": "echant:phenomena"
-      },
-      "skos:prefLabel": "De-episemation",
-      "type": "skos:Concept"
-    },
-    {
-      "echant:active": true,
       "id": "echant:phenomenon:episemation",
       "skos:definition": "An episema (rhythmic lengthening mark) is present in the target that the source lacks.",
       "skos:inScheme": {
@@ -123,9 +113,6 @@
   "skos:hasTopConcept": [
     {
       "id": "echant:phenomenon:acceleration"
-    },
-    {
-      "id": "echant:phenomenon:de-episemation"
     },
     {
       "id": "echant:phenomenon:episemation"
