@@ -32,11 +32,11 @@
     {
       "echant:active": true,
       "id": "echant:phenomenon:scribal-error",
-      "skos:definition": "The difference is judged an error in one witness.",
+      "skos:definition": "Accidental rather than intended change",
       "skos:inScheme": {
         "id": "echant:phenomena"
       },
-      "skos:prefLabel": "Scribal error",
+      "skos:prefLabel": "Error",
       "type": "skos:Concept"
     },
     {
