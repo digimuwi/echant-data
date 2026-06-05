@@ -31,6 +31,16 @@
     },
     {
       "echant:active": true,
+      "id": "echant:phenomenon:diastematization",
+      "skos:definition": "Adiastematic neumes are being explictly pitched",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Diastematization",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
       "id": "echant:phenomenon:episemation",
       "skos:definition": "An episema (rhythmic lengthening mark) is present in the target that the source lacks.",
       "skos:inScheme": {
@@ -67,6 +77,9 @@
     },
     {
       "id": "echant:phenomenon:contraction"
+    },
+    {
+      "id": "echant:phenomenon:diastematization"
     },
     {
       "id": "echant:phenomenon:episemation"
