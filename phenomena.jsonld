@@ -38,6 +38,16 @@
       },
       "skos:prefLabel": "Error",
       "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:simplification",
+      "skos:definition": "Signs are being removed in order to simplify notation.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Simplification",
+      "type": "skos:Concept"
     }
   ],
   "id": "echant:phenomena",
@@ -50,6 +60,9 @@
     },
     {
       "id": "echant:phenomenon:scribal-error"
+    },
+    {
+      "id": "echant:phenomenon:simplification"
     }
   ],
   "skos:prefLabel": "eChant difference phenomena",
