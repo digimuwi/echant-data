@@ -31,16 +31,6 @@
     },
     {
       "echant:active": true,
-      "id": "echant:phenomenon:ornamental-variant",
-      "skos:definition": "An ornamental note differs (quilisma, oriscus, strophicus, …).",
-      "skos:inScheme": {
-        "id": "echant:phenomena"
-      },
-      "skos:prefLabel": "Ornamental variant",
-      "type": "skos:Concept"
-    },
-    {
-      "echant:active": true,
       "id": "echant:phenomenon:regional-variant",
       "skos:definition": "The difference reflects a regional/dialectal notational practice.",
       "skos:inScheme": {
@@ -77,9 +67,6 @@
     },
     {
       "id": "echant:phenomenon:episemation"
-    },
-    {
-      "id": "echant:phenomenon:ornamental-variant"
     },
     {
       "id": "echant:phenomenon:regional-variant"
