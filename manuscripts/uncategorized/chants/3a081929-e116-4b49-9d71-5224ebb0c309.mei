@@ -163,6 +163,7 @@
           <zone lrx="1881" lry="742" points="1851,705 1881,705 1881,742 1851,742" ulx="1851" uly="705" xml:id="zone-n-1851-705-30-37"/>
           <zone lrx="1948" lry="735" points="1897,683 1948,683 1948,735 1897,735" ulx="1897" uly="683" xml:id="zone-n-1897-683-51-52"/>
           <zone lrx="2014" lry="742" points="1968,691 2014,691 2014,742 1968,742" ulx="1968" uly="691" xml:id="zone-n-1968-691-46-51"/>
+          <zone lrx="452" lry="959" points="434,946 452,946 452,959 434,959" ulx="434" uly="946" xml:id="zone-n-434-946-18-13"/>
           <zone lrx="574" lry="943" points="539,911 574,911 574,943 539,943" ulx="539" uly="911" xml:id="zone-n-539-911-35-32"/>
           <zone lrx="741" lry="928" points="684,876 741,876 741,928 684,928" ulx="684" uly="876" xml:id="zone-n-684-876-57-52"/>
           <zone lrx="897" lry="941" points="842,880 897,880 897,941 842,941" ulx="842" uly="880" xml:id="zone-n-842-880-55-61"/>
@@ -522,6 +523,9 @@
                 <lb facs="#zone-line-2" n="2"/>
                 <syllable facs="#zone-syl-370-970-457-1054" xml:id="syl-370-970-457-1054">
                   <syl con="s" wordpos="s">A</syl>
+                  <neume facs="#zone-n-434-946-18-13" neumeType="punctum" xml:id="n-434-946-18-13">
+                    <nc/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-460-961-595-1026" xml:id="syl-460-961-595-1026">
                   <syl con="d" wordpos="i">sum</syl>
