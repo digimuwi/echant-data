@@ -31,16 +31,6 @@
     },
     {
       "echant:active": true,
-      "id": "echant:phenomenon:notational-only",
-      "skos:definition": "A purely graphical difference with no musical significance.",
-      "skos:inScheme": {
-        "id": "echant:phenomena"
-      },
-      "skos:prefLabel": "Notational only",
-      "type": "skos:Concept"
-    },
-    {
-      "echant:active": true,
       "id": "echant:phenomenon:ornamental-variant",
       "skos:definition": "An ornamental note differs (quilisma, oriscus, strophicus, …).",
       "skos:inScheme": {
@@ -87,9 +77,6 @@
     },
     {
       "id": "echant:phenomenon:episemation"
-    },
-    {
-      "id": "echant:phenomenon:notational-only"
     },
     {
       "id": "echant:phenomenon:ornamental-variant"
