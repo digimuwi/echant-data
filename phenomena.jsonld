@@ -31,16 +31,6 @@
     },
     {
       "echant:active": true,
-      "id": "echant:phenomenon:regional-variant",
-      "skos:definition": "The difference reflects a regional/dialectal notational practice.",
-      "skos:inScheme": {
-        "id": "echant:phenomena"
-      },
-      "skos:prefLabel": "Regional variant",
-      "type": "skos:Concept"
-    },
-    {
-      "echant:active": true,
       "id": "echant:phenomenon:scribal-error",
       "skos:definition": "The difference is judged an error in one witness.",
       "skos:inScheme": {
@@ -67,9 +57,6 @@
     },
     {
       "id": "echant:phenomenon:episemation"
-    },
-    {
-      "id": "echant:phenomenon:regional-variant"
     },
     {
       "id": "echant:phenomenon:scribal-error"
