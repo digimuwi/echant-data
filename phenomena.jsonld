@@ -31,16 +31,6 @@
     },
     {
       "echant:active": true,
-      "id": "echant:phenomenon:grouping-variant",
-      "skos:definition": "The same notes are grouped into different neumes (e.g. torculus vs clivis + punctum).",
-      "skos:inScheme": {
-        "id": "echant:phenomena"
-      },
-      "skos:prefLabel": "Grouping variant",
-      "type": "skos:Concept"
-    },
-    {
-      "echant:active": true,
       "id": "echant:phenomenon:liquescence-shift",
       "skos:definition": "A liquescent treatment is added, removed, or changed.",
       "skos:inScheme": {
@@ -117,9 +107,6 @@
     },
     {
       "id": "echant:phenomenon:episemation"
-    },
-    {
-      "id": "echant:phenomenon:grouping-variant"
     },
     {
       "id": "echant:phenomenon:liquescence-shift"
