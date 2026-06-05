@@ -22,7 +22,7 @@
     {
       "echant:active": true,
       "id": "echant:phenomenon:contraction",
-      "skos:definition": "Two separate neumes are merged into one",
+      "skos:definition": "Two separate neumes are merged into one. A climacus and a virga can be contracted as a porrectus e.g.",
       "skos:inScheme": {
         "id": "echant:phenomena"
       },
