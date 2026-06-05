@@ -21,6 +21,16 @@
     },
     {
       "echant:active": true,
+      "id": "echant:phenomenon:contraction",
+      "skos:definition": "Two separate neumes are merged into one",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Contraction",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
       "id": "echant:phenomenon:episemation",
       "skos:definition": "An episema (rhythmic lengthening mark) is present in the target that the source lacks.",
       "skos:inScheme": {
@@ -54,6 +64,9 @@
   "skos:hasTopConcept": [
     {
       "id": "echant:phenomenon:acceleration"
+    },
+    {
+      "id": "echant:phenomenon:contraction"
     },
     {
       "id": "echant:phenomenon:episemation"
