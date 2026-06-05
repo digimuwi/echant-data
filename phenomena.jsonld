@@ -31,16 +31,6 @@
     },
     {
       "echant:active": true,
-      "id": "echant:phenomenon:melodic-variant",
-      "skos:definition": "The pitch/contour of the melody differs between versions.",
-      "skos:inScheme": {
-        "id": "echant:phenomena"
-      },
-      "skos:prefLabel": "Melodic variant",
-      "type": "skos:Concept"
-    },
-    {
-      "echant:active": true,
       "id": "echant:phenomenon:notational-only",
       "skos:definition": "A purely graphical difference with no musical significance.",
       "skos:inScheme": {
@@ -97,9 +87,6 @@
     },
     {
       "id": "echant:phenomenon:episemation"
-    },
-    {
-      "id": "echant:phenomenon:melodic-variant"
     },
     {
       "id": "echant:phenomenon:notational-only"
