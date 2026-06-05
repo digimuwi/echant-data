@@ -70,6 +70,7 @@
           <zone lrx="1773" lry="3031" points="1738,2993 1773,2993 1773,3031 1738,3031" ulx="1738" uly="2993" xml:id="zone-n-1738-2993-35-38"/>
           <zone lrx="1834" lry="3032" points="1791,2993 1834,2993 1834,3032 1791,3032" ulx="1791" uly="2993" xml:id="zone-n-1791-2993-43-39"/>
           <zone lrx="1908" lry="3036" points="1849,2972 1908,2972 1908,3036 1849,3036" ulx="1849" uly="2972" xml:id="zone-n-1849-2972-59-64"/>
+          <zone lrx="1673" lry="3071" points="1647,3042 1673,3042 1673,3071 1647,3071" ulx="1647" uly="3042" xml:id="zone-n-1647-3042-26-29"/>
           <zone lrx="2041" lry="3045" points="1965,3003 2041,3003 2041,3045 1965,3045" ulx="1965" uly="3003" xml:id="zone-n-1965-3003-76-42"/>
           <zone lrx="2133" lry="3033" points="2052,2992 2133,2992 2133,3033 2052,3033" ulx="2052" uly="2992" xml:id="zone-n-2052-2992-81-41"/>
           <zone lrx="2202" lry="3028" points="2146,2973 2202,2973 2202,3028 2146,3028" ulx="2146" uly="2973" xml:id="zone-n-2146-2973-56-55"/>
@@ -227,10 +228,9 @@
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-1672-3009-39-22" neumeType="torculus" xml:id="n-1672-3009-39-22">
+                  <neume facs="#zone-n-1672-3009-39-22" neumeType="bistropha" xml:id="n-1672-3009-39-22">
                     <nc/>
-                    <nc intm="u"/>
-                    <nc intm="d"/>
+                    <nc intm="s"/>
                   </neume>
                   <neume facs="#zone-n-1738-2993-35-38" neumeType="clivis" xml:id="n-1738-2993-35-38">
                     <nc/>
@@ -245,6 +245,9 @@
                     <nc/>
                     <nc intm="d"/>
                     <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1647-3042-26-29" neumeType="stropha" xml:id="n-1647-3042-26-29">
+                    <nc/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1900-3075-1984-3138" xml:id="syl-1900-3075-1984-3138">
