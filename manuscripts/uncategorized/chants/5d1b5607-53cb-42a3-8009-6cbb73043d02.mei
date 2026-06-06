@@ -901,7 +901,7 @@
                   <neume facs="#zone-n-2819-2644-36-35" neumeType="virga" xml:id="n-2819-2644-36-35">
                     <nc/>
                   </neume>
-                  <neume facs="#zone-n-1895-2574-47-28" neumeType="pes" xml:id="n-1895-2574-47-28">
+                  <neume facs="#zone-n-1895-2574-47-28" neumeType="pes quadratus" xml:id="n-1895-2574-47-28">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
