@@ -6,6 +6,14 @@
         <title>rubim excita potenti</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">Uncategorized</idno>
+            <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
@@ -879,7 +887,7 @@
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2695-1408-68-41" neumeType="porrectus flexus" xml:id="n-2695-1408-68-41">
+                  <neume facs="#zone-n-2695-1408-68-41" neumeType="torculus resupinus flexus" xml:id="n-2695-1408-68-41">
                     <nc/>
                   </neume>
                   <neume facs="#zone-n-2788-1415-59-31" neumeType="unknown" xml:id="n-2788-1415-59-31">
