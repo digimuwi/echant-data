@@ -151,7 +151,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-742-3056-881-3155" xml:id="syl-742-3056-881-3155">
                   <syl con="s" wordpos="s">est</syl>
-                  <neume facs="#zone-n-800-2987-67-41" neumeType="porrectus flexus" xml:id="n-800-2987-67-41">
+                  <neume facs="#zone-n-800-2987-67-41" neumeType="torculus resupinus flexus" xml:id="n-800-2987-67-41">
                     <nc/>
                     <nc intm="d"/>
                     <nc intm="u"/>
