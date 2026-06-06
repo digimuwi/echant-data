@@ -270,7 +270,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2183-3056-2326-3155" xml:id="syl-2183-3056-2326-3155">
                   <syl con="d" wordpos="i">prop</syl>
-                  <neume facs="#zone-n-2310-3001-49-29" neumeType="torculus" xml:id="n-2310-3001-49-29">
+                  <neume facs="#zone-n-2310-3001-49-29" neumeType="bistropha" xml:id="n-2310-3001-49-29">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
