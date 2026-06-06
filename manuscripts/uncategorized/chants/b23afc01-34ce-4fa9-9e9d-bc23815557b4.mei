@@ -1917,7 +1917,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1978-3394-2100-3476" xml:id="syl-1978-3394-2100-3476">
                   <syl wordpos="i">om</syl>
-                  <neume facs="#zone-n-2033-3325-52-54" neumeType="pressus" xml:id="n-2033-3325-52-54">
+                  <neume facs="#zone-n-2033-3325-52-54" neumeType="cephalicus" xml:id="n-2033-3325-52-54">
                     <nc/>
                     <nc intm="s"/>
                     <nc intm="d"/>
