@@ -56,16 +56,26 @@
           <zone lrx="1044" lry="2038" points="923,1968 923,2038 1044,2038 1044,1968" ulx="923" uly="1968" xml:id="zone-syl-923-1968-1044-2038"/>
           <zone lrx="1152" lry="2038" points="1044,1968 1044,2038 1152,2038 1152,1968" ulx="1044" uly="1968" xml:id="zone-syl-1044-1968-1152-2038"/>
           <zone lrx="1326" lry="2038" points="1169,1968 1169,2038 1326,2038 1326,1968" ulx="1169" uly="1968" xml:id="zone-syl-1169-1968-1326-2038"/>
-          <zone lrx="1052" lry="1524" points="1026,1512 1052,1512 1052,1524 1026,1524" ulx="1026" uly="1512" xml:id="zone-n-1026-1512-26-12"/>
-          <zone lrx="1171" lry="1515" points="1145,1503 1171,1503 1171,1515 1145,1515" ulx="1145" uly="1503" xml:id="zone-n-1145-1503-26-12"/>
-          <zone lrx="1345" lry="1510" points="1321,1498 1345,1498 1345,1510 1321,1510" ulx="1321" uly="1498" xml:id="zone-n-1321-1498-24-12"/>
-          <zone lrx="1478" lry="1518" points="1413,1468 1478,1468 1478,1518 1413,1518" ulx="1413" uly="1468" xml:id="zone-n-1413-1468-65-50"/>
-          <zone lrx="1553" lry="1510" points="1506,1476 1553,1476 1553,1510 1506,1510" ulx="1506" uly="1476" xml:id="zone-n-1506-1476-47-34"/>
-          <zone lrx="1624" lry="1487" points="1574,1457 1624,1457 1624,1487 1574,1487" ulx="1574" uly="1457" xml:id="zone-n-1574-1457-50-30"/>
-          <zone lrx="1710" lry="1474" points="1653,1435 1710,1435 1710,1474 1653,1474" ulx="1653" uly="1435" xml:id="zone-n-1653-1435-57-39"/>
-          <zone lrx="1910" lry="1454" points="1863,1425 1910,1425 1910,1454 1863,1454" ulx="1863" uly="1425" xml:id="zone-n-1863-1425-47-29"/>
-          <zone lrx="2237" lry="1509" points="2179,1464 2237,1464 2237,1509 2179,1509" ulx="2179" uly="1464" xml:id="zone-n-2179-1464-58-45"/>
-          <zone lrx="2309" lry="1515" points="2269,1485 2309,1485 2309,1515 2269,1515" ulx="2269" uly="1485" xml:id="zone-n-2269-1485-40-30"/>
+          <zone lrx="2816" lry="1466" points="2768,1427 2816,1427 2816,1466 2768,1466" ulx="2768" uly="1427" xml:id="zone-n-2768-1427-48-39"/>
+          <zone lrx="2875" lry="1467" points="2810,1428 2875,1428 2875,1467 2810,1467" ulx="2810" uly="1428" xml:id="zone-n-2810-1428-65-39"/>
+          <zone lrx="2932" lry="1609" points="2891,1585 2932,1585 2932,1609 2891,1609" ulx="2891" uly="1585" xml:id="zone-n-2891-1585-41-24"/>
+          <zone lrx="2951" lry="1459" points="2904,1420 2951,1420 2951,1459 2904,1459" ulx="2904" uly="1420" xml:id="zone-n-2904-1420-47-39"/>
+          <zone lrx="3020" lry="1461" points="2953,1415 3020,1415 3020,1461 2953,1461" ulx="2953" uly="1415" xml:id="zone-n-2953-1415-67-46"/>
+          <zone lrx="3013" lry="1611" points="2958,1552 3013,1552 3013,1611 2958,1611" ulx="2958" uly="1552" xml:id="zone-n-2958-1552-55-59"/>
+          <zone lrx="3093" lry="1454" points="3051,1420 3093,1420 3093,1454 3051,1454" ulx="3051" uly="1420" xml:id="zone-n-3051-1420-42-34"/>
+          <zone lrx="3156" lry="1450" points="3099,1419 3156,1419 3156,1450 3099,1450" ulx="3099" uly="1419" xml:id="zone-n-3099-1419-57-31"/>
+          <zone lrx="2557" lry="1578" points="2496,1536 2557,1536 2557,1578 2496,1578" ulx="2496" uly="1536" xml:id="zone-n-2496-1536-61-42"/>
+          <zone lrx="2640" lry="1577" points="2576,1521 2640,1521 2640,1577 2576,1577" ulx="2576" uly="1521" xml:id="zone-n-2576-1521-64-56"/>
+          <zone lrx="2729" lry="1571" points="2681,1533 2729,1533 2729,1571 2681,1571" ulx="2681" uly="1533" xml:id="zone-n-2681-1533-48-38"/>
+          <zone lrx="1378" lry="1998" points="1339,1975 1378,1975 1378,1998 1339,1998" ulx="1339" uly="1975" xml:id="zone-n-1339-1975-39-23"/>
+          <zone lrx="1432" lry="1988" points="1397,1949 1432,1949 1432,1988 1397,1988" ulx="1397" uly="1949" xml:id="zone-n-1397-1949-35-39"/>
+          <zone lrx="1487" lry="1984" points="1452,1958 1487,1958 1487,1984 1452,1984" ulx="1452" uly="1958" xml:id="zone-n-1452-1958-35-26"/>
+          <zone lrx="1546" lry="1970" points="1507,1924 1546,1924 1546,1970 1507,1970" ulx="1507" uly="1924" xml:id="zone-n-1507-1924-39-46"/>
+          <zone lrx="1598" lry="1956" points="1560,1914 1598,1914 1598,1956 1560,1956" ulx="1560" uly="1914" xml:id="zone-n-1560-1914-38-42"/>
+          <zone lrx="1624" lry="1957" points="1583,1913 1624,1913 1624,1957 1583,1957" ulx="1583" uly="1913" xml:id="zone-n-1583-1913-41-44"/>
+          <zone lrx="1788" lry="1890" points="1752,1868 1788,1868 1788,1890 1752,1890" ulx="1752" uly="1868" xml:id="zone-n-1752-1868-36-22"/>
+          <zone lrx="1895" lry="1882" points="1816,1842 1895,1842 1895,1882 1816,1882" ulx="1816" uly="1842" xml:id="zone-n-1816-1842-79-40"/>
+          <zone lrx="1981" lry="1878" points="1924,1839 1981,1839 1981,1878 1924,1878" ulx="1924" uly="1839" xml:id="zone-n-1924-1839-57-39"/>
         </graphic>
       </surface>
     </facsimile>
@@ -84,89 +94,88 @@
                 <lb facs="#zone-line-1" n="1"/>
                 <syllable facs="#zone-syl-846-1526-1116-1629" xml:id="syl-846-1526-1116-1629">
                   <syl con="d" wordpos="i">Prop</syl>
-                  <neume facs="#zone-n-1026-1512-26-12" neumeType="punctum" xml:id="n-1026-1512-26-12">
-                    <nc/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1116-1526-1247-1629" xml:id="syl-1116-1526-1247-1629">
                   <syl con="s" wordpos="t">ter</syl>
-                  <neume facs="#zone-n-1145-1503-26-12" neumeType="punctum" xml:id="n-1145-1503-26-12">
-                    <nc/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1265-1526-1349-1629" xml:id="syl-1265-1526-1349-1629">
                   <syl con="d" wordpos="i">ve</syl>
-                  <neume facs="#zone-n-1321-1498-24-12" neumeType="punctum" xml:id="n-1321-1498-24-12">
-                    <nc/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1349-1526-1427-1629" xml:id="syl-1349-1526-1427-1629">
                   <syl con="d" wordpos="m">ri</syl>
-                  <neume facs="#zone-n-1413-1468-65-50" neumeType="pes" xml:id="n-1413-1468-65-50">
-                    <nc/>
-                    <nc intm="u"/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1427-1526-1505-1629" xml:id="syl-1427-1526-1505-1629">
                   <syl con="d" wordpos="m">ta</syl>
-                  <neume facs="#zone-n-1506-1476-47-34" neumeType="virga" xml:id="n-1506-1476-47-34">
-                    <nc/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1505-1526-1696-1629" xml:id="syl-1505-1526-1696-1629">
                   <syl con="s" wordpos="t">tem</syl>
-                  <neume facs="#zone-n-1574-1457-50-30" neumeType="torculus cum episema" xml:id="n-1574-1457-50-30">
-                    <nc>
-                      <episema/>
-                    </nc>
-                    <nc intm="u">
-                      <episema/>
-                    </nc>
-                    <nc intm="d">
-                      <episema/>
-                    </nc>
-                  </neume>
-                  <neume facs="#zone-n-1653-1435-57-39" neumeType="porrectus" xml:id="n-1653-1435-57-39">
-                    <nc/>
-                    <nc intm="d"/>
-                    <nc intm="u"/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1714-1526-1786-1629" xml:id="syl-1714-1526-1786-1629">
                   <syl con="s" wordpos="s">et</syl>
                 </syllable>
                 <syllable facs="#zone-syl-1804-1526-1972-1629" xml:id="syl-1804-1526-1972-1629">
                   <syl con="d" wordpos="i">man</syl>
-                  <neume facs="#zone-n-1863-1425-47-29" neumeType="torculus cum episema" xml:id="n-1863-1425-47-29">
-                    <nc>
-                      <episema/>
-                    </nc>
-                    <nc intm="u">
-                      <episema/>
-                    </nc>
-                    <nc intm="d">
-                      <episema/>
-                    </nc>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1972-1523-2046-1615" xml:id="syl-1972-1523-2046-1615">
                   <syl con="d" wordpos="m">sue</syl>
                 </syllable>
                 <syllable facs="#zone-syl-2098-1526-2181-1629" xml:id="syl-2098-1526-2181-1629">
                   <syl con="d" wordpos="m">tu</syl>
-                  <neume facs="#zone-n-2179-1464-58-45" neumeType="pes" xml:id="n-2179-1464-58-45">
-                    <nc/>
-                    <nc intm="u"/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2181-1526-2271-1629" xml:id="syl-2181-1526-2271-1629">
                   <syl con="d" wordpos="m">di</syl>
-                  <neume facs="#zone-n-2269-1485-40-30" neumeType="virga" xml:id="n-2269-1485-40-30">
-                    <nc/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2271-1526-2456-1629" xml:id="syl-2271-1526-2456-1629">
                   <syl con="s" wordpos="t">nem</syl>
+                  <neume facs="#zone-n-2768-1427-48-39" neumeType="virga" xml:id="n-2768-1427-48-39">
+                    <nc/>
+                  </neume>
+                  <neume facs="#zone-n-2810-1428-65-39" neumeType="clivis pressus minor" xml:id="n-2810-1428-65-39">
+                    <nc/>
+                    <nc intm="d"/>
+                    <nc intm="s"/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-2891-1585-41-24" neumeType="bistropha" xml:id="n-2891-1585-41-24">
+                    <nc/>
+                    <nc intm="s"/>
+                  </neume>
+                  <neume facs="#zone-n-2904-1420-47-39" neumeType="virga" xml:id="n-2904-1420-47-39">
+                    <nc/>
+                  </neume>
+                  <neume facs="#zone-n-2953-1415-67-46" neumeType="clivis pressus minor" xml:id="n-2953-1415-67-46">
+                    <nc/>
+                    <nc intm="d"/>
+                    <nc intm="s"/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-2958-1552-55-59" neumeType="climacus" xml:id="n-2958-1552-55-59">
+                    <nc/>
+                    <nc intm="d"/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-3051-1420-42-34" neumeType="virga" xml:id="n-3051-1420-42-34">
+                    <nc/>
+                  </neume>
+                  <neume facs="#zone-n-3099-1419-57-31" neumeType="clivis" xml:id="n-3099-1419-57-31">
+                    <nc/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-2496-1536-61-42" neumeType="pes" xml:id="n-2496-1536-61-42">
+                    <nc/>
+                    <nc intm="u"/>
+                  </neume>
+                  <neume facs="#zone-n-2576-1521-64-56" neumeType="pes subbipunctis" xml:id="n-2576-1521-64-56">
+                    <nc/>
+                    <nc intm="u"/>
+                    <nc intm="d"/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-2681-1533-48-38" neumeType="pressus maior" xml:id="n-2681-1533-48-38">
+                    <nc/>
+                    <nc intm="s"/>
+                    <nc intm="d"/>
+                  </neume>
                 </syllable>
                 <lb facs="#zone-line-2" n="2"/>
                 <syllable facs="#zone-syl-934-1760-1026-1835" xml:id="syl-934-1760-1026-1835">
@@ -226,6 +235,52 @@
                 </syllable>
                 <syllable facs="#zone-syl-1169-1968-1326-2038" xml:id="syl-1169-1968-1326-2038">
                   <syl con="s" wordpos="s">tua</syl>
+                  <neume facs="#zone-n-1339-1975-39-23" neumeType="bistropha" xml:id="n-1339-1975-39-23">
+                    <nc/>
+                    <nc intm="s"/>
+                  </neume>
+                  <neume facs="#zone-n-1397-1949-35-39" neumeType="clivis" xml:id="n-1397-1949-35-39">
+                    <nc/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1452-1958-35-26" neumeType="bistropha" xml:id="n-1452-1958-35-26">
+                    <nc/>
+                    <nc intm="s"/>
+                  </neume>
+                  <neume facs="#zone-n-1507-1924-39-46" neumeType="clivis" xml:id="n-1507-1924-39-46">
+                    <nc/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1560-1914-38-42" neumeType="bivirga" xml:id="n-1560-1914-38-42">
+                    <nc/>
+                    <nc intm="s"/>
+                  </neume>
+                  <neume facs="#zone-n-1583-1913-41-44" neumeType="clivis" xml:id="n-1583-1913-41-44">
+                    <nc/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1752-1868-36-22" neumeType="bistropha" xml:id="n-1752-1868-36-22">
+                    <nc/>
+                    <nc intm="s"/>
+                  </neume>
+                  <neume facs="#zone-n-1816-1842-79-40" neumeType="torculus resupinus flexus" xml:id="n-1816-1842-79-40">
+                    <nc/>
+                    <nc intm="u"/>
+                    <nc intm="d"/>
+                    <nc intm="u"/>
+                    <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1924-1839-57-39" neumeType="torculus cum episema" xml:id="n-1924-1839-57-39">
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="u">
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                  </neume>
                 </syllable>
               </layer>
             </staff>
