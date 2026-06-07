@@ -805,7 +805,7 @@
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2070-1046-47-42" neumeType="clivis" xml:id="n-2070-1046-47-42">
+                  <neume facs="#zone-n-2070-1046-47-42" neumeType="clivis episema" xml:id="n-2070-1046-47-42">
                     <nc>
                       <episema/>
                     </nc>
