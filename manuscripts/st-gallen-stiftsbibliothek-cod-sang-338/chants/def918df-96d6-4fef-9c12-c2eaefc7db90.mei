@@ -446,7 +446,7 @@
                 <lb facs="#zone-line-3" n="3"/>
                 <syllable facs="#zone-syl-385-3455-545-3541" xml:id="syl-385-3455-545-3541">
                   <syl con="d" wordpos="i">ter</syl>
-                  <neume facs="#zone-n-490-3380-55-50" neumeType="clivis" xml:id="n-490-3380-55-50">
+                  <neume facs="#zone-n-490-3380-55-50" neumeType="clivis episema" xml:id="n-490-3380-55-50">
                     <nc>
                       <episema/>
                     </nc>
