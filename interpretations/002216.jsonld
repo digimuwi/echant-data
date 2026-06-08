@@ -12,6 +12,40 @@
   "id": "echant:synopsis:002216",
   "oa:items": [
     {
+      "dcterms:created": "2026-06-08T07:02:32",
+      "dcterms:creator": "pfefferniels",
+      "id": "echant:interpretation:93d3d583-2af5-45fe-835d-37dfcf1fcca2",
+      "oa:hasBody": {
+        "echant:functionCategory": [
+          {
+            "id": "echant:function-category:aesthetic-expressive"
+          }
+        ],
+        "hico:hasInterpretationType": {
+          "id": "echant:phenomenon:acceleration"
+        },
+        "type": "hico:InterpretationAct"
+      },
+      "oa:hasTarget": [
+        {
+          "echant:role": "to",
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/chants/def918df-96d6-4fef-9c12-c2eaefc7db90.mei#800-2987-67-41"
+          }
+        },
+        {
+          "echant:role": "from",
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/chants/6d85fb68-8a20-4bab-859f-00025e6a508a.mei#1279-1052-74-46"
+          }
+        }
+      ],
+      "oa:motivatedBy": {
+        "id": "oa:describing"
+      },
+      "type": "oa:Annotation"
+    },
+    {
       "dcterms:created": "2026-06-08T07:02:02",
       "dcterms:creator": "pfefferniels",
       "id": "echant:interpretation:b155bdf6-b5f3-4261-9053-2204f99a845e",
