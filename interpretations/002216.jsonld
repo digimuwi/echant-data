@@ -81,6 +81,36 @@
         "id": "oa:describing"
       },
       "type": "oa:Annotation"
+    },
+    {
+      "dcterms:created": "2026-06-08T07:03:28",
+      "dcterms:creator": "pfefferniels",
+      "id": "echant:interpretation:d2d28c7f-5abc-462f-bce0-d34b692049d8",
+      "oa:hasBody": {
+        "echant:functionCategory": [
+          {
+            "id": "echant:function-category:text-related"
+          },
+          {
+            "id": "echant:function-category:rhythmic-structural"
+          }
+        ],
+        "hico:hasInterpretationType": {
+          "id": "echant:phenomenon:melodic-variant"
+        },
+        "type": "hico:InterpretationAct"
+      },
+      "oa:hasTarget": [
+        {
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/chants/6d85fb68-8a20-4bab-859f-00025e6a508a.mei#1648-1116-24-10"
+          }
+        }
+      ],
+      "oa:motivatedBy": {
+        "id": "oa:describing"
+      },
+      "type": "oa:Annotation"
     }
   ],
   "type": "oa:AnnotationCollection"
