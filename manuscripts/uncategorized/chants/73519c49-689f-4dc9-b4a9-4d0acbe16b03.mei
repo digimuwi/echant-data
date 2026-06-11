@@ -6,6 +6,14 @@
         <title>semper et in saecula</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">Uncategorized</idno>
+            <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
@@ -27,6 +35,7 @@
           <zone lrx="1185" lry="186" points="1037,98 1037,186 1185,186 1185,98" ulx="1037" uly="98" xml:id="zone-syl-1037-98-1185-186"/>
           <zone lrx="207" lry="95" points="164,64 207,64 207,95 164,95" ulx="164" uly="64" xml:id="zone-n-164-64-43-31"/>
           <zone lrx="234" lry="56" points="215,35 234,35 234,56 215,56" ulx="215" uly="35" xml:id="zone-sl-164-64-43-31-1"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0"/>
           <zone lrx="327" lry="91" points="296,57 327,57 327,91 296,91" ulx="296" uly="57" xml:id="zone-n-296-57-31-34"/>
           <zone lrx="272" lry="58" points="232,39 272,39 272,58 232,58" ulx="232" uly="39" xml:id="zone-sl-296-57-31-34-1"/>
           <zone lrx="345" lry="53" points="319,33 345,33 345,53 319,53" ulx="319" uly="33" xml:id="zone-sl-296-57-31-34-2"/>
@@ -65,6 +74,9 @@
                   <neume facs="#zone-n-164-64-43-31" neumeType="virga" xml:id="n-164-64-43-31">
                     <nc/>
                     <signifLet facs="#zone-sl-164-64-43-31-1" place="above-right" xml:id="sl-164-64-43-31-1">c</signifLet>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0" neumeType="punctum" xml:id="n-0-0-0-0">
+                    <nc/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-218-98-347-186" xml:id="syl-218-98-347-186">
