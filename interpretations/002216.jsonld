@@ -44,6 +44,42 @@
         "id": "oa:describing"
       },
       "type": "oa:Annotation"
+    },
+    {
+      "dcterms:created": "2026-06-11T12:05:24",
+      "dcterms:creator": "pfefferniels",
+      "id": "echant:interpretation:3beb17ea-01f9-4bb4-9d14-46a63cc6a721",
+      "oa:hasBody": {
+        "echant:functionCategory": [
+          {
+            "id": "echant:function-category:vocal-technical"
+          }
+        ],
+        "echant:rank": "alternative",
+        "hico:hasInterpretationCriterion": "unwahrscheinlich, dass ...",
+        "hico:hasInterpretationType": {
+          "id": "echant:phenomenon:episemation"
+        },
+        "type": "hico:InterpretationAct"
+      },
+      "oa:hasTarget": [
+        {
+          "echant:role": "from",
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-338/chants/def918df-96d6-4fef-9c12-c2eaefc7db90.mei#498-3007-25-15"
+          }
+        },
+        {
+          "echant:role": "to",
+          "oa:hasSource": {
+            "id": "../manuscripts/st-gallen-stiftsbibliothek-cod-sang-342/chants/6d85fb68-8a20-4bab-859f-00025e6a508a.mei#958-1106-25-13"
+          }
+        }
+      ],
+      "oa:motivatedBy": {
+        "id": "oa:describing"
+      },
+      "type": "oa:Annotation"
     }
   ],
   "type": "oa:AnnotationCollection"
