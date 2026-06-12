@@ -61,6 +61,7 @@
           <zone lrx="1042" lry="3044" points="999,2995 1042,2995 1042,3044 999,3044" ulx="999" uly="2995" xml:id="zone-n-999-2995-43-49"/>
           <zone lrx="1089" lry="3019" points="1047,2984 1089,2984 1089,3019 1047,3019" ulx="1047" uly="2984" xml:id="zone-n-1047-2984-42-35"/>
           <zone lrx="1131" lry="3063" points="1048,3014 1131,3014 1131,3063 1048,3063" ulx="1048" uly="3014" xml:id="zone-n-1048-3014-83-49"/>
+          <zone lrx="1134" lry="3067" points="1116,3048 1134,3048 1134,3067 1116,3067" ulx="1116" uly="3048" xml:id="zone-n-1116-3048-18-19"/>
           <zone lrx="1236" lry="3048" points="1217,3035 1236,3035 1236,3048 1217,3048" ulx="1217" uly="3035" xml:id="zone-n-1217-3035-19-13"/>
           <zone lrx="1385" lry="3042" points="1312,2971 1385,2971 1385,3042 1312,3042" ulx="1312" uly="2971" xml:id="zone-n-1312-2971-73-71"/>
           <zone lrx="1441" lry="3042" points="1402,3017 1441,3017 1441,3042 1402,3042" ulx="1402" uly="3017" xml:id="zone-n-1402-3017-39-25"/>
@@ -182,6 +183,11 @@
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
+                  </neume>
+                  <neume facs="#zone-n-1116-3048-18-19" neumeType="tractulus episema" xml:id="n-1116-3048-18-19">
+                    <nc>
+                      <episema/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1180-3056-1261-3155" xml:id="syl-1180-3056-1261-3155">
@@ -360,8 +366,12 @@
                 <syllable facs="#zone-syl-1331-3265-1479-3342" xml:id="syl-1331-3265-1479-3342">
                   <syl con="s" wordpos="s">de</syl>
                   <neume facs="#zone-n-1409-3190-34-41" neumeType="clivis episema" xml:id="n-1409-3190-34-41">
-                    <nc/>
-                    <nc intm="d"/>
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1458-3170-50-56" neumeType="climacus episema" xml:id="n-1458-3170-50-56">
                     <nc>
