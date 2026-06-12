@@ -3,7 +3,7 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Laudem Domini loquetur</title>
+        <title>Laudem domini loquetur</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
@@ -89,7 +89,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-789-2285-887-2323" xml:id="syl-789-2285-887-2323">
-                  <syl con="d" wordpos="i">Do</syl>
+                  <syl con="d" wordpos="i">do</syl>
                   <neume facs="#zone-n-867-2199-42-33" neumeType="virga" xml:id="n-867-2199-42-33">
                     <nc/>
                   </neume>
