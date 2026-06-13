@@ -6,6 +6,12 @@
       "image": "42.jpg",
       "image_source_url": "https://www.e-codices.ch/loris/csg/csg-0339/csg-0339_042.jp2/full/full/0/default/jpg",
       "status": "draft"
+    },
+    {
+      "folio_label": "49",
+      "image": "49.jpg",
+      "image_source_url": "https://e-codices.ch/loris/csg/csg-0339/csg-0339_049.jp2/full/full/0/default/jpg",
+      "status": "draft"
     }
   ],
   "shelfmark": "339",
