@@ -3,14 +3,19 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Diffusa est gratia in</title>
+        <title>Diffusa est</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
         <source>
           <bibl>
+            <title>Diffusa est</title>
             <idno type="siglum">St. Gallen, Stiftsbibliothek, Cod. Sang. 374</idno>
+            <idno type="shelfmark">CH-SGs 374</idno>
             <ptr target="https://www.e-codices.ch/metadata/iiif/csg-0374/manifest.json"/>
+            <idno type="cantus-id">002216</idno>
+            <note type="genre">Antiphone</note>
+            <note type="mode">5</note>
           </bibl>
         </source>
       </sourceDesc>
