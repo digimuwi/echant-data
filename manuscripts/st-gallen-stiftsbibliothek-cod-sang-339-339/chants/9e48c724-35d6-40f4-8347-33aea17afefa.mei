@@ -3,15 +3,17 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title>Diffusa est gratia in</title>
+        <title>Diffusa est</title>
       </titleStmt>
       <pubStmt/>
       <sourceDesc>
         <source>
           <bibl>
+            <title>Diffusa est</title>
             <idno type="siglum">St. Gallen, Stiftsbibliothek, Cod. Sang. 339</idno>
             <idno type="shelfmark">339</idno>
             <ptr target="https://www.e-codices.ch/metadata/iiif/csg-0339/manifest.json"/>
+            <idno type="cantus-id">02216</idno>
           </bibl>
         </source>
       </sourceDesc>
