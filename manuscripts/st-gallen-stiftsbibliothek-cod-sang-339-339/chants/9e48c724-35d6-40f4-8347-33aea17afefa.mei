@@ -60,6 +60,11 @@
           <zone lrx="1540" lry="1589" points="1502,1561 1540,1561 1540,1589 1502,1589" ulx="1502" uly="1561" xml:id="zone-n-1502-1561-38-28"/>
           <zone lrx="1591" lry="1590" points="1549,1547 1591,1547 1591,1590 1549,1590" ulx="1549" uly="1547" xml:id="zone-n-1549-1547-42-43"/>
           <zone lrx="1634" lry="1627" points="1589,1600 1634,1600 1634,1627 1589,1627" ulx="1589" uly="1600" xml:id="zone-n-1589-1600-45-27"/>
+          <zone lrx="1724" lry="1607" points="1650,1580 1724,1580 1724,1607 1650,1607" ulx="1650" uly="1580" xml:id="zone-n-1650-1580-74-27"/>
+          <zone lrx="1778" lry="1601" points="1729,1551 1778,1551 1778,1601 1729,1601" ulx="1729" uly="1551" xml:id="zone-n-1729-1551-49-50"/>
+          <zone lrx="1821" lry="1595" points="1785,1566 1821,1566 1821,1595 1785,1595" ulx="1785" uly="1566" xml:id="zone-n-1785-1566-36-29"/>
+          <zone lrx="1775" lry="1657" points="1757,1638 1775,1638 1775,1657 1757,1657" ulx="1757" uly="1638" xml:id="zone-n-1757-1638-18-19"/>
+          <zone lrx="1827" lry="1627" points="1795,1606 1827,1606 1827,1627 1795,1627" ulx="1795" uly="1606" xml:id="zone-n-1795-1606-32-21"/>
         </graphic>
       </surface>
     </facsimile>
@@ -202,10 +207,43 @@
                     <nc intm="u"/>
                     <nc intm="d"/>
                   </neume>
+                  <neume facs="#zone-n-1650-1580-74-27" neumeType="quilisma" xml:id="n-1650-1580-74-27">
+                    <nc>
+                      <quilisma/>
+                    </nc>
+                  </neume>
+                  <neume facs="#zone-n-1729-1551-49-50" neumeType="climacus episema" xml:id="n-1729-1551-49-50">
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                  </neume>
+                  <neume facs="#zone-n-1785-1566-36-29" neumeType="clivis episema" xml:id="n-1785-1566-36-29">
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                  </neume>
                 </syllable>
                 <lb facs="#zone-line-2" n="2"/>
                 <syllable facs="#zone-syl-1697-1641-1816-1743" xml:id="syl-1697-1641-1816-1743">
                   <syl con="d" wordpos="i">prop</syl>
+                  <neume facs="#zone-n-1757-1638-18-19" neumeType="apostropha" xml:id="n-1757-1638-18-19">
+                    <nc>
+                      <liquescent/>
+                    </nc>
+                  </neume>
+                  <neume facs="#zone-n-1795-1606-32-21" neumeType="bistropha" xml:id="n-1795-1606-32-21">
+                    <nc/>
+                    <nc intm="s"/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1815-1671-1932-1743" xml:id="syl-1815-1671-1932-1743">
                   <syl con="d" wordpos="m">ter</syl>
