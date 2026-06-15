@@ -172,19 +172,22 @@
                       <episema/>
                     </nc>
                   </neume>
-                </syllable>
-                <syllable facs="#zone-syl-1025-3056-1169-3155" xml:id="syl-1025-3056-1169-3155">
-                  <syl con="s" wordpos="t">tia</syl>
                   <neume facs="#zone-n-1047-2984-42-35" neumeType="torculus" xml:id="n-1047-2984-42-35">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
                   </neume>
+                </syllable>
+                <syllable facs="#zone-syl-1025-3056-1169-3155" xml:id="syl-1025-3056-1169-3155">
+                  <syl con="d" wordpos="m">ti</syl>
                   <neume facs="#zone-n-1048-3014-83-49" neumeType="torculus" xml:id="n-1048-3014-83-49">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
                   </neume>
+                </syllable>
+                <syllable facs="#zone-syl-syl0-6" xml:id="syl-syl0-6">
+                  <syl con="s" wordpos="t">a</syl>
                   <neume facs="#zone-n-1116-3048-18-19" neumeType="tractulus episema" xml:id="n-1116-3048-18-19">
                     <nc>
                       <episema/>
