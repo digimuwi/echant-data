@@ -12,6 +12,7 @@
             <title>Diffusa est</title>
             <idno type="siglum">St. Gallen, Stiftsbibliothek, Cod. Sang. 340</idno>
             <ptr target="https://www.e-codices.ch/metadata/iiif/csg-0340/manifest.json"/>
+            <idno type="cantus-id">002216</idno>
             <note type="genre">Antiphona</note>
             <note type="mode">5</note>
           </bibl>
