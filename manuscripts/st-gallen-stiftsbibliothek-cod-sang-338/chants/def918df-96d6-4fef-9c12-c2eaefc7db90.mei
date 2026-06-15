@@ -267,10 +267,11 @@
                     <nc intm="u"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2052-2992-81-41" neumeType="quilisma" xml:id="n-2052-2992-81-41">
+                  <neume facs="#zone-n-2052-2992-81-41" neumeType="pes" xml:id="n-2052-2992-81-41">
                     <nc>
                       <quilisma/>
                     </nc>
+                    <nc intm="u"/>
                   </neume>
                   <neume facs="#zone-n-2146-2973-56-55" neumeType="climacus" xml:id="n-2146-2973-56-55">
                     <nc/>
