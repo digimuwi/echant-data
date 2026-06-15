@@ -154,6 +154,7 @@
                   <syl con="s" wordpos="s">est</syl>
                   <neume facs="#zone-n-800-2987-67-41" neumeType="torculus resupinus flexus" xml:id="n-800-2987-67-41">
                     <nc/>
+                    <nc intm="u"/>
                     <nc intm="d"/>
                     <nc intm="u"/>
                     <nc intm="d"/>
