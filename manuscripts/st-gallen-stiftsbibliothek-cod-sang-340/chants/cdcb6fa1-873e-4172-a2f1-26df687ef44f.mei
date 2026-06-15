@@ -136,12 +136,12 @@
                     <nc intm="u"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2544-969-31-33" neumeType="virga" xml:id="n-2544-969-31-33">
-                    <nc/>
-                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-syl0-6" xml:id="syl-syl0-6">
                   <syl con="s" wordpos="t">a</syl>
+                  <neume facs="#zone-n-2544-969-31-33" neumeType="virga" xml:id="n-2544-969-31-33">
+                    <nc/>
+                  </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2574-1043-2650-1078" xml:id="syl-2574-1043-2650-1078">
                   <syl con="s" wordpos="s">in</syl>
