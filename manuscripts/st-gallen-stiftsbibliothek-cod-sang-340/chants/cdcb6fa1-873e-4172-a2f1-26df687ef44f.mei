@@ -65,6 +65,7 @@
           <zone lrx="981" lry="1212" points="915,1146 981,1146 981,1212 915,1212" ulx="915" uly="1146" xml:id="zone-n-915-1146-66-66"/>
           <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0"/>
           <zone lrx="1105" lry="1177" points="1060,1119 1105,1119 1105,1177 1060,1177" ulx="1060" uly="1119" xml:id="zone-n-1060-1119-45-58"/>
+          <zone lrx="1170" lry="1169" points="1120,1125 1170,1125 1170,1169 1120,1169" ulx="1120" uly="1125" xml:id="zone-n-1120-1125-50-44"/>
         </graphic>
       </surface>
     </facsimile>
@@ -245,6 +246,14 @@
                       <episema/>
                     </nc>
                     <nc intm="d">
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
+                  </neume>
+                  <neume facs="#zone-n-1120-1125-50-44" neumeType="clivis episema" xml:id="n-1120-1125-50-44">
+                    <nc>
                       <episema/>
                     </nc>
                     <nc intm="d">
