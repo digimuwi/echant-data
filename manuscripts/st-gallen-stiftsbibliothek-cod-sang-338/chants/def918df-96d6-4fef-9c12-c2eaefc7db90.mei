@@ -403,7 +403,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1492-3265-1640-3342" xml:id="syl-1492-3265-1640-3342">
                   <syl con="s" wordpos="s">us</syl>
-                  <neume facs="#zone-n-1561-3190-55-41" neumeType="tractulus episema" xml:id="n-1561-3190-55-41">
+                  <neume facs="#zone-n-1561-3190-55-41" neumeType="torculus cum episema" xml:id="n-1561-3190-55-41">
                     <nc>
                       <episema/>
                     </nc>
