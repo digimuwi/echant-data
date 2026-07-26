@@ -108,7 +108,7 @@
                     <nc intm="d"/>
                     <signifLet facs="#zone-sl-1080-2192-35-33-1" place="above" xml:id="sl-1080-2192-35-33-1">c</signifLet>
                   </neume>
-                  <neume facs="#zone-n-1109-2225-31-27" neumeType="clivis episema" xml:id="n-1109-2225-31-27">
+                  <neume facs="#zone-n-1109-2225-31-27" neumeType="statim" xml:id="n-1109-2225-31-27">
                     <nc>
                       <episema/>
                     </nc>
