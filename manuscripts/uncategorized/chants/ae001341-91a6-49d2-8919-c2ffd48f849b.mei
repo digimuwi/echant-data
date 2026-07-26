@@ -6,6 +6,14 @@
         <title>opule meus quid feci ti</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">Uncategorized</idno>
+            <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
@@ -626,7 +634,7 @@
                 <lb facs="#zone-line-3" n="3"/>
                 <syllable facs="#zone-syl-1691-1104-1830-1223" xml:id="syl-1691-1104-1830-1223">
                   <syl wordpos="i">XI</syl>
-                  <neume facs="#zone-n-1762-1041-74-46" neumeType="oriscus" xml:id="n-1762-1041-74-46">
+                  <neume facs="#zone-n-1762-1041-74-46" neumeType="torculus shape-2" xml:id="n-1762-1041-74-46">
                     <nc/>
                   </neume>
                 </syllable>
