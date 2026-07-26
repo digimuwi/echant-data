@@ -262,7 +262,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2087-1131-2163-1209" xml:id="syl-2087-1131-2163-1209">
                   <syl con="s" wordpos="t">is</syl>
-                  <neume facs="#zone-n-2180-1120-68-42" neumeType="torculus" xml:id="n-2180-1120-68-42">
+                  <neume facs="#zone-n-2180-1120-68-42" neumeType="torculus shape-2" xml:id="n-2180-1120-68-42">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
