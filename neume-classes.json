@@ -643,6 +643,13 @@
       "display_name": "Quilismapes liquescent",
       "id": 91,
       "key": "quilismapesliquescent"
+    },
+    {
+      "active": true,
+      "description": "",
+      "display_name": "Quilisma virga strata",
+      "id": 92,
+      "key": "quilismavirgastrata"
     }
   ]
 }
