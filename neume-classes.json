@@ -615,6 +615,13 @@
       "display_name": "Torculus subpunctis",
       "id": 87,
       "key": "torculus subpunctis"
+    },
+    {
+      "active": true,
+      "description": "Clivis with episema at the end",
+      "display_name": "Clivis episema 2",
+      "id": 88,
+      "key": "clivis episema 2"
     }
   ]
 }
