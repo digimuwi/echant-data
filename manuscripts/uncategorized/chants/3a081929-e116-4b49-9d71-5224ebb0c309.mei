@@ -1656,7 +1656,7 @@
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-1583-3079-66-42" neumeType="torculus" xml:id="n-1583-3079-66-42">
+                  <neume facs="#zone-n-1583-3079-66-42" neumeType="torculus cum episema" xml:id="n-1583-3079-66-42">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
