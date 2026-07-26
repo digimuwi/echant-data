@@ -1103,7 +1103,7 @@
                     <nc/>
                     <signifLet facs="#zone-sl-1615-2007-33-27-1" place="above" xml:id="sl-1615-2007-33-27-1">s</signifLet>
                   </neume>
-                  <neume facs="#zone-n-1660-1952-60-59" neumeType="quilisma" xml:id="n-1660-1952-60-59">
+                  <neume facs="#zone-n-1660-1952-60-59" neumeType="quilismapesliquescent" xml:id="n-1660-1952-60-59">
                     <nc>
                       <quilisma/>
                     </nc>
