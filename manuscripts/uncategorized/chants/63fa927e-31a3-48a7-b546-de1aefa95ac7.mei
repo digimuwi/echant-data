@@ -1540,7 +1540,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2497-3588-2650-3721" xml:id="syl-2497-3588-2650-3721">
                   <syl wordpos="i">om</syl>
-                  <neume facs="#zone-n-2534-3543-66-54" neumeType="torculus" xml:id="n-2534-3543-66-54">
+                  <neume facs="#zone-n-2534-3543-66-54" neumeType="torculus shape-2" xml:id="n-2534-3543-66-54">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
