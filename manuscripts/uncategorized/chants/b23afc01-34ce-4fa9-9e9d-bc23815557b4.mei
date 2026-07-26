@@ -1993,7 +1993,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1637-3562-1745-3657" xml:id="syl-1637-3562-1745-3657">
                   <syl wordpos="m">mi</syl>
-                  <neume facs="#zone-n-1705-3518-50-34" neumeType="torculus" xml:id="n-1705-3518-50-34">
+                  <neume facs="#zone-n-1705-3518-50-34" neumeType="porrectus" xml:id="n-1705-3518-50-34">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
