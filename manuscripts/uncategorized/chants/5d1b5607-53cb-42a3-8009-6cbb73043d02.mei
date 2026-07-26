@@ -838,7 +838,7 @@
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1812-2631-1977-2696" xml:id="syl-1812-2631-1977-2696">
-                  <syl wordpos="s">eius.</syl>
+                  <syl con="s" wordpos="s">us.</syl>
                   <neume facs="#zone-n-1857-2575-82-34" neumeType="clivis" xml:id="n-1857-2575-82-34">
                     <nc/>
                     <nc intm="d"/>
