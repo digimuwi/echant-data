@@ -187,7 +187,6 @@
           <zone lrx="2883" lry="2442" points="2843,2393 2883,2393 2883,2442 2843,2442" ulx="2843" uly="2393" xml:id="zone-n-2843-2393-40-49"/>
           <zone lrx="2935" lry="2440" points="2904,2392 2935,2392 2935,2440 2904,2440" ulx="2904" uly="2392" xml:id="zone-n-2904-2392-31-48"/>
           <zone lrx="1725" lry="2623" points="1676,2581 1725,2581 1725,2623 1676,2623" ulx="1676" uly="2581" xml:id="zone-n-1676-2581-49-42"/>
-          <zone lrx="1939" lry="2609" points="1857,2575 1939,2575 1939,2609 1857,2609" ulx="1857" uly="2575" xml:id="zone-n-1857-2575-82-34"/>
           <zone lrx="2017" lry="2610" points="1981,2573 2017,2573 2017,2610 1981,2610" ulx="1981" uly="2573" xml:id="zone-n-1981-2573-36-37"/>
           <zone lrx="2072" lry="2612" points="2025,2561 2072,2561 2072,2612 2025,2612" ulx="2025" uly="2561" xml:id="zone-n-2025-2561-47-51"/>
           <zone lrx="2129" lry="2604" points="2095,2567 2129,2567 2129,2604 2095,2604" ulx="2095" uly="2567" xml:id="zone-n-2095-2567-34-37"/>
@@ -839,10 +838,6 @@
                 </syllable>
                 <syllable facs="#zone-syl-1812-2631-1977-2696" xml:id="syl-1812-2631-1977-2696">
                   <syl con="s" wordpos="s">us.</syl>
-                  <neume facs="#zone-n-1857-2575-82-34" neumeType="clivis" xml:id="n-1857-2575-82-34">
-                    <nc/>
-                    <nc intm="d"/>
-                  </neume>
                   <neume facs="#zone-n-1981-2573-36-37" neumeType="clivis" xml:id="n-1981-2573-36-37">
                     <nc/>
                     <nc intm="d"/>
