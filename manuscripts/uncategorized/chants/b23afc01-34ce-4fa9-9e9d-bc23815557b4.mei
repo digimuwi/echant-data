@@ -1644,7 +1644,7 @@
                   <neume facs="#zone-n-2559-2802-21-9" neumeType="punctum" xml:id="n-2559-2802-21-9">
                     <nc/>
                   </neume>
-                  <neume facs="#zone-n-2588-2754-83-49" neumeType="quilisma" xml:id="n-2588-2754-83-49">
+                  <neume facs="#zone-n-2588-2754-83-49" neumeType="quilismavirgastrata" xml:id="n-2588-2754-83-49">
                     <nc>
                       <quilisma/>
                     </nc>
