@@ -380,7 +380,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1331-3265-1479-3342" xml:id="syl-1331-3265-1479-3342">
                   <syl con="s" wordpos="s">de</syl>
-                  <neume facs="#zone-n-1409-3190-34-41" neumeType="clivis episema" xml:id="n-1409-3190-34-41">
+                  <neume facs="#zone-n-1409-3190-34-41" neumeType="clivis episema 2" xml:id="n-1409-3190-34-41">
                     <nc>
                       <episema/>
                     </nc>
