@@ -868,7 +868,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2529-1483-2617-1574" xml:id="syl-2529-1483-2617-1574">
                   <syl wordpos="m">da</syl>
-                  <neume facs="#zone-n-2573-1455-55-36" neumeType="torculus" xml:id="n-2573-1455-55-36">
+                  <neume facs="#zone-n-2573-1455-55-36" neumeType="torculus shape-2" xml:id="n-2573-1455-55-36">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
