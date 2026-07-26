@@ -205,7 +205,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1854-1441-1925-1546" xml:id="syl-1854-1441-1925-1546">
                   <syl con="s" wordpos="t">is</syl>
-                  <neume facs="#zone-n-1900-1382-56-40" neumeType="torculus" xml:id="n-1900-1382-56-40">
+                  <neume facs="#zone-n-1900-1382-56-40" neumeType="torculus cum episema" xml:id="n-1900-1382-56-40">
                     <nc>
                       <episema/>
                     </nc>
