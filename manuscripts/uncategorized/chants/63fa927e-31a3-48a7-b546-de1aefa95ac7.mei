@@ -6,6 +6,14 @@
         <title>pennas ventorum Etlaudabi</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">Uncategorized</idno>
+            <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
@@ -1311,7 +1319,7 @@
                     <nc intm="s"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2269-3079-61-44" neumeType="torculus" xml:id="n-2269-3079-61-44">
+                  <neume facs="#zone-n-2269-3079-61-44" neumeType="torculus cum episema" xml:id="n-2269-3079-61-44">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
