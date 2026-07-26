@@ -1299,7 +1299,7 @@
                     <nc intm="d"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-1947-2013-36-36" neumeType="clivis episema" xml:id="n-1947-2013-36-36">
+                  <neume facs="#zone-n-1947-2013-36-36" neumeType="clivis episema 2" xml:id="n-1947-2013-36-36">
                     <nc>
                       <episema/>
                     </nc>
