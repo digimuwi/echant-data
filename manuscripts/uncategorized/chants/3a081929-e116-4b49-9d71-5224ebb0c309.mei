@@ -787,7 +787,7 @@
                     <nc intm="d"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-1835-1065-53-46" neumeType="pes" xml:id="n-1835-1065-53-46">
+                  <neume facs="#zone-n-1835-1065-53-46" neumeType="pes-episematus" xml:id="n-1835-1065-53-46">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
