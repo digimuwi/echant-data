@@ -50,7 +50,6 @@
           <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-2"/>
           <zone lrx="1692" lry="1459" points="1643,1431 1692,1431 1692,1459 1643,1459" ulx="1643" uly="1431" xml:id="zone-n-1643-1431-49-28"/>
           <zone lrx="1737" lry="1448" points="1689,1398 1737,1398 1737,1448 1689,1448" ulx="1689" uly="1398" xml:id="zone-n-1689-1398-48-50"/>
-          <zone lrx="1806" lry="1473" points="1764,1418 1806,1418 1806,1473 1764,1473" ulx="1764" uly="1418" xml:id="zone-n-1764-1418-42-55"/>
           <zone lrx="1808" lry="1473" points="1790,1452 1808,1452 1808,1473 1790,1473" ulx="1790" uly="1452" xml:id="zone-n-1790-1452-18-21"/>
           <zone lrx="1849" lry="1446" points="1808,1425 1849,1425 1849,1446 1808,1446" ulx="1808" uly="1425" xml:id="zone-n-1808-1425-41-21"/>
           <zone lrx="1894" lry="1431" points="1857,1387 1894,1387 1894,1431 1857,1431" ulx="1857" uly="1387" xml:id="zone-n-1857-1387-37-44"/>
@@ -171,10 +170,6 @@
                 </syllable>
                 <syllable facs="#zone-syl-1742-1441-1839-1545" xml:id="syl-1742-1441-1839-1545">
                   <syl con="d" wordpos="i">tu</syl>
-                  <neume facs="#zone-n-1764-1418-42-55" neumeType="clivis" xml:id="n-1764-1418-42-55">
-                    <nc/>
-                    <nc intm="d"/>
-                  </neume>
                   <neume facs="#zone-n-1790-1452-18-21" neumeType="stropha" xml:id="n-1790-1452-18-21">
                     <nc/>
                   </neume>
