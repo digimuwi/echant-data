@@ -901,7 +901,7 @@
                   <neume facs="#zone-n-2819-2644-36-35" neumeType="virga" xml:id="n-2819-2644-36-35">
                     <nc/>
                   </neume>
-                  <neume facs="#zone-n-1895-2574-47-28" neumeType="pes quadratus" xml:id="n-1895-2574-47-28">
+                  <neume facs="#zone-n-1895-2574-47-28" neumeType="pes" xml:id="n-1895-2574-47-28">
                     <nc/>
                     <nc intm="u"/>
                   </neume>
@@ -1167,7 +1167,7 @@
                     <nc/>
                     <nc intm="u"/>
                   </neume>
-                  <neume facs="#zone-n-1999-3117-37-37" neumeType="clivis episema 2" xml:id="n-1999-3117-37-37">
+                  <neume facs="#zone-n-1999-3117-37-37" neumeType="clivis episema" xml:id="n-1999-3117-37-37">
                     <nc>
                       <episema/>
                     </nc>
@@ -1183,7 +1183,7 @@
                     <nc intm="d"/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2141-3119-36-44" neumeType="clivis episema 2" xml:id="n-2141-3119-36-44">
+                  <neume facs="#zone-n-2141-3119-36-44" neumeType="clivis episema" xml:id="n-2141-3119-36-44">
                     <nc>
                       <episema/>
                     </nc>
@@ -1392,7 +1392,7 @@
                       <oriscus/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2006-3466-45-36" neumeType="torculus cum episema" xml:id="n-2006-3466-45-36">
+                  <neume facs="#zone-n-2006-3466-45-36" neumeType="torculus" xml:id="n-2006-3466-45-36">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
