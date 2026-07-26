@@ -6,6 +6,14 @@
         <title>luna domino Omnum di</title>
       </titleStmt>
       <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <idno type="siglum">Uncategorized</idno>
+            <note type="description">Default bucket for contributions not yet assigned to a real manuscript.</note>
+          </bibl>
+        </source>
+      </sourceDesc>
     </fileDesc>
   </meiHead>
   <music>
@@ -925,7 +933,7 @@
                     <nc intm="d"/>
                     <signifLet facs="#zone-sl-726-1423-24-35-1" place="right" xml:id="sl-726-1423-24-35-1">l</signifLet>
                   </neume>
-                  <neume facs="#zone-n-810-1400-44-33" neumeType="clivis" xml:id="n-810-1400-44-33">
+                  <neume facs="#zone-n-810-1400-44-33" neumeType="clivis episema 2" xml:id="n-810-1400-44-33">
                     <nc/>
                     <nc intm="d"/>
                   </neume>
