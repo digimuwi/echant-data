@@ -1604,7 +1604,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2149-2816-2260-2908" xml:id="syl-2149-2816-2260-2908">
                   <syl wordpos="s">sae</syl>
-                  <neume facs="#zone-n-2220-2771-48-39" neumeType="torculus" xml:id="n-2220-2771-48-39">
+                  <neume facs="#zone-n-2220-2771-48-39" neumeType="torculus shape-2" xml:id="n-2220-2771-48-39">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
