@@ -127,7 +127,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1299-1441-1406-1578" xml:id="syl-1299-1441-1406-1578">
                   <syl con="d" wordpos="m">ti</syl>
-                  <neume facs="#zone-n-1345-1411-60-39" neumeType="torculus" xml:id="n-1345-1411-60-39">
+                  <neume facs="#zone-n-1345-1411-60-39" neumeType="torculus shape-2" xml:id="n-1345-1411-60-39">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
