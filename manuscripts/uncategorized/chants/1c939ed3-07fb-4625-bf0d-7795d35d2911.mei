@@ -197,7 +197,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-3413-3148-3530-3220" xml:id="syl-3413-3148-3530-3220">
                   <syl con="d" wordpos="m">mi</syl>
-                  <neume facs="#zone-n-3500-3076-46-53" neumeType="clivis episema" xml:id="n-3500-3076-46-53">
+                  <neume facs="#zone-n-3500-3076-46-53" neumeType="clivis episema 2" xml:id="n-3500-3076-46-53">
                     <nc>
                       <episema/>
                     </nc>
