@@ -84,7 +84,7 @@
                 <lb facs="#zone-line-1" n="1"/>
                 <syllable facs="#zone-syl-1820-996-2015-1093" xml:id="syl-1820-996-2015-1093">
                   <syl con="d" wordpos="i">Dif</syl>
-                  <neume facs="#zone-n-1949-986-23-21" neumeType="punctum" xml:id="n-1949-986-23-21">
+                  <neume facs="#zone-n-1949-986-23-21" neumeType="tractulus episema" xml:id="n-1949-986-23-21">
                     <nc/>
                   </neume>
                 </syllable>
