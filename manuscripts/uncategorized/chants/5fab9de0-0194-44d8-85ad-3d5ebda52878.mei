@@ -1647,7 +1647,7 @@
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2229-3278-17-22" neumeType="clivis" xml:id="n-2229-3278-17-22">
+                  <neume facs="#zone-n-2229-3278-17-22" neumeType="stropha" xml:id="n-2229-3278-17-22">
                     <nc/>
                     <nc intm="d"/>
                     <signifLet facs="#zone-sl-2229-3278-17-22-1" place="above" xml:id="sl-2229-3278-17-22-1">l</signifLet>
