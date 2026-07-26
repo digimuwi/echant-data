@@ -446,7 +446,7 @@
                     <nc intm="d"/>
                     <signifLet facs="#zone-sl-1883-3185-35-36-1" place="above" xml:id="sl-1883-3185-35-36-1">c</signifLet>
                   </neume>
-                  <neume facs="#zone-n-2088-3179-49-47" neumeType="bistropha" xml:id="n-2088-3179-49-47">
+                  <neume facs="#zone-n-2088-3179-49-47" neumeType="virga episema" xml:id="n-2088-3179-49-47">
                     <nc/>
                     <nc intm="s"/>
                   </neume>
