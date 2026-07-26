@@ -377,7 +377,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1564-1330-1648-1427" xml:id="syl-1564-1330-1648-1427">
                   <syl con="d" wordpos="i">de</syl>
-                  <neume facs="#zone-n-1634-1264-43-39" neumeType="clivis episema" xml:id="n-1634-1264-43-39">
+                  <neume facs="#zone-n-1634-1264-43-39" neumeType="clivis episema 2" xml:id="n-1634-1264-43-39">
                     <nc>
                       <episema/>
                     </nc>
