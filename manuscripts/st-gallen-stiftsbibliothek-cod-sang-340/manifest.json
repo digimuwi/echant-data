@@ -8,8 +8,8 @@
       "status": "draft"
     }
   ],
-  "shelfmark": null,
-  "siglum": "St. Gallen, Stiftsbibliothek, Cod. Sang. 340",
+  "shelfmark": "Cod. Sang. 340",
+  "siglum": "CH-SGs",
   "slug": "st-gallen-stiftsbibliothek-cod-sang-340",
   "source_url": "https://www.e-codices.ch/metadata/iiif/csg-0340/manifest.json"
 }
