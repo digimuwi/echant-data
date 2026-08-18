@@ -10,8 +10,8 @@
         <source>
           <bibl>
             <title>Diffusa est</title>
-            <idno type="siglum">St. Gallen, Stiftsbibliothek, Cod. Sang. 374</idno>
-            <idno type="shelfmark">CH-SGs 374</idno>
+            <idno type="siglum">CH-SGs</idno>
+            <idno type="shelfmark">Cod. Sang. 374</idno>
             <ptr target="https://www.e-codices.ch/metadata/iiif/csg-0374/manifest.json"/>
             <idno type="cantus-id">002216</idno>
             <note type="genre">Antiphone</note>
@@ -78,7 +78,7 @@
                 <lb facs="#zone-line-1" n="1"/>
                 <syllable facs="#zone-syl-656-1441-864-1555" xml:id="syl-656-1441-864-1555">
                   <syl con="d" wordpos="i">Dif</syl>
-                  <neume facs="#zone-n-811-1436-28-18" neumeType="tractulus episema" xml:id="n-811-1436-28-18">
+                  <neume facs="#zone-n-811-1436-28-18" neumeType="tractulus" xml:id="n-811-1436-28-18">
                     <nc>
                       <episema/>
                     </nc>
@@ -86,7 +86,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-863-1441-943-1534" xml:id="syl-863-1441-943-1534">
                   <syl con="d" wordpos="m">fu</syl>
-                  <neume facs="#zone-n-921-1410-55-42" neumeType="bivirga episamata" xml:id="n-921-1410-55-42">
+                  <neume facs="#zone-n-921-1410-55-42" neumeType="bivirga" xml:id="n-921-1410-55-42">
                     <nc/>
                     <nc intm="s"/>
                   </neume>
@@ -108,13 +108,17 @@
                     <nc intm="d"/>
                   </neume>
                   <neume facs="#zone-n-1168-1410-51-33" neumeType="bistropha" xml:id="n-1168-1410-51-33">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1180-1441-1299-1578" xml:id="syl-1180-1441-1299-1578">
                   <syl con="d" wordpos="i">gra</syl>
-                  <neume facs="#zone-n-1263-1415-41-46" neumeType="virga episema" xml:id="n-1263-1415-41-46">
+                  <neume facs="#zone-n-1263-1415-41-46" neumeType="virga" xml:id="n-1263-1415-41-46">
                     <nc>
                       <episema/>
                     </nc>
@@ -127,7 +131,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1299-1441-1406-1578" xml:id="syl-1299-1441-1406-1578">
                   <syl con="d" wordpos="m">ti</syl>
-                  <neume facs="#zone-n-1345-1411-60-39" neumeType="torculus shape-2" xml:id="n-1345-1411-60-39">
+                  <neume facs="#zone-n-1345-1411-60-39" neumeType="torculus shape 2" xml:id="n-1345-1411-60-39">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -157,8 +161,12 @@
                 <syllable facs="#zone-syl-1585-1441-1719-1548" xml:id="syl-1585-1441-1719-1548">
                   <syl con="d" wordpos="m">bi</syl>
                   <neume facs="#zone-n-1643-1431-49-28" neumeType="bistropha" xml:id="n-1643-1431-49-28">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-syl0-10" xml:id="syl-syl0-10">
@@ -176,17 +184,23 @@
                     <nc intm="d"/>
                   </neume>
                   <neume facs="#zone-n-1790-1452-18-21" neumeType="stropha" xml:id="n-1790-1452-18-21">
-                    <nc/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1808-1425-41-21" neumeType="bistropha" xml:id="n-1808-1425-41-21">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1857-1387-37-44" neumeType="clivis" xml:id="n-1857-1387-37-44">
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-1871-1441-60-38" neumeType="torculus cum episema" xml:id="n-1871-1441-60-38">
+                  <neume facs="#zone-n-1871-1441-60-38" neumeType="torculus" xml:id="n-1871-1441-60-38">
                     <nc>
                       <episema/>
                     </nc>
@@ -205,7 +219,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1854-1441-1925-1546" xml:id="syl-1854-1441-1925-1546">
                   <syl con="s" wordpos="t">is</syl>
-                  <neume facs="#zone-n-1900-1382-56-40" neumeType="torculus cum episema" xml:id="n-1900-1382-56-40">
+                  <neume facs="#zone-n-1900-1382-56-40" neumeType="torculus" xml:id="n-1900-1382-56-40">
                     <nc>
                       <episema/>
                     </nc>
@@ -222,7 +236,7 @@
                     </nc>
                     <nc intm="u"/>
                   </neume>
-                  <neume facs="#zone-n-2008-1393-69-46" neumeType="climacus episema" xml:id="n-2008-1393-69-46">
+                  <neume facs="#zone-n-2008-1393-69-46" neumeType="climacus" xml:id="n-2008-1393-69-46">
                     <nc>
                       <episema/>
                     </nc>
@@ -233,7 +247,7 @@
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-2107-1374-26-39" neumeType="clivis episema" xml:id="n-2107-1374-26-39">
+                  <neume facs="#zone-n-2107-1374-26-39" neumeType="clivis" xml:id="n-2107-1374-26-39">
                     <nc>
                       <episema/>
                     </nc>
