@@ -151,8 +151,12 @@
                     <nc intm="d"/>
                   </neume>
                   <neume facs="#zone-n-1374-1055-32-25" neumeType="bistropha" xml:id="n-1374-1055-32-25">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1407-1116-1544-1241" xml:id="syl-1407-1116-1544-1241">
@@ -162,7 +166,7 @@
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-1556-1045-45-32" neumeType="torculus cum episema" xml:id="n-1556-1045-45-32">
+                  <neume facs="#zone-n-1556-1045-45-32" neumeType="torculus" xml:id="n-1556-1045-45-32">
                     <nc>
                       <episema/>
                     </nc>
@@ -176,7 +180,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1544-1116-1668-1241" xml:id="syl-1544-1116-1668-1241">
                   <syl con="d" wordpos="m">ti</syl>
-                  <neume facs="#zone-n-1584-1088-55-31" neumeType="torculus shape-2" xml:id="n-1584-1088-55-31">
+                  <neume facs="#zone-n-1584-1088-55-31" neumeType="torculus shape 2" xml:id="n-1584-1088-55-31">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -196,7 +200,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1776-1116-1856-1241" xml:id="syl-1776-1116-1856-1241">
                   <syl con="d" wordpos="m">la</syl>
-                  <neume facs="#zone-n-1822-1041-79-72" neumeType="clivis episema praebipunctis" xml:id="n-1822-1041-79-72">
+                  <neume facs="#zone-n-1822-1041-79-72" neumeType="clivis praebipunctis" xml:id="n-1822-1041-79-72">
                     <nc>
                       <episema/>
                     </nc>
@@ -214,8 +218,12 @@
                 <syllable facs="#zone-syl-1856-1110-1925-1208" xml:id="syl-1856-1110-1925-1208">
                   <syl con="d" wordpos="m">bi</syl>
                   <neume facs="#zone-n-1916-1078-31-22" neumeType="bistropha" xml:id="n-1916-1078-31-22">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1928-1124-1993-1214" xml:id="syl-1928-1124-1993-1214">
@@ -233,17 +241,23 @@
                     <nc intm="d"/>
                   </neume>
                   <neume facs="#zone-n-2132-1085-23-24" neumeType="stropha" xml:id="n-2132-1085-23-24">
-                    <nc/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-2175-1050-32-24" neumeType="bistropha" xml:id="n-2175-1050-32-24">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-2231-1025-41-40" neumeType="clivis" xml:id="n-2231-1025-41-40">
                     <nc/>
                     <nc intm="d"/>
                   </neume>
-                  <neume facs="#zone-n-2297-1017-56-29" neumeType="torculus cum episema" xml:id="n-2297-1017-56-29">
+                  <neume facs="#zone-n-2297-1017-56-29" neumeType="torculus" xml:id="n-2297-1017-56-29">
                     <nc>
                       <episema/>
                     </nc>
@@ -262,7 +276,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-2087-1131-2163-1209" xml:id="syl-2087-1131-2163-1209">
                   <syl con="s" wordpos="t">is</syl>
-                  <neume facs="#zone-n-2180-1120-68-42" neumeType="torculus shape-2" xml:id="n-2180-1120-68-42">
+                  <neume facs="#zone-n-2180-1120-68-42" neumeType="torculus shape 2" xml:id="n-2180-1120-68-42">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -273,7 +287,7 @@
                     </nc>
                     <nc intm="u"/>
                   </neume>
-                  <neume facs="#zone-n-2331-1090-43-64" neumeType="climacus episema" xml:id="n-2331-1090-43-64">
+                  <neume facs="#zone-n-2331-1090-43-64" neumeType="climacus" xml:id="n-2331-1090-43-64">
                     <nc>
                       <episema/>
                     </nc>
@@ -292,9 +306,15 @@
                 <syllable facs="#zone-syl-2429-1116-2624-1241" xml:id="syl-2429-1116-2624-1241">
                   <syl con="d" wordpos="i">prop</syl>
                   <neume facs="#zone-n-2570-1053-35-24" neumeType="bistropha" xml:id="n-2570-1053-35-24">
-                    <nc/>
-                    <nc intm="u"/>
-                    <nc intm="d"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="u">
+                      <strophicus/>
+                    </nc>
+                    <nc intm="d">
+                      <strophicus/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2624-1116-2762-1241" xml:id="syl-2624-1116-2762-1241">
@@ -377,7 +397,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-1564-1330-1648-1427" xml:id="syl-1564-1330-1648-1427">
                   <syl con="d" wordpos="i">de</syl>
-                  <neume facs="#zone-n-1634-1264-43-39" neumeType="clivis episema 2" xml:id="n-1634-1264-43-39">
+                  <neume facs="#zone-n-1634-1264-43-39" neumeType="clivis 2" xml:id="n-1634-1264-43-39">
                     <nc>
                       <episema/>
                     </nc>
@@ -408,9 +428,13 @@
                   <neume facs="#zone-n-1902-1285-42-32" neumeType="virga" xml:id="n-1902-1285-42-32">
                     <nc/>
                   </neume>
-                  <neume facs="#zone-n-1961-1262-48-32" neumeType="torculus cum episema" xml:id="n-1961-1262-48-32">
-                    <nc/>
-                    <nc intm="u"/>
+                  <neume facs="#zone-n-1961-1262-48-32" neumeType="torculus" xml:id="n-1961-1262-48-32">
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="u">
+                      <episema/>
+                    </nc>
                     <nc intm="d">
                       <episema/>
                     </nc>
@@ -456,12 +480,20 @@
                     <nc intm="d"/>
                   </neume>
                   <neume facs="#zone-n-2389-1301-19-24" neumeType="strophicus" xml:id="n-2389-1301-19-24">
-                    <nc/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
                   </neume>
-                  <neume facs="#zone-n-2456-1279-48-32" neumeType="torculus cum episema" xml:id="n-2456-1279-48-32">
-                    <nc/>
-                    <nc intm="u"/>
-                    <nc intm="d"/>
+                  <neume facs="#zone-n-2456-1279-48-32" neumeType="torculus" xml:id="n-2456-1279-48-32">
+                    <nc>
+                      <episema/>
+                    </nc>
+                    <nc intm="u">
+                      <episema/>
+                    </nc>
+                    <nc intm="d">
+                      <episema/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-2517-1258-51-49" neumeType="virga" xml:id="n-2517-1258-51-49">
                     <nc/>
