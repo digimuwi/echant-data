@@ -21,12 +21,38 @@
     },
     {
       "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:rhythmic-structural"
+      },
+      "id": "echant:phenomenon:anfangsartikulation",
+      "skos:definition": "Articulating or anticipating the first note of a figure, shifting weight onto the onset.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Anfangsartikulation",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
       "id": "echant:phenomenon:contraction",
       "skos:definition": "Two separate neumes are merged into one. A climacus and a virga can be contracted as a porrectus e.g.",
       "skos:inScheme": {
         "id": "echant:phenomena"
       },
       "skos:prefLabel": "Contraction",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:vocal-technical"
+      },
+      "id": "echant:phenomenon:de-episemation",
+      "skos:definition": "Dropping an episema that another reading carries.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "De-episemation",
       "type": "skos:Concept"
     },
     {
@@ -41,8 +67,24 @@
     },
     {
       "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:text-related"
+      },
+      "id": "echant:phenomenon:endartikulation",
+      "skos:definition": "Articulating the final note or element of a neume or figure.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Endartikulation",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:vocal-technical"
+      },
       "id": "echant:phenomenon:episemation",
-      "skos:definition": "An episema (rhythmic lengthening mark) is present in the target that the source lacks.",
+      "skos:definition": "Adding an episema — the weighting/breadth mark — where another reading has none.",
       "skos:inScheme": {
         "id": "echant:phenomena"
       },
@@ -51,12 +93,107 @@
     },
     {
       "echant:active": true,
-      "id": "echant:phenomenon:scribal-error",
-      "skos:definition": "Accidental rather than intended change",
+      "echant:functionCategory": {
+        "id": "echant:function-category:rhythmic-structural"
+      },
+      "id": "echant:phenomenon:grouping-variant",
+      "skos:definition": "Regrouping the same notes into different neumes (e.g. torculus vs. clivis + punctum).",
       "skos:inScheme": {
         "id": "echant:phenomena"
       },
-      "skos:prefLabel": "Error",
+      "skos:prefLabel": "Umgruppierung",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:rhythmic-structural"
+      },
+      "id": "echant:phenomenon:kurrentierung",
+      "skos:definition": "Rendering a figure currens — light and flowing — where another reading articulates it.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Kurrentierung",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:vocal-technical"
+      },
+      "id": "echant:phenomenon:liquescence-shift",
+      "skos:definition": "Adding, dropping or changing a liquescent treatment at a consonant juncture.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Liqueszierung",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:melodic-variant",
+      "skos:definition": "Varying the pitch or contour of the melody between readings.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Melodievariation",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:notational-only",
+      "skos:definition": "Writing the same music differently, with no musical significance.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Umnotation",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:aesthetic-expressive"
+      },
+      "id": "echant:phenomenon:ornamental-variant",
+      "skos:definition": "Adding, dropping or changing an ornamental note (quilisma, oriscus, strophicus, …).",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Ornamentierung",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:regional-variant",
+      "skos:definition": "Following a regional or dialectal notational practice.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Regionalvariante",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "id": "echant:phenomenon:scribal-error",
+      "skos:definition": "Mis-writing judged an error in one witness.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Verschreibung",
+      "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:rhythmic-structural"
+      },
+      "id": "echant:phenomenon:significative-letter",
+      "skos:definition": "Adding or changing a littera significativa (celeriter, tenete, …).",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Litterierung",
       "type": "skos:Concept"
     },
     {
@@ -68,6 +205,19 @@
       },
       "skos:prefLabel": "Simplification",
       "type": "skos:Concept"
+    },
+    {
+      "echant:active": true,
+      "echant:functionCategory": {
+        "id": "echant:function-category:rhythmic-structural"
+      },
+      "id": "echant:phenomenon:tiefpunktartikulation",
+      "skos:definition": "Articulating the low or terminal note of a descending / composite neume — weighting it rather than leaving it currens.",
+      "skos:inScheme": {
+        "id": "echant:phenomena"
+      },
+      "skos:prefLabel": "Tiefpunktartikulation",
+      "type": "skos:Concept"
     }
   ],
   "id": "echant:phenomena",
@@ -76,19 +226,55 @@
       "id": "echant:phenomenon:acceleration"
     },
     {
+      "id": "echant:phenomenon:anfangsartikulation"
+    },
+    {
       "id": "echant:phenomenon:contraction"
+    },
+    {
+      "id": "echant:phenomenon:de-episemation"
     },
     {
       "id": "echant:phenomenon:diastematization"
     },
     {
+      "id": "echant:phenomenon:endartikulation"
+    },
+    {
       "id": "echant:phenomenon:episemation"
+    },
+    {
+      "id": "echant:phenomenon:grouping-variant"
+    },
+    {
+      "id": "echant:phenomenon:kurrentierung"
+    },
+    {
+      "id": "echant:phenomenon:liquescence-shift"
+    },
+    {
+      "id": "echant:phenomenon:melodic-variant"
+    },
+    {
+      "id": "echant:phenomenon:notational-only"
+    },
+    {
+      "id": "echant:phenomenon:ornamental-variant"
+    },
+    {
+      "id": "echant:phenomenon:regional-variant"
     },
     {
       "id": "echant:phenomenon:scribal-error"
     },
     {
+      "id": "echant:phenomenon:significative-letter"
+    },
+    {
       "id": "echant:phenomenon:simplification"
+    },
+    {
+      "id": "echant:phenomenon:tiefpunktartikulation"
     }
   ],
   "skos:prefLabel": "eChant difference phenomena",
