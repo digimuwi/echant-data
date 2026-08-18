@@ -10,8 +10,8 @@
         <source>
           <bibl>
             <title>Diffusa est</title>
-            <idno type="siglum">St. Gallen, Stiftsbibliothek</idno>
-            <idno type="shelfmark">339</idno>
+            <idno type="siglum">CH-SGs</idno>
+            <idno type="shelfmark">Cod. Sang. 339</idno>
             <ptr target="https://www.e-codices.ch/metadata/iiif/csg-0339/manifest.json"/>
             <idno type="cantus-id">002216</idno>
           </bibl>
@@ -91,7 +91,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-494-1579-565-1680" xml:id="syl-494-1579-565-1680">
                   <syl con="d" wordpos="m">fu</syl>
-                  <neume facs="#zone-n-547-1561-46-38" neumeType="bivirga episamata" xml:id="n-547-1561-46-38">
+                  <neume facs="#zone-n-547-1561-46-38" neumeType="bivirga" xml:id="n-547-1561-46-38">
                     <nc/>
                     <nc intm="s"/>
                   </neume>
@@ -115,8 +115,12 @@
                     <nc intm="d"/>
                   </neume>
                   <neume facs="#zone-n-0-0-0-0" neumeType="bistropha" xml:id="n-0-0-0-0">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-783-1579-901-1713" xml:id="syl-783-1579-901-1713">
@@ -132,7 +136,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-901-1579-996-1713" xml:id="syl-901-1579-996-1713">
                   <syl con="d" wordpos="m">ti</syl>
-                  <neume facs="#zone-n-921-1589-39-29" neumeType="torculus shape-2" xml:id="n-921-1589-39-29">
+                  <neume facs="#zone-n-921-1589-39-29" neumeType="torculus shape 2" xml:id="n-921-1589-39-29">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -162,8 +166,12 @@
                 <syllable facs="#zone-syl-1151-1579-1293-1694" xml:id="syl-1151-1579-1293-1694">
                   <syl con="d" wordpos="m">bi</syl>
                   <neume facs="#zone-n-1156-1558-30-28" neumeType="bistropha" xml:id="n-1156-1558-30-28">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-syl0-10" xml:id="syl-syl0-10">
@@ -181,11 +189,17 @@
                     <nc intm="d"/>
                   </neume>
                   <neume facs="#zone-n-1378-1606-12-14" neumeType="stropha" xml:id="n-1378-1606-12-14">
-                    <nc/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1406-1582-33-17" neumeType="bistropha" xml:id="n-1406-1582-33-17">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                   <neume facs="#zone-n-1456-1567-31-28" neumeType="clivis" xml:id="n-1456-1567-31-28">
                     <nc/>
@@ -204,7 +218,7 @@
                 </syllable>
                 <syllable facs="#zone-syl-syl0-12" xml:id="syl-syl0-12">
                   <syl con="s" wordpos="t">is</syl>
-                  <neume facs="#zone-n-1589-1600-45-27" neumeType="torculus shape-2" xml:id="n-1589-1600-45-27">
+                  <neume facs="#zone-n-1589-1600-45-27" neumeType="torculus shape 2" xml:id="n-1589-1600-45-27">
                     <nc/>
                     <nc intm="u"/>
                     <nc intm="d"/>
@@ -215,7 +229,7 @@
                     </nc>
                     <nc intm="u"/>
                   </neume>
-                  <neume facs="#zone-n-1729-1551-49-50" neumeType="climacus episema" xml:id="n-1729-1551-49-50">
+                  <neume facs="#zone-n-1729-1551-49-50" neumeType="climacus" xml:id="n-1729-1551-49-50">
                     <nc>
                       <episema/>
                     </nc>
@@ -226,7 +240,7 @@
                       <episema/>
                     </nc>
                   </neume>
-                  <neume facs="#zone-n-1785-1566-36-29" neumeType="clivis episema" xml:id="n-1785-1566-36-29">
+                  <neume facs="#zone-n-1785-1566-36-29" neumeType="clivis" xml:id="n-1785-1566-36-29">
                     <nc>
                       <episema/>
                     </nc>
@@ -244,8 +258,12 @@
                     </nc>
                   </neume>
                   <neume facs="#zone-n-1795-1606-32-21" neumeType="bistropha" xml:id="n-1795-1606-32-21">
-                    <nc/>
-                    <nc intm="s"/>
+                    <nc>
+                      <strophicus/>
+                    </nc>
+                    <nc intm="s">
+                      <strophicus/>
+                    </nc>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1815-1671-1932-1743" xml:id="syl-1815-1671-1932-1743">
