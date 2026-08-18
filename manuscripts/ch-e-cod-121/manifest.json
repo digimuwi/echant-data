@@ -1,0 +1,21 @@
+{
+  "metadata": {},
+  "pages": [
+    {
+      "folio_label": "35",
+      "image": "35.jpg",
+      "image_source_url": "https://www.e-codices.ch/loris/sbe/sbe-0121/sbe-0121_035.jp2/full/full/0/default/jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "36",
+      "image": "36.jpg",
+      "image_source_url": "https://www.e-codices.ch/loris/sbe/sbe-0121/sbe-0121_036.jp2/full/full/0/default/jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Cod. 121",
+  "siglum": "CH-E",
+  "slug": "ch-e-cod-121",
+  "source_url": "https://www.e-codices.unifr.ch/de/sbe/0121"
+}
