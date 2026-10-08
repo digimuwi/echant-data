@@ -292,7 +292,7 @@
                     <signifLet facs="#zone-sl-0-0-0-0-2" place="above-left" xml:id="sl-0-0-0-0-2">i</signifLet>
                   </neume>
                 </syllable>
-                <syllable facs="#zone-syl-syl0-1" xml:id="syl-syl0-1">
+                <syllable xml:id="syl-syl0-1">
                   <syl con="d" wordpos="m">le</syl>
                   <neume facs="#zone-n-0-0-0-0-2" neumeType="pes" xml:id="n-0-0-0-0-2">
                     <nc curve="a" intm="u" tilt="s"/>
@@ -730,7 +730,7 @@
                     <signifLet facs="#zone-sl-0-0-0-0-56-1" place="left" xml:id="sl-0-0-0-0-56-1">i</signifLet>
                   </neume>
                 </syllable>
-                <syllable facs="#zone-syl-syl3-4" xml:id="syl-syl3-4">
+                <syllable xml:id="syl-syl3-4">
                   <syl con="d" wordpos="m">ran</syl>
                   <neume facs="#zone-n-0-0-0-0-57" neumeType="pes" xml:id="n-0-0-0-0-57">
                     <nc curve="a" intm="u" rellen="s" tilt="se"/>
@@ -882,7 +882,7 @@
                     <nc intm="u" tilt="ne"/>
                   </neume>
                 </syllable>
-                <syllable facs="#zone-syl-syl4-7" xml:id="syl-syl4-7">
+                <syllable xml:id="syl-syl4-7">
                   <syl con="s" wordpos="t">pe</syl>
                   <neume facs="#zone-n-0-0-0-0-77" neumeType="clivis" xml:id="n-0-0-0-0-77">
                     <nc curve="c" tilt="ne"/>
