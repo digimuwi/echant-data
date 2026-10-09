@@ -78,7 +78,7 @@
                   </neume>
                   <neume facs="#zone-n-0-0-0-0-5" neumeType="porrectus" xml:id="n-0-0-0-0-5">
                     <nc curve="c" tilt="ne"/>
-                    <nc curve="c" intm="d" tilt="s"/>
+                    <nc intm="d" tilt="s"/>
                     <nc intm="u" tilt="ne"/>
                   </neume>
                   <neume facs="#zone-n-0-0-0-0-6" neumeType="tristropha" xml:id="n-0-0-0-0-6">
