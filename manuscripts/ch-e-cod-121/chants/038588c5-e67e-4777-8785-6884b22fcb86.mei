@@ -79,7 +79,7 @@
                   <neume facs="#zone-n-0-0-0-0-5" neumeType="porrectus" xml:id="n-0-0-0-0-5">
                     <nc curve="c" tilt="ne"/>
                     <nc curve="c" intm="d" tilt="s"/>
-                    <nc curve="a" intm="u" tilt="ne"/>
+                    <nc intm="u" tilt="ne"/>
                   </neume>
                   <neume facs="#zone-n-0-0-0-0-6" neumeType="tristropha" xml:id="n-0-0-0-0-6">
                     <nc>
@@ -96,7 +96,7 @@
                   <neume facs="#zone-n-0-0-0-0-7" neumeType="torculus" xml:id="n-0-0-0-0-7">
                     <nc curve="a" rellen="s" tilt="se"/>
                     <nc curve="c" intm="u" tilt="ne"/>
-                    <nc curve="c" intm="d" tilt="s"/>
+                    <nc intm="d" tilt="s"/>
                   </neume>
                 </syllable>
                 <syllable xml:id="syl-syl0-3">
