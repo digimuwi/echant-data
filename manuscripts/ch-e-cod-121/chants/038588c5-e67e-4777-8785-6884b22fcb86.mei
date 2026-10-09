@@ -28,6 +28,13 @@
           <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-5"/>
           <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-6"/>
           <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-7"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-8"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-9"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-10"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-11"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-12"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-13"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-14"/>
         </graphic>
       </surface>
     </facsimile>
@@ -101,18 +108,45 @@
                 </syllable>
                 <syllable xml:id="syl-syl0-3">
                   <syl con="d" wordpos="m">ci</syl>
+                  <neume facs="#zone-n-0-0-0-0-8" neumeType="pes" xml:id="n-0-0-0-0-8">
+                    <nc curve="a" tilt="s"/>
+                    <nc curve="c" intm="u" tilt="ne"/>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0-9" neumeType="punctum" xml:id="n-0-0-0-0-9">
+                    <nc tilt="ne"/>
+                  </neume>
                 </syllable>
                 <syllable xml:id="syl-syl0-4">
                   <syl con="s" wordpos="t">it</syl>
+                  <neume facs="#zone-n-0-0-0-0-10" neumeType="punctum" xml:id="n-0-0-0-0-10">
+                    <nc tilt="e"/>
+                  </neume>
                 </syllable>
                 <syllable xml:id="syl-syl0-5">
                   <syl con="d" wordpos="i">et</syl>
+                  <neume facs="#zone-n-0-0-0-0-11" neumeType="porrectusflexus" xml:id="n-0-0-0-0-11">
+                    <nc curve="c" tilt="ne"/>
+                    <nc curve="a" intm="d" tilt="se"/>
+                    <nc curve="c" intm="u" tilt="ne"/>
+                    <nc curve="a" intm="d" tilt="se"/>
+                  </neume>
                 </syllable>
                 <syllable xml:id="syl-syl0-6">
                   <syl con="d" wordpos="m">tri</syl>
+                  <neume facs="#zone-n-0-0-0-0-12" neumeType="punctum" xml:id="n-0-0-0-0-12">
+                    <nc tilt="ne"/>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0-13" neumeType="punctum" xml:id="n-0-0-0-0-13">
+                    <nc tilt="ne"/>
+                  </neume>
                 </syllable>
                 <syllable xml:id="syl-syl0-7">
                   <syl con="d" wordpos="m">bu</syl>
+                  <neume facs="#zone-n-0-0-0-0-14" neumeType="tristropha" xml:id="n-0-0-0-0-14">
+                    <nc tilt="ne"/>
+                    <nc con="g" intm="s" tilt="ne"/>
+                    <nc intm="s" s-shape="n"/>
+                  </neume>
                 </syllable>
                 <syllable xml:id="syl-syl0-8">
                   <syl con="s" wordpos="t">it.</syl>
