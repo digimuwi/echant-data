@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "description": "Gradual of Saint-Yrieix, 1050–1100 (BnF catalogue); Aquitanian notation. The gradual for the Octave of Christmas, f. 14v.",
+    "transcription": "Corpus Monodicum (Akademie der Wissenschaften und der Literatur Mainz / Universität Würzburg), document Pa 903-0194-3GS, https://stagedata.corpus-monodicum.de/mei/03784532-09f4-4db2-96ec-6b3c8d8801a0/Pa%20903-0194-3GS.xml, which transcribes the Graduale Synopticum (Universität Regensburg; database by Xaver Kainzbauer), no. 0194; © Corpus Monodicum. Pitches read an octave lower than there."
+  },
+  "pages": [
+    {
+      "folio_label": "14v",
+      "image": "14v.jpg",
+      "image_source_url": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b10506538t/f46/full/max/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "lat. 903",
+  "siglum": "F-Pn",
+  "slug": "f-pn-lat-903",
+  "source_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc62463p"
+}
