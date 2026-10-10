@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "description": "Gradual, 12th century, olim Klosterneuburg/Passau (after the source list of the Graduale Synopticum); on ff. 23r–23v neumes on a staff with letter clefs.",
+    "description": "Graduale cum neumis, Klosterneuburg (?), 12th century (UB Graz catalogue, after Zotter, Scripta manent); on ff. 23r–23v neumes on a staff with letter clefs. Images: UB Graz, CC BY-NC-SA 3.0 AT.",
     "transcription": "Merged from two transcriptions (graz-807-merged.mei, merge_graz_807.py): pitches from Corpus Monodicum (Akademie der Wissenschaften und der Literatur Mainz / Universität Würzburg), document Gr 807-0194-4GS, https://stagedata.corpus-monodicum.de/mei/77f4b16b-85b8-457e-aa92-0ef1958cfccf/Gr%20807-0194-4GS.xml, which transcribes the Graduale Synopticum (Universität Regensburg; database by Xaver Kainzbauer), no. 0194; © Corpus Monodicum; read an octave lower. Neume division and names of Diffusa est gratia in and tu- after Stefan Morent's MEI (15 May 2026), where his notes agree in number and contour."
   },
   "pages": [
@@ -20,5 +20,5 @@
   "shelfmark": "Ms. 807",
   "siglum": "A-Gu",
   "slug": "a-gu-ms-807",
-  "source_url": "https://unipub.uni-graz.at/obvugrscript/content/pageview/5564630"
+  "source_url": "https://unipub.uni-graz.at/obvugrscript/content/titleinfo/5564576"
 }
