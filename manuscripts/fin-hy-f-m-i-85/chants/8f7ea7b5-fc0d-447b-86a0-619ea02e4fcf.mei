@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mei meiversion="5.0" xmlns="http://www.music-encoding.org/ns/mei">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Propter veritatem</title>
+      </titleStmt>
+      <pubStmt/>
+      <sourceDesc>
+        <source>
+          <bibl>
+            <title>Propter veritatem</title>
+            <idno type="siglum">FIN-Hy</idno>
+            <idno type="shelfmark">F.m.I.85</idno>
+            <ptr target="https://fragmenta.kansalliskirjasto.fi/viewer/fragmenta.html?item=fd2011-fra0085&amp;handle=10024/365"/>
+            <idno type="cantus-id">g01397a</idno>
+            <note type="genre">Gradual verse</note>
+            <note type="mode">5</note>
+            <note label="manuscript" type="description">Twenty-two leaves of a noted missal, late 13th or early 14th century, probably used in South-West Finland; four-line staves with C, F and B-flat clefs (Cantus Database source 712830).</note>
+            <note label="manuscript" type="title">Noted missal (fragments)</note>
+            <note label="manuscript" type="transcription">Melodies from the Cantus Database (https://cantusdatabase.org/source/712830/), CC BY-NC-SA 4.0; this encoding derives from them and is shared under the same licence.</note>
+          </bibl>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+  </meiHead>
+  <music>
+    <facsimile>
+      <surface lrx="3605" lry="4667" ulx="0" uly="0" xml:id="surface-1">
+        <graphic height="4667px" target="../pages/21v.jpg" width="3605px">
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-2"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-3"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-4"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-5"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-6"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-7"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-8"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-9"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-10"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-11"/>
+          <zone lrx="0" lry="0" points="0,0 0,0 0,0 0,0" ulx="0" uly="0" xml:id="zone-n-0-0-0-0-12"/>
+        </graphic>
+      </surface>
+    </facsimile>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef>
+            <staffGrp>
+              <staffDef lines="4" n="1" notationtype="neume"/>
+            </staffGrp>
+          </scoreDef>
+          <section>
+            <staff>
+              <layer>
+                <pb facs="#surface-1" n="21v"/>
+                <lb facs="#zone-line-1" n="1"/>
+                <clef line="4" shape="C" xml:id="clef-clef0"/>
+                <syllable xml:id="syl-syl0-0">
+                  <syl con="d" wordpos="i">Prop</syl>
+                  <neume facs="#zone-n-0-0-0-0" neumeType="punctum" xml:id="n-0-0-0-0">
+                    <nc oct="3" pname="f"/>
+                  </neume>
+                </syllable>
+                <syllable xml:id="syl-syl0-1">
+                  <syl con="s" wordpos="t">ter</syl>
+                  <neume facs="#zone-n-0-0-0-0-2" neumeType="punctum" xml:id="n-0-0-0-0-2">
+                    <nc oct="3" pname="f"/>
+                  </neume>
+                </syllable>
+                <syllable xml:id="syl-syl0-2">
+                  <syl con="d" wordpos="i">ve</syl>
+                  <neume facs="#zone-n-0-0-0-0-3" neumeType="punctum" xml:id="n-0-0-0-0-3">
+                    <nc oct="3" pname="f"/>
+                  </neume>
+                </syllable>
+                <syllable xml:id="syl-syl0-3">
+                  <syl con="d" wordpos="m">ri</syl>
+                  <neume facs="#zone-n-0-0-0-0-4" neumeType="pes" xml:id="n-0-0-0-0-4">
+                    <nc oct="3" pname="a"/>
+                    <nc oct="4" pname="c"/>
+                  </neume>
+                </syllable>
+                <syllable xml:id="syl-syl0-4">
+                  <syl con="d" wordpos="m">ta</syl>
+                  <neume facs="#zone-n-0-0-0-0-5" neumeType="torculus" xml:id="n-0-0-0-0-5">
+                    <nc oct="4" pname="c"/>
+                    <nc oct="4" pname="d"/>
+                    <nc oct="4" pname="c"/>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0-6" neumeType="porrectus" xml:id="n-0-0-0-0-6">
+                    <nc oct="4" pname="c"/>
+                    <nc oct="3" pname="a"/>
+                    <nc oct="4" pname="c"/>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0-7" neumeType="scandicus" xml:id="n-0-0-0-0-7">
+                    <nc oct="3" pname="f"/>
+                    <nc oct="3" pname="a"/>
+                    <nc oct="4" pname="c"/>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0-8" neumeType="clivis" xml:id="n-0-0-0-0-8">
+                    <nc oct="4" pname="d"/>
+                    <nc oct="4" pname="c"/>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0-9" neumeType="porrectus" xml:id="n-0-0-0-0-9">
+                    <nc oct="4" pname="c"/>
+                    <nc oct="3" pname="a"/>
+                    <nc oct="4" pname="c"/>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0-10" neumeType="pes" xml:id="n-0-0-0-0-10">
+                    <nc oct="3" pname="b"/>
+                    <nc oct="4" pname="c"/>
+                  </neume>
+                  <neume facs="#zone-n-0-0-0-0-11" neumeType="porrectus" xml:id="n-0-0-0-0-11">
+                    <nc oct="4" pname="d"/>
+                    <nc oct="4" pname="c"/>
+                    <nc oct="4" pname="d"/>
+                  </neume>
+                </syllable>
+                <syllable xml:id="syl-syl0-5">
+                  <syl con="s" wordpos="t">tem</syl>
+                  <neume facs="#zone-n-0-0-0-0-12" neumeType="punctum" xml:id="n-0-0-0-0-12">
+                    <nc oct="4" pname="c"/>
+                  </neume>
+                </syllable>
+              </layer>
+            </staff>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
