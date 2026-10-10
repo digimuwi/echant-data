@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "description": "Gradual of the Poor Clares of Mulhouse, 13th–14th century, with additions of the 15th–16th; square notation on four red lines (IRHT, Arca). The gradual stands on ff. 291r–292r, which Corpus Monodicum's images label 0289v, 0290, 0290v. Images: IRHT.",
+    "transcription": "Corpus Monodicum (Akademie der Wissenschaften und der Literatur Mainz / Universität Würzburg), document Mul 2-0289v-9TR, https://stagedata.corpus-monodicum.de/mei/f517be20-550c-4f28-ab92-fa51481bf994/Mul%202-0289v-9TR.xml (respond) and document Mul 2-0290-4TR, https://stagedata.corpus-monodicum.de/mei/351c398d-18d9-4d0e-b3f2-383a37095bfd/Mul%202-0290-4TR.xml (verse), corrected against the facsimile for eChant (see corpus-monodicum-corrected/corrections.md). Pitches read an octave lower than there."
+  },
+  "pages": [
+    {
+      "folio_label": "291r",
+      "image": "291r.jpg",
+      "image_source_url": "https://iiif.irht.cnrs.fr/iiif/VOLUME1/France/Mulhouse/Bibliotheque_municipale/B682246101_MS0002/DEPOT/B682246101_MS0002_0093/1560,0,1496,2032/full/0/default.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "291v",
+      "image": "291v.jpg",
+      "image_source_url": "https://iiif.irht.cnrs.fr/iiif/VOLUME1/France/Mulhouse/Bibliotheque_municipale/B682246101_MS0002/DEPOT/B682246101_MS0002_0094/0,0,1590,2032/full/0/default.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "292r",
+      "image": "292r.jpg",
+      "image_source_url": "https://iiif.irht.cnrs.fr/iiif/VOLUME1/France/Mulhouse/Bibliotheque_municipale/B682246101_MS0002/DEPOT/B682246101_MS0002_0094/1560,0,1496,2032/full/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "MS 2",
+  "siglum": "F-MH",
+  "slug": "f-mh-ms-2",
+  "source_url": "https://arca.irht.cnrs.fr/ark:/63955/md06g158f15n"
+}
