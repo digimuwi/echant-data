@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "description": "Gradual of Saint-Michel de Gaillac, 1050–1100 (BnF catalogue); Aquitanian notation. The gradual for the Octave of Christmas, f. 18v.",
+    "transcription": "Corpus Monodicum (Akademie der Wissenschaften und der Literatur Mainz / Universität Würzburg), document Pa 776-0194-2GS, https://stagedata.corpus-monodicum.de/mei/ec37732f-542f-47e2-864a-7ce8109e2706/Pa%20776-0194-2GS.xml, which transcribes the Graduale Synopticum (Universität Regensburg; database by Xaver Kainzbauer), no. 0194; © Corpus Monodicum. Pitches read an octave lower than there."
+  },
+  "pages": [
+    {
+      "folio_label": "18v",
+      "image": "18v.jpg",
+      "image_source_url": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b84546727/f44/full/max/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "lat. 776",
+  "siglum": "F-Pn",
+  "slug": "f-pn-lat-776",
+  "source_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc62232g"
+}
