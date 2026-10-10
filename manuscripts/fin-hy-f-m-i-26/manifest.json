@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Fragments of a noted missal, 12th century, of unknown origin; preserved as covers of tax accounts from Ylä-Satakunta (Cantus Database source 711225).",
+    "title": "Noted missal (fragments)",
+    "transcription": "Melodies from the Cantus Database (https://cantusdatabase.org/source/711225/), CC BY-NC-SA 4.0; this encoding derives from them and is shared under the same licence."
+  },
+  "pages": [
+    {
+      "folio_label": "24r",
+      "image": "24r.jpg",
+      "image_source_url": "https://fragmenta.kansalliskirjasto.fi/packages/fd2011-fra0026/access_img/img0047-access.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "F.m.I.26",
+  "siglum": "FIN-Hy",
+  "slug": "fin-hy-f-m-i-26",
+  "source_url": "https://fragmenta.kansalliskirjasto.fi/viewer/fragmenta.html?item=fd2011-fra0026&handle=10024/307"
+}
