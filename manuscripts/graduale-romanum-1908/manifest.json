@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "description": "Printed edition, not a manuscript; Commune nec Virginis nec Martyris, pp. [61]–[62].",
+    "title": "Graduale sacrosanctae Romanae Ecclesiae, Vatican edition, Rome 1908",
+    "transcription": "gabc by Andrew Hinkley, GregoBase chant 3817 (CC0); page scans from GregoBase."
+  },
+  "pages": [
+    {
+      "folio_label": "61",
+      "image": "61.jpg",
+      "image_source_url": "https://gregobase.selapa.net/sources/1/636.png",
+      "status": "draft"
+    },
+    {
+      "folio_label": "62",
+      "image": "62.jpg",
+      "image_source_url": "https://gregobase.selapa.net/sources/1/637.png",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "1908 (Editio Vaticana)",
+  "siglum": "GR",
+  "slug": "graduale-romanum-1908",
+  "source_url": "https://gregobase.selapa.net/chant.php?id=3817"
+}
