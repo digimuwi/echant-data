@@ -13,7 +13,9 @@
             <idno type="siglum">CH-SGs</idno>
             <idno type="shelfmark">Cod. Sang. 338</idno>
             <ptr target="https://e-codices.unifr.ch/metadata/iiif/csg-0338/manifest.json"/>
-            <idno type="cantus-id">002216</idno>
+            <idno type="cantus-id">g01397</idno>
+            <note type="genre">Gradual</note>
+            <note type="mode">5</note>
           </bibl>
         </source>
       </sourceDesc>
