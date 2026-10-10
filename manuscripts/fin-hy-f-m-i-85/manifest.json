@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "description": "Twenty-two leaves of a noted missal, late 13th or early 14th century, probably used in South-West Finland; four-line staves with C, F and B-flat clefs (Cantus Database source 712830).",
+    "title": "Noted missal (fragments)",
+    "transcription": "Melodies from the Cantus Database (https://cantusdatabase.org/source/712830/), CC BY-NC-SA 4.0; this encoding derives from them and is shared under the same licence."
+  },
+  "pages": [
+    {
+      "folio_label": "21r",
+      "image": "21r.jpg",
+      "image_source_url": "https://fragmenta.kansalliskirjasto.fi/packages/fd2011-fra0085/access_img/img0041-access.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "21v",
+      "image": "21v.jpg",
+      "image_source_url": "https://fragmenta.kansalliskirjasto.fi/packages/fd2011-fra0085/access_img/img0042-access.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "F.m.I.85",
+  "siglum": "FIN-Hy",
+  "slug": "fin-hy-f-m-i-85",
+  "source_url": "https://fragmenta.kansalliskirjasto.fi/viewer/fragmenta.html?item=fd2011-fra0085&handle=10024/365"
+}
