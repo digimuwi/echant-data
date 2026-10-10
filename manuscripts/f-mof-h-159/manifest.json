@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "description": "Tonary of Saint-Bénigne, Dijon, 10th–11th century; neumes and letter notation. H 159 files this gradual under tetrardus, ff. 98r–98v (Paléographie musicale VIII, table). Images: the black-and-white facsimile in Paléographie musicale VIII (1901–05), plates 189–190; the library's own scans are at https://ged.scdi-montpellier.fr/florabium45/jsp/nodoc.jsp?NODOC=2020_DOC_MONT_MBUM_6",
+    "transcription": "Corpus Monodicum (Akademie der Wissenschaften und der Literatur Mainz / Universität Würzburg), document Mon 159-0194-7GS, https://stagedata.corpus-monodicum.de/mei/f6a886a9-d0d9-46cd-ab9c-131be8cd6f29/Mon%20159-0194-7GS.xml, which transcribes the Graduale Synopticum (Universität Regensburg; database by Xaver Kainzbauer), no. 0194; © Corpus Monodicum. Pitches at the manuscript's level, a fifth above that file, and an octave lower."
+  },
+  "pages": [
+    {
+      "folio_label": "98r",
+      "image": "98r.jpg",
+      "image_source_url": "https://iiif.archive.org/image/iiif/3/palographiemusic08macq%2fpalographiemusic08macq_jp2.zip%2fpalographiemusic08macq_jp2%2fpalographiemusic08macq_0223.jp2/180,320,2520,3270/max/0/default.jpg",
+      "status": "draft"
+    },
+    {
+      "folio_label": "98v",
+      "image": "98v.jpg",
+      "image_source_url": "https://iiif.archive.org/image/iiif/3/palographiemusic08macq%2fpalographiemusic08macq_jp2.zip%2fpalographiemusic08macq_jp2%2fpalographiemusic08macq_0224.jp2/180,320,2520,3270/max/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "H 159",
+  "siglum": "F-MOf",
+  "slug": "f-mof-h-159",
+  "source_url": "https://calames.abes.fr/pub/ms/D01041032"
+}
