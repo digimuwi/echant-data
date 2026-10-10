@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Twelfth-century Premonstratensian gradual associated with Bellelay Abbey; Messine notation on a four-line staff (Cantus Database source 638308).",
+    "title": "Bellelay Gradual",
+    "transcription": "Melodies from the Cantus Database (https://cantusdatabase.org/source/638308/), CC BY-NC-SA 4.0; this encoding derives from them and is shared under the same licence."
+  },
+  "pages": [
+    {
+      "folio_label": "280",
+      "image": "280.jpg",
+      "image_source_url": "https://www.e-codices.unifr.ch/loris/bcj/bcj-0018/bcj-0018_280.jp2/full/full/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Ms. 18",
+  "siglum": "CH-P",
+  "slug": "ch-p-ms-18",
+  "source_url": "https://www.e-codices.unifr.ch/en/list/one/bcj/0018"
+}
