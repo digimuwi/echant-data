@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "description": "Gradual, 12th century, olim Klosterneuburg/Passau (after the source list of the Graduale Synopticum); on ff. 23r–23v neumes on a staff with letter clefs.",
+    "transcription": "MEI by Stefan Morent (received 15 May 2026), first phrase only (Diffusa … tuis)."
+  },
+  "pages": [
+    {
+      "folio_label": "23r",
+      "image": "23r.jpg",
+      "image_source_url": "https://unipub.uni-graz.at/download/webcache/2000/5564630",
+      "status": "draft"
+    },
+    {
+      "folio_label": "23v",
+      "image": "23v.jpg",
+      "image_source_url": "https://unipub.uni-graz.at/download/webcache/2000/5564631",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Ms. 807",
+  "siglum": "A-Gu",
+  "slug": "a-gu-ms-807",
+  "source_url": "https://unipub.uni-graz.at/obvugrscript/content/pageview/5564630"
+}
