@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "description": "Gradual of Benevento, 11th–12th century; Beneventan notation. Image: the black-and-white facsimile in Paléographie musicale XV (1937), plate of ff. 29v–30r.",
+    "transcription": "Corpus Monodicum (Akademie der Wissenschaften und der Literatur Mainz / Universität Würzburg), document Ben 34-0194-1GS, https://stagedata.corpus-monodicum.de/mei/ba32affb-806f-4624-b60e-029c5b336f93/Ben%2034-0194-1GS.xml, which transcribes the Graduale Synopticum (Universität Regensburg; database by Xaver Kainzbauer), no. 0194; © Corpus Monodicum. Pitches read an octave lower than there."
+  },
+  "pages": [
+    {
+      "folio_label": "29v",
+      "image": "29v.jpg",
+      "image_source_url": "https://iiif.archive.org/image/iiif/3/palographiemusic15macq%2fpalographiemusic15macq_jp2.zip%2fpalographiemusic15macq_jp2%2fpalographiemusic15macq_0234.jp2/0,1950,2915,1947/max/90/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "VI.34",
+  "siglum": "I-BV",
+  "slug": "i-bv-vi-34",
+  "source_url": "https://archive.org/details/palographiemusic15macq/page/n233/mode/1up"
+}
