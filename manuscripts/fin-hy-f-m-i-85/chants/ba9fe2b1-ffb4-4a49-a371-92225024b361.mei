@@ -135,7 +135,7 @@
               <layer>
                 <pb facs="#surface-1" n="21r"/>
                 <lb facs="#zone-line-1" n="1"/>
-                <clef line="4" shape="C" xml:id="clef-clef0"/>
+                <clef line="4" shape="C" xml:id="clef-clef3"/>
                 <syllable facs="#zone-syl-2067-3180-2215-3235" xml:id="syl-2067-3180-2215-3235">
                   <syl con="d" wordpos="i">Dif</syl>
                   <neume facs="#zone-n-2170-3130-32-35" neumeType="punctum" xml:id="n-2170-3130-32-35">
@@ -192,7 +192,7 @@
                   </neume>
                 </syllable>
                 <lb facs="#zone-line-2" n="2"/>
-                <clef line="3" shape="C" xml:id="clef-clef4"/>
+                <clef line="3" shape="C" xml:id="clef-clef1"/>
                 <syllable facs="#zone-syl-1740-3385-1795-3440" xml:id="syl-1740-3385-1795-3440">
                   <syl con="s" wordpos="s">in</syl>
                   <neume facs="#zone-n-1760-3335-30-34" neumeType="punctum" xml:id="n-1760-3335-30-34">
@@ -213,10 +213,10 @@
                 <syllable facs="#zone-syl-1895-3385-1955-3440" xml:id="syl-1895-3385-1955-3440">
                   <syl con="d" wordpos="m">bi</syl>
                   <neume facs="#zone-n-1920-3276-105-92" neumeType="bivirga subbipunctis" xml:id="n-1920-3276-105-92">
-                    <nc oct="4" pname="c" tilt="n"/>
-                    <nc con="g" oct="4" pname="c" tilt="n"/>
-                    <nc con="g" oct="3" pname="a"/>
-                    <nc con="g" oct="3" pname="g"/>
+                    <nc oct="4" pname="c" tilt="s"/>
+                    <nc con="g" oct="4" pname="c" tilt="s"/>
+                    <nc oct="3" pname="a" tilt="se"/>
+                    <nc oct="3" pname="g" tilt="se"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1955-3385-2050-3440" xml:id="syl-1955-3385-2050-3440">
@@ -242,9 +242,9 @@
                   <neume facs="#zone-n-2257-3237-96-107" neumeType="pes subtripunctis" xml:id="n-2257-3237-96-107">
                     <nc con="g" oct="4" pname="d"/>
                     <nc oct="4" pname="e"/>
-                    <nc con="g" oct="4" pname="c"/>
-                    <nc con="g" oct="3" pname="b"/>
-                    <nc con="g" oct="3" pname="a"/>
+                    <nc oct="4" pname="c" tilt="se"/>
+                    <nc oct="3" pname="b" tilt="se"/>
+                    <nc oct="3" pname="a" tilt="se"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2410-3385-2465-3440" xml:id="syl-2410-3385-2465-3440">
@@ -258,10 +258,10 @@
                     <nc oct="3" pname="b"/>
                   </neume>
                   <neume facs="#zone-n-2473-3278-94-90" neumeType="bivirga subbipunctis" xml:id="n-2473-3278-94-90">
-                    <nc con="g" oct="4" pname="c" tilt="n"/>
-                    <nc con="g" oct="4" pname="c" tilt="n"/>
-                    <nc con="g" oct="3" pname="b"/>
-                    <nc con="g" oct="3" pname="a"/>
+                    <nc con="g" oct="4" pname="c" tilt="s"/>
+                    <nc con="g" oct="4" pname="c" tilt="s"/>
+                    <nc oct="3" pname="b" tilt="se"/>
+                    <nc oct="3" pname="a" tilt="se"/>
                   </neume>
                   <neume facs="#zone-n-2573-3305-44-61" neumeType="clivis" xml:id="n-2573-3305-44-61">
                     <nc con="g" oct="3" pname="b"/>
@@ -276,7 +276,7 @@
                   </neume>
                 </syllable>
                 <lb facs="#zone-line-3" n="3"/>
-                <clef line="3" shape="C" xml:id="clef-clef3"/>
+                <clef line="3" shape="C" xml:id="clef-clef4"/>
                 <syllable facs="#zone-syl-1720-3600-1790-3655" xml:id="syl-1720-3600-1790-3655">
                   <syl con="d" wordpos="i">te</syl>
                   <neume facs="#zone-n-1760-3464-59-70" neumeType="porrectus" xml:id="n-1760-3464-59-70">
@@ -296,15 +296,15 @@
                 <syllable facs="#zone-syl-1920-3600-1965-3655" xml:id="syl-1920-3600-1965-3655">
                   <syl con="s" wordpos="t">a</syl>
                   <neume facs="#zone-n-1930-3488-110-79" neumeType="bivirga subbipunctis" xml:id="n-1930-3488-110-79">
-                    <nc oct="4" pname="c" tilt="n"/>
-                    <nc con="g" oct="4" pname="c" tilt="n"/>
-                    <nc con="g" oct="3" pname="b"/>
-                    <nc con="g" oct="3" pname="a"/>
+                    <nc oct="4" pname="c" tilt="s"/>
+                    <nc con="g" oct="4" pname="c" tilt="s"/>
+                    <nc oct="3" pname="b" tilt="se"/>
+                    <nc oct="3" pname="a" tilt="se"/>
                   </neume>
                   <neume facs="#zone-n-2033-3504-73-80" neumeType="climacus" xml:id="n-2033-3504-73-80">
-                    <nc con="g" oct="3" pname="b" tilt="n"/>
-                    <nc con="g" oct="3" pname="a"/>
-                    <nc con="g" oct="3" pname="g"/>
+                    <nc con="g" oct="3" pname="b" tilt="s"/>
+                    <nc oct="3" pname="a" tilt="se"/>
+                    <nc oct="3" pname="g" tilt="se"/>
                   </neume>
                   <neume facs="#zone-n-2112-3523-41-57" neumeType="clivis" xml:id="n-2112-3523-41-57">
                     <nc con="g" oct="3" pname="a"/>
@@ -338,7 +338,7 @@
                     <nc oct="3" pname="f"/>
                   </neume>
                 </syllable>
-                <clef line="4" shape="C" xml:id="clef-clef1"/>
+                <clef line="4" shape="C" xml:id="clef-clef2"/>
                 <syllable facs="#zone-syl-2460-3600-2530-3655" xml:id="syl-2460-3600-2530-3655">
                   <syl con="s" wordpos="s">te</syl>
                   <neume facs="#zone-n-2485-3515-35-75" neumeType="pes" xml:id="n-2485-3515-35-75">
@@ -353,9 +353,9 @@
                     <nc oct="3" pname="f"/>
                   </neume>
                   <neume facs="#zone-n-2612-3525-76-83" neumeType="climacus" xml:id="n-2612-3525-76-83">
-                    <nc con="g" oct="3" pname="f" tilt="n"/>
-                    <nc con="g" oct="3" pname="e"/>
-                    <nc con="g" oct="3" pname="d"/>
+                    <nc con="g" oct="3" pname="f" tilt="s"/>
+                    <nc oct="3" pname="e" tilt="se"/>
+                    <nc oct="3" pname="d" tilt="se"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-2670-3600-2760-3655" xml:id="syl-2670-3600-2760-3655">
@@ -366,13 +366,13 @@
                     <nc con="g" oct="3" pname="d"/>
                   </neume>
                   <neume facs="#zone-n-2772-3567-40-60" neumeType="clivis" xml:id="n-2772-3567-40-60">
-                    <nc con="g" oct="3" pname="d" tilt="n"/>
+                    <nc con="g" oct="3" pname="d" tilt="s"/>
                     <nc oct="3" pname="c"/>
                   </neume>
                 </syllable>
                 <pb facs="#surface-2" n="21v"/>
                 <lb facs="#zone-line-4" n="4"/>
-                <clef line="4" shape="C" xml:id="clef-clef2"/>
+                <clef line="4" shape="C" xml:id="clef-clef0"/>
                 <syllable facs="#zone-syl-849-565-894-615" xml:id="syl-849-565-894-615">
                   <syl con="s" wordpos="s">in</syl>
                   <neume facs="#zone-n-835-505-43-24" neumeType="bivirga" xml:id="n-835-505-43-24">
@@ -384,7 +384,7 @@
                     <nc oct="3" pname="f"/>
                   </neume>
                   <neume facs="#zone-n-909-508-33-65" neumeType="clivis" xml:id="n-909-508-33-65">
-                    <nc con="g" oct="3" pname="f" tilt="n"/>
+                    <nc con="g" oct="3" pname="f" tilt="s"/>
                     <nc oct="3" pname="d"/>
                   </neume>
                   <neume facs="#zone-n-929-508-48-26" neumeType="bivirga" xml:id="n-929-508-48-26">
@@ -394,8 +394,8 @@
                   <neume facs="#zone-n-979-454-73-105" neumeType="pes subbipunctis" xml:id="n-979-454-73-105">
                     <nc con="g" oct="3" pname="g"/>
                     <nc oct="3" pname="a"/>
-                    <nc con="g" oct="3" pname="f"/>
-                    <nc con="g" oct="3" pname="e"/>
+                    <nc oct="3" pname="f" tilt="se"/>
+                    <nc oct="3" pname="e" tilt="se"/>
                   </neume>
                   <neume facs="#zone-n-1037-498-28-33" neumeType="punctum" xml:id="n-1037-498-28-33">
                     <nc con="g" oct="3" pname="f"/>
@@ -420,27 +420,27 @@
                 <syllable facs="#zone-syl-1469-565-1546-615" xml:id="syl-1469-565-1546-615">
                   <syl con="d" wordpos="m">ter</syl>
                   <neume facs="#zone-n-1474-474-43-55" neumeType="clivis" xml:id="n-1474-474-43-55">
-                    <nc oct="3" pname="g" tilt="n"/>
+                    <nc oct="3" pname="g" tilt="s"/>
                     <nc oct="3" pname="f"/>
                   </neume>
                   <neume facs="#zone-n-1515-447-88-83" neumeType="pes subbipunctis" xml:id="n-1515-447-88-83">
                     <nc con="g" oct="3" pname="g"/>
                     <nc oct="3" pname="a"/>
-                    <nc con="g" oct="3" pname="g"/>
-                    <nc con="g" oct="3" pname="f"/>
+                    <nc oct="3" pname="g" tilt="se"/>
+                    <nc oct="3" pname="f" tilt="se"/>
                   </neume>
                 </syllable>
                 <syllable facs="#zone-syl-1601-565-1725-615" xml:id="syl-1601-565-1725-615">
                   <syl con="s" wordpos="t">num</syl>
                   <neume facs="#zone-n-1623-449-46-80" neumeType="clivis" xml:id="n-1623-449-46-80">
-                    <nc oct="3" pname="a" tilt="n"/>
+                    <nc oct="3" pname="a" tilt="s"/>
                     <nc oct="3" pname="f"/>
                   </neume>
                   <neume facs="#zone-n-1659-430-79-91" neumeType="pes subbipunctis" xml:id="n-1659-430-79-91">
                     <nc con="g" oct="3" pname="a"/>
                     <nc oct="3" pname="b"/>
-                    <nc con="g" oct="3" pname="g"/>
-                    <nc con="g" oct="3" pname="f"/>
+                    <nc oct="3" pname="g" tilt="se"/>
+                    <nc oct="3" pname="f" tilt="se"/>
                   </neume>
                   <neume facs="#zone-n-1742-448-50-73" neumeType="torculus" xml:id="n-1742-448-50-73">
                     <nc con="g" oct="3" pname="f"/>
