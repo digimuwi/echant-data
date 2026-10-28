@@ -118,7 +118,7 @@
               <layer>
                 <pb facs="#surface-1" n="61"/>
                 <lb facs="#zone-line-1" n="1"/>
-                <clef line="3" shape="C" xml:id="clef-clef1"/>
+                <clef line="3" shape="C" xml:id="clef-clef0"/>
                 <syllable xml:id="syl-syl0-0">
                   <syl con="d" wordpos="i">Pro</syl>
                   <neume facs="#zone-n-0-0-0-0" neumeType="punctum" xml:id="n-0-0-0-0">
@@ -189,7 +189,7 @@
                 </syllable>
                 <pb facs="#surface-2" n="62"/>
                 <lb facs="#zone-line-2" n="2"/>
-                <clef line="3" shape="C" xml:id="clef-clef0"/>
+                <clef line="3" shape="C" xml:id="clef-clef1"/>
                 <syllable xml:id="syl-syl1-0">
                   <syl con="s" wordpos="s">et</syl>
                   <neume facs="#zone-n-0-0-0-0-12" neumeType="punctum" xml:id="n-0-0-0-0-12">
