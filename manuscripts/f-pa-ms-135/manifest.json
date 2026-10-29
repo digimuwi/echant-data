@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Missal of Sarum use, 13th century, England (Paris, Bibliothèque de l'Arsenal); square notation on four red lines. The gradual in the Common of one Virgin Martyr, f. 205r.",
+    "title": "Sarum missal",
+    "transcription": "Read note by note from Gallica's image (view 421) by two independent readers, October 2026, and checked against the encodings already in eChant; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "205r",
+      "image": "205r.jpg",
+      "image_source_url": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b550057271/f421/full/max/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "ms. 135",
+  "siglum": "F-Pa",
+  "slug": "f-pa-ms-135",
+  "source_url": "https://gallica.bnf.fr/ark:/12148/btv1b550057271"
+}
