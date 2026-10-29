@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Gradual of Spiš (Spišská Kapitula, Chapter Library), 1426; Gothic (German) notation on five red lines. The gradual in the Common of several Virgins, ff. 178r–178v (pencil foliation 96r–96v).",
+    "title": "Graduale Scepusiense",
+    "transcription": "Read note by note from the Slovak Early Music Database's photographs (SG_096r, SG_096v) by two independent readers, October 2026, and checked against the encodings already in eChant; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "178r",
+      "image": "178r.jpg",
+      "image_source_url": "https://cantus.sk/sites/default/files/node_gallery/SG_096r.JPG",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Graduale Scepusiense",
+  "siglum": "SK-Sk",
+  "slug": "sk-sk-graduale-scepusiense",
+  "source_url": "https://cantus.sk/source/6778"
+}
