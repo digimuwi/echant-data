@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Gradual and antiphoner, Corbie or Noyon, 10th century; private collection (château du Mont-Renaud, near Noyon). French neumes without a staff, added by a notator later than the text scribe. The gradual of St Agnes, f. 9v. The original is not online: the folio is the facsimile in Paléographie musicale XVI (1955).",
+    "title": "Antiphonaire du Mont-Renaud",
+    "transcription": "Read sign by sign from the Internet Archive scan of Paléographie musicale XVI (item palographiemusic16macq, image 0106, cut to f. 9v and turned upright) by two independent readers, October 2026; the neumes assigned to syllables by aligning them with St Gall 339; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "9v",
+      "image": "9v.jpg",
+      "image_source_url": "https://iiif.archive.org/image/iiif/3/palographiemusic16macq%2Fpalographiemusic16macq_jp2.zip%2Fpalographiemusic16macq_jp2%2Fpalographiemusic16macq_0106.jp2/0,2130,2955,2049/max/90/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Mont-Renaud manuscript (private collection)",
+  "siglum": "Mont-Renaud",
+  "slug": "mont-renaud",
+  "source_url": "https://archive.org/details/palographiemusic16macq/page/n105"
+}
