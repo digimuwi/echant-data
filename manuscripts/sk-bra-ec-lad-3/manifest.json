@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Noted missal of Esztergom use, 14th century (Bratislava, Archív mesta Bratislavy); Hungarian (Esztergom) neumes on four red lines. The gradual at the Circumcision, f. 17v, column b.",
+    "title": "Missale notatum Strigoniense",
+    "transcription": "Read note by note from the Slovak Early Music Database's photograph (cantus.sk image 17049) by two independent readers, October 2026, and checked against the encodings already in eChant; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "17v",
+      "image": "17v.jpg",
+      "image_source_url": "https://cantus.sk/sites/default/files/node_gallery/eclad3-033.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "EC Lad. 3",
+  "siglum": "SK-BRa",
+  "slug": "sk-bra-ec-lad-3",
+  "source_url": "https://cantus.sk/source/16685"
+}
