@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Printed edition, not a manuscript: Pustet's Ratisbon edition of the Medicaea melody of 1614, the Roman chant book until the Vatican edition; Commune pro nec Virgine nec Martyre, pp. [70]–[71].",
+    "title": "Graduale de tempore et de sanctis juxta ritum Sanctae Romanae Ecclesiae cum cantu Pauli V. Pont. Max. jussu reformato, Ratisbon edition (imprint Rome, 1884)",
+    "transcription": "Read note by note from the Internet Archive scans (item gradualedetempor0000cath, leaves n591–n592) by two independent readers, October 2026; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "70",
+      "image": "70.jpg",
+      "image_source_url": "https://archive.org/download/gradualedetempor0000cath/page/n591.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "1884 (Editio Ratisbonensis)",
+  "siglum": "GR",
+  "slug": "graduale-ratisbonense-1884",
+  "source_url": "https://archive.org/details/gradualedetempor0000cath"
+}
