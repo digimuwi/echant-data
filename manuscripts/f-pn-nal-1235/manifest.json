@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Gradual-troper of Nevers, 12th century; French neumes (points liés) on a red F line, a yellow c line and dry-point lines. The gradual for SS. Marius and Martha, f. 31r.",
+    "title": "Gradual-troper of Nevers",
+    "transcription": "Read note by note from Gallica's image (view 73) by two independent readers, October 2026, and checked against the encodings already in eChant; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "31r",
+      "image": "31r.jpg",
+      "image_source_url": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b8432301z/f73/full/max/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "NAL 1235",
+  "siglum": "F-Pn",
+  "slug": "f-pn-nal-1235",
+  "source_url": "https://gallica.bnf.fr/ark:/12148/btv1b8432301z"
+}
