@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Benedictine missal with notated chants for a church of St Ambrose in the province of Ravenna, 11th century. Central Italian neumes without a staff. The gradual of St Agnes, f. 29v.",
+    "title": "Missale",
+    "transcription": "Read sign by sign from the Walters' 300 dpi photograph of f. 29v by two independent readers, October 2026; the zones are on The Digital Walters' JPEG of the same photograph (1067 x 1800 px); see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "29v",
+      "image": "29v.jpg",
+      "image_source_url": "https://www.thedigitalwalters.org/Data/WaltersManuscripts/W11/data/W.11/sap/W11_000062_sap.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Baltimore, Walters Art Museum, W.11",
+  "siglum": "W.11",
+  "slug": "walters-w11",
+  "source_url": "https://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W11/"
+}
