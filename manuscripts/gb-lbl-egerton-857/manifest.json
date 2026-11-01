@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Gradual, northern France (perhaps Noyon), 11th century; Lorraine (Messine) neumes without a staff. The gradual of St Agnes, f. 9v, on the last three lines of the page.",
+    "title": "Graduale",
+    "transcription": "Read sign by sign from the British Library's image of f. 9v, cut to the strip of the folio that holds the respond (IIIF region 0,4300,4874,1200), by two independent readers, October 2026; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "9v",
+      "image": "9v.jpg",
+      "image_source_url": "https://bl.digirati.io/images/ark:/81055/vdc_100056033063.0x000019/0,4300,4874,1200/full/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Egerton MS 857",
+  "siglum": "GB-Lbl",
+  "slug": "gb-lbl-egerton-857",
+  "source_url": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100056033063.0x000001"
+}
