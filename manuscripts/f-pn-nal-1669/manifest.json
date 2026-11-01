@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Gradual of Gubbio, 12th century; central Italian neumes on a red F line and a yellow c line. The gradual Diffusa est, ff. 3r-3v (the last system of f. 3r and the first two of f. 3v).",
+    "title": "Gradual of Gubbio",
+    "transcription": "Read note by note from Gallica's images (views 9 and 10) by two independent readers, October 2026; the syllables they read differently settled from the page by a third, and checked against the encodings already in eChant; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "3r",
+      "image": "3r.jpg",
+      "image_source_url": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b525046487/f9/full/max/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "NAL 1669",
+  "siglum": "F-Pn",
+  "slug": "f-pn-nal-1669",
+  "source_url": "https://gallica.bnf.fr/ark:/12148/btv1b525046487"
+}
