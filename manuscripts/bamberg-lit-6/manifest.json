@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Gradual from Regensburg (St Emmeram), about 1000; German neumes of the St Gall type without a staff, with significative letters and episemas. The gradual of the mass for 1 January, f. 10v.",
+    "title": "Graduale",
+    "transcription": "Read sign by sign from the Munich Digitization Center's image of f. 10v (2600 px wide), by two independent readers, October and November 2026; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "10v",
+      "image": "10v.jpg",
+      "image_source_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00140776_00024/full/2600,/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Msc. Lit. 6",
+  "siglum": "D-BAs",
+  "slug": "bamberg-lit-6",
+  "source_url": "https://www.digitale-sammlungen.de/view/bsb00140776?page=24"
+}
