@@ -10,6 +10,12 @@
       "image": "3r.jpg",
       "image_source_url": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b525046487/f9/full/max/0/default.jpg",
       "status": "draft"
+    },
+    {
+      "folio_label": "3v",
+      "image": "3v.jpg",
+      "image_source_url": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b525046487/f10/full/max/0/default.jpg",
+      "status": "draft"
     }
   ],
   "shelfmark": "NAL 1669",
