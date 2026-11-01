@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Missal with notated chants, central Italy (Abruzzi), late 10th or 11th century. Central Italian neumes without a staff. The gradual of the octave of Christmas (1 January), f. 4r, left column.",
+    "title": "Missale",
+    "transcription": "Read sign by sign from the Vatican Library's photograph of f. 4r by two independent readers, October 2026; the neumes written on into the margin given to their syllables from the page and the other witnesses; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "4r",
+      "image": "4r.jpg",
+      "image_source_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.4770/Vat.lat.4770_0011_fa_0004r.jp2/full/full/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 4770",
+  "siglum": "Vat. lat. 4770",
+  "slug": "vat-lat-4770",
+  "source_url": "https://digi.vatlib.it/view/MSS_Vat.lat.4770"
+}
