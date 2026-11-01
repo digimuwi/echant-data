@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "description": "Old Roman gradual of the Lateran basilica, Rome, 12th century: the Roman chant dialect, not the Gregorian melody. Central Italian neumes (nota romana) on a red F line with letter clefs. The gradual Diffusa est, f. 33v.",
+    "title": "Graduale (Old Roman)",
+    "transcription": "Read note by note from the Vatican Library's photograph of f. 33v by two independent readers, October 2026; the syllables they read differently settled from the page by a third, who removed the show-through of f. 33r; see research/diffusa-est/staff-readings/README.md."
+  },
+  "pages": [
+    {
+      "folio_label": "33v",
+      "image": "33v.jpg",
+      "image_source_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.5319/Vat.lat.5319_0074_fa_0033v.jp2/full/full/0/default.jpg",
+      "status": "draft"
+    }
+  ],
+  "shelfmark": "Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 5319",
+  "siglum": "Vat. lat. 5319",
+  "slug": "vat-lat-5319",
+  "source_url": "https://digi.vatlib.it/view/MSS_Vat.lat.5319"
+}
